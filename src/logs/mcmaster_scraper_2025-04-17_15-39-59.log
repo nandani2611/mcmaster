@@ -1,0 +1,26 @@
+2025-04-17 15:39:59,783 - INFO - ====== WebDriver manager ======
+2025-04-17 15:39:59,852 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-17 15:40:00,841 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-17 15:40:01,761 - INFO - Driver [/home/nandinidalsaniya/.wdm/drivers/chromedriver/linux64/135.0.7049.95/chromedriver-linux64/chromedriver] found in cache
+2025-04-17 15:40:21,940 - INFO - patching driver executable /home/nandinidalsaniya/.local/share/undetected_chromedriver/undetected_chromedriver
+2025-04-17 15:40:34,013 - INFO - Found 27 categories
+2025-04-17 15:40:34,013 - INFO - Current skip list has 1 items
+2025-04-17 15:40:34,048 - INFO -  Processing category : Flow & Level Control
+2025-04-17 15:40:34,081 - INFO -   Processing sub category 1: Flow
+2025-04-17 15:40:34,103 - INFO -    Processing sub category 2: Pumps
+2025-04-17 15:40:34,122 - INFO -    Processing item: Pumps (https://www.mcmaster.com/products/flow-pumps/)
+2025-04-17 15:40:40,390 - INFO -       [Subcategory index page detected]
+2025-04-17 15:40:40,418 - INFO - Found 42 subcategory items to process
+2025-04-17 15:40:40,511 - INFO -     Processing item 1/42
+2025-04-17 15:40:40,512 - INFO -   Sub Category 3: Diaphragm Pumps
+2025-04-17 15:40:40,512 - INFO -   Products: 45 products
+2025-04-17 15:40:40,512 - INFO -   Opening: https://www.mcmaster.com/products/flow-pumps/diaphragm-pumps-2~/
+2025-04-17 15:40:40,556 - INFO - --- Switched to new tab 
+2025-04-17 15:40:47,079 - INFO - Updated skip list saved with 2 items
+2025-04-17 15:40:47,079 - INFO -   Added 'Diaphragm Pumps' to skip list
+2025-04-17 15:40:48,256 - INFO -     Processing item 2/42
+2025-04-17 15:40:48,256 - INFO -   Sub Category 3: Gear Pumps
+2025-04-17 15:40:48,256 - INFO -   Products: 41 products
+2025-04-17 15:40:48,256 - INFO -   Opening: https://www.mcmaster.com/products/flow-pumps/gear-pumps-2~/
+2025-04-17 15:40:48,318 - INFO - --- Switched to new tab 
+2025-04-17 15:40:51,182 - INFO - Driver closed successfully

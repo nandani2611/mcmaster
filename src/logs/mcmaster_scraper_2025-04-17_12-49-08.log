@@ -1,0 +1,114 @@
+2025-04-17 12:49:08,088 - INFO - ====== WebDriver manager ======
+2025-04-17 12:49:08,161 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-17 12:49:08,313 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-17 12:49:08,455 - INFO - Driver [/home/nandinidalsaniya/.wdm/drivers/chromedriver/linux64/135.0.7049.95/chromedriver-linux64/chromedriver] found in cache
+2025-04-17 12:49:10,000 - INFO - patching driver executable /home/nandinidalsaniya/.local/share/undetected_chromedriver/undetected_chromedriver
+2025-04-17 12:49:22,805 - INFO - Found 27 categories
+2025-04-17 12:49:22,805 - INFO - Current skip list has 7 items
+2025-04-17 12:49:22,840 - INFO -  Processing category : Flow & Level Control
+2025-04-17 12:49:22,878 - INFO -   Processing sub category 1: Flow
+2025-04-17 12:49:22,907 - INFO -    Processing sub category 2: Pumps
+2025-04-17 12:49:22,925 - INFO -    Processing item: Pumps (https://www.mcmaster.com/products/flow-pumps/)
+2025-04-17 12:50:04,625 - WARNING -    [Unhandeled page encountered]
+2025-04-17 12:50:04,626 - INFO - Updated skip list saved with 8 items
+2025-04-17 12:50:04,626 - INFO -     Added 'Flow & Level Control/Pumps' to skip list
+2025-04-17 12:50:05,699 - INFO -    Processing sub category 2: Valves
+2025-04-17 12:50:05,713 - INFO -    Processing item: Valves (https://www.mcmaster.com/products/flow-valves/)
+2025-04-17 12:50:13,889 - INFO -       [Subcategory index page detected]
+2025-04-17 12:50:13,917 - INFO - Found 50 subcategory items to process
+2025-04-17 12:50:14,014 - INFO -     Processing item 1/50
+2025-04-17 12:50:14,014 - INFO -   Title: On-Off Valves
+2025-04-17 12:50:14,014 - INFO -   Products: 3,664 products
+2025-04-17 12:50:14,014 - INFO -   Opening: https://www.mcmaster.com/products/flow-valves/on-off-valves-1~/
+2025-04-17 12:50:20,367 - INFO - Updated skip list saved with 9 items
+2025-04-17 12:50:20,367 - INFO -   Added 'On-Off Valves' to skip list
+2025-04-17 12:50:21,556 - INFO -     Processing item 2/50
+2025-04-17 12:50:21,556 - INFO -   Title: Flow-Adjustment Valves
+2025-04-17 12:50:21,556 - INFO -   Products: 768 products
+2025-04-17 12:50:21,556 - INFO -   Opening: https://www.mcmaster.com/products/flow-valves/flow-adjustment-valves-2~/
+2025-04-17 12:50:40,990 - INFO -   [Types index page detected]
+2025-04-17 12:50:41,105 - INFO - Found 14 type groups to process
+2025-04-17 12:50:41,136 - INFO - Processing group 1/14: Flow-Adjustment Valves
+2025-04-17 12:50:41,136 - INFO -   Contains 17 products
+2025-04-17 12:50:41,206 - INFO - 
+  Product 1/17: Threaded Flow-Adjustment Valves
+2025-04-17 12:50:41,206 - INFO -     Link: https://www.mcmaster.com/products/flow-valves/flow-adjustment-valves-2~/threaded-flow-adjustment-valves-10/
+2025-04-17 12:50:41,206 - INFO -     Image: https://www.mcmaster.com/mvC/Contents/gfx/ImageCache/460/4600k15-@100p_637085392955815375.png?ver=ImageNotFound
+2025-04-17 12:50:41,206 - INFO -     Description: Valves are for use with water, oil, air, inert gas...
+2025-04-17 12:50:46,337 - INFO - Found 2 sections to process
+2025-04-17 12:50:47,383 - INFO - Processing product: Threaded Flow-Adjustment Valves
+2025-04-17 12:50:47,383 - INFO - Found 6 tables to extract
+2025-04-17 12:50:49,300 - INFO -   Extracted table 1/6
+2025-04-17 12:50:51,052 - INFO -   Extracted table 2/6
+2025-04-17 12:50:51,959 - INFO -   Extracted table 3/6
+2025-04-17 12:50:53,783 - INFO -   Extracted table 4/6
+2025-04-17 12:50:54,771 - INFO -   Extracted table 5/6
+2025-04-17 12:50:55,974 - INFO -   Extracted table 6/6
+2025-04-17 12:50:55,975 - INFO - Saving product data to database...
+2025-04-17 12:50:55,976 - INFO - Successfully saved: Threaded Flow-Adjustment Valves
+2025-04-17 12:50:55,976 - INFO - Updated skip list saved with 10 items
+2025-04-17 12:50:55,976 - INFO - Added 'Threaded Flow-Adjustment Valves' to skip list
+2025-04-17 12:50:57,130 - INFO - 
+  Product 2/17: Low-Pressure Threaded
+Flow-Adjustment Valves
+2025-04-17 12:50:57,130 - INFO -     Link: https://www.mcmaster.com/products/flow-valves/flow-adjustment-valves-2~/low-pressure-threaded-flow-adjustment-valves/
+2025-04-17 12:50:57,130 - INFO -     Image: https://www.mcmaster.com/mvC/Contents/gfx/ImageCache/469/4695k59p1-c03a-digital@100p_637044373563872065.png?ver=ImageNotFound
+2025-04-17 12:50:57,130 - INFO -     Description: Use these valves for boiler maintenance and other ...
+2025-04-17 12:51:03,238 - INFO - Found 2 sections to process
+2025-04-17 12:51:03,559 - INFO - Processing product: Low-Pressure Threaded Flow-Adjustment Valves
+2025-04-17 12:51:03,559 - INFO - Found 1 tables to extract
+2025-04-17 12:51:05,084 - INFO -   Extracted table 1/1
+2025-04-17 12:51:05,084 - INFO - Saving product data to database...
+2025-04-17 12:51:05,085 - INFO - Successfully saved: Low-Pressure Threaded Flow-Adjustment Valves
+2025-04-17 12:51:05,085 - INFO - Updated skip list saved with 11 items
+2025-04-17 12:51:05,085 - INFO - Added 'Low-Pressure Threaded Flow-Adjustment Valves' to skip list
+2025-04-17 12:51:06,252 - INFO - 
+  Product 3/17: Plastic Threaded
+Flow-Adjustment Valves
+2025-04-17 12:51:06,252 - INFO -     Link: https://www.mcmaster.com/products/flow-valves/flow-adjustment-valves-2~/plastic-threaded-flow-adjustment-valves-11/
+2025-04-17 12:51:06,252 - INFO -     Image: https://www.mcmaster.com/mvC/Contents/gfx/ImageCache/475/47535k23p1-c03a-digital@100p_637044278856706240.png?ver=ImageNotFound
+2025-04-17 12:51:06,252 - INFO -     Description: Plastic provides a lightweight and corrosion-resis...
+2025-04-17 12:51:10,780 - INFO - Found 2 sections to process
+2025-04-17 12:51:10,929 - INFO - Processing product: Plastic Threaded Flow-Adjustment Valves
+2025-04-17 12:51:10,929 - INFO - Found 1 tables to extract
+2025-04-17 12:51:11,474 - INFO -   Extracted table 1/1
+2025-04-17 12:51:11,474 - INFO - Saving product data to database...
+2025-04-17 12:51:11,475 - INFO - Successfully saved: Plastic Threaded Flow-Adjustment Valves
+2025-04-17 12:51:11,475 - INFO - Updated skip list saved with 12 items
+2025-04-17 12:51:11,475 - INFO - Added 'Plastic Threaded Flow-Adjustment Valves' to skip list
+2025-04-17 12:51:12,628 - INFO - 
+  Product 4/17: Easy-to-Install Plastic Threaded
+Flow-Adjustment Valves
+2025-04-17 12:51:12,629 - INFO -     Link: https://www.mcmaster.com/products/flow-valves/flow-adjustment-valves-2~/easy-to-install-plastic-threaded-flow-adjustment-valves/
+2025-04-17 12:51:12,629 - INFO -     Image: https://www.mcmaster.com/mvC/Contents/gfx/ImageCache/449/4490k5-@100p_kdjyu_1734011000.png?ver=ImageNotFound
+2025-04-17 12:51:12,629 - INFO -     Description: A threaded union on these valves makes them easy t...
+2025-04-17 12:51:17,568 - INFO - Found 2 sections to process
+2025-04-17 12:51:17,767 - INFO - Processing product: Easy-to-Install Plastic Threaded Flow-Adjustment Valves
+2025-04-17 12:51:17,767 - INFO - Found 1 tables to extract
+2025-04-17 12:51:18,055 - INFO -   Extracted table 1/1
+2025-04-17 12:51:18,055 - INFO - Saving product data to database...
+2025-04-17 12:51:18,056 - INFO - Successfully saved: Easy-to-Install Plastic Threaded Flow-Adjustment Valves
+2025-04-17 12:51:18,056 - INFO - Updated skip list saved with 13 items
+2025-04-17 12:51:18,056 - INFO - Added 'Easy-to-Install Plastic Threaded Flow-Adjustment Valves' to skip list
+2025-04-17 12:51:19,279 - INFO - 
+  Product 5/17: Threaded Flow-Adjustment
+Valves with Garden Hose Outlet
+2025-04-17 12:51:19,279 - INFO -     Link: https://www.mcmaster.com/products/flow-valves/flow-adjustment-valves-2~/threaded-flow-adjustment-valves-with-garden-hose-outlet-12/
+2025-04-17 12:51:19,279 - INFO -     Image: https://www.mcmaster.com/mvC/Contents/gfx/ImageCache/479/4792k33p2-c03a-digital@100p_637043390314305370.png?ver=ImageNotFound
+2025-04-17 12:51:19,279 - INFO -     Description: Attach garden hose to the valve outlet. Use with w...
+2025-04-17 12:51:24,011 - INFO - Found 2 sections to process
+2025-04-17 12:51:24,247 - INFO - Processing product: Threaded Flow-Adjustment Valves with Garden Hose Outlet
+2025-04-17 12:51:24,247 - INFO - Found 2 tables to extract
+2025-04-17 12:51:24,813 - INFO -   Extracted table 1/2
+2025-04-17 12:51:25,005 - INFO -   Extracted table 2/2
+2025-04-17 12:51:25,005 - INFO - Saving product data to database...
+2025-04-17 12:51:25,006 - INFO - Successfully saved: Threaded Flow-Adjustment Valves with Garden Hose Outlet
+2025-04-17 12:51:25,006 - INFO - Updated skip list saved with 14 items
+2025-04-17 12:51:25,006 - INFO - Added 'Threaded Flow-Adjustment Valves with Garden Hose Outlet' to skip list
+2025-04-17 12:51:26,167 - INFO - 
+  Product 6/17: Plastic Threaded Flow-Adjustment
+Valves with Garden Hose Outlet
+2025-04-17 12:51:26,167 - INFO -     Link: https://www.mcmaster.com/products/flow-valves/flow-adjustment-valves-2~/plastic-threaded-flow-adjustment-valves-with-garden-hose-outlet/
+2025-04-17 12:51:26,167 - INFO -     Image: https://www.mcmaster.com/mvC/Contents/gfx/ImageCache/495/4950k59p1-c03a-digital@100p_637043761734768585.png?ver=ImageNotFound
+2025-04-17 12:51:26,167 - INFO -     Description: For lightweight and corrosion-resistant alternativ...
+2025-04-17 12:51:29,111 - INFO - Driver closed successfully

@@ -1,0 +1,61 @@
+2025-04-18 10:24:28,638 - INFO - ====== WebDriver manager ======
+2025-04-18 10:24:28,720 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-18 10:24:29,164 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-18 10:24:29,340 - INFO - Driver [/home/nandinidalsaniya/.wdm/drivers/chromedriver/linux64/135.0.7049.95/chromedriver-linux64/chromedriver] found in cache
+2025-04-18 10:24:31,394 - INFO - patching driver executable /home/nandinidalsaniya/.local/share/undetected_chromedriver/undetected_chromedriver
+2025-04-18 10:24:39,366 - INFO - Found 27 categories
+2025-04-18 10:24:39,366 - INFO - Current skip list has 4 items
+2025-04-18 10:24:39,419 - INFO -  Processing category : Raw Materials
+2025-04-18 10:24:39,466 - INFO -   Processing sub category 1: 
+2025-04-18 10:24:39,504 - INFO -    Processing sub category 2: Metals
+2025-04-18 10:24:39,536 - INFO -    Processing item: Metals (https://www.mcmaster.com/products/metals/)
+2025-04-18 10:24:46,147 - INFO -       [Subcategory index page detected]
+2025-04-18 10:24:46,184 - INFO - Found 65 subcategory items to process
+2025-04-18 10:24:46,299 - INFO -     Processing item 1/65
+2025-04-18 10:24:46,299 - INFO -   Sub Category 3: Steel
+2025-04-18 10:24:46,299 - INFO -   Products: 7,048 products
+2025-04-18 10:24:46,299 - INFO -   Opening: https://www.mcmaster.com/products/metals/steel-1~/
+2025-04-18 10:24:46,354 - INFO - --- Switched to new tab 
+2025-04-18 10:24:53,028 - INFO -   [Product page detected]
+2025-04-18 10:24:55,091 - INFO - Found 21 sections to process
+2025-04-18 10:25:05,377 - WARNING - No tables found for product: About Carbon Steel, Alloy Steel, Spring Steel, and Cast Iron
+2025-04-18 10:25:05,377 - INFO - Saving product data to database...
+2025-04-18 10:25:05,379 - INFO - Successfully saved: About Carbon Steel, Alloy Steel, Spring Steel, and Cast Iron
+2025-04-18 10:25:05,379 - INFO - Updated skip list saved with 5 items
+2025-04-18 10:25:05,379 - INFO - Added 'About Carbon Steel, Alloy Steel, Spring Steel, and Cast Iron' to skip list
+2025-04-18 10:25:16,236 - WARNING - No tables found for product: Multipurpose Low-Carbon Steel
+2025-04-18 10:25:16,236 - INFO - Saving product data to database...
+2025-04-18 10:25:16,237 - INFO - Successfully saved: Multipurpose Low-Carbon Steel
+2025-04-18 10:25:16,237 - INFO - Updated skip list saved with 6 items
+2025-04-18 10:25:16,238 - INFO - Added 'Multipurpose Low-Carbon Steel' to skip list
+2025-04-18 10:25:26,668 - WARNING - No tables found for product: Easy-to-Machine Carbon Steel
+2025-04-18 10:25:26,668 - INFO - Saving product data to database...
+2025-04-18 10:25:26,669 - INFO - Successfully saved: Easy-to-Machine Carbon Steel
+2025-04-18 10:25:26,670 - INFO - Updated skip list saved with 7 items
+2025-04-18 10:25:26,670 - INFO - Added 'Easy-to-Machine Carbon Steel' to skip list
+2025-04-18 10:25:37,073 - WARNING - No tables found for product: High-Strength Carbon Steel
+2025-04-18 10:25:37,074 - INFO - Saving product data to database...
+2025-04-18 10:25:37,075 - INFO - Successfully saved: High-Strength Carbon Steel
+2025-04-18 10:25:37,075 - INFO - Updated skip list saved with 8 items
+2025-04-18 10:25:37,075 - INFO - Added 'High-Strength Carbon Steel' to skip list
+2025-04-18 10:25:47,443 - WARNING - No tables found for product: Ultra-Strength Carbon Steel
+2025-04-18 10:25:47,443 - INFO - Saving product data to database...
+2025-04-18 10:25:47,444 - INFO - Successfully saved: Ultra-Strength Carbon Steel
+2025-04-18 10:25:47,445 - INFO - Updated skip list saved with 9 items
+2025-04-18 10:25:47,445 - INFO - Added 'Ultra-Strength Carbon Steel' to skip list
+2025-04-18 10:25:57,744 - WARNING - No tables found for product: Wear-Resistant AR400 Carbon Steel
+2025-04-18 10:25:57,744 - INFO - Saving product data to database...
+2025-04-18 10:25:57,746 - INFO - Successfully saved: Wear-Resistant AR400 Carbon Steel
+2025-04-18 10:25:57,746 - INFO - Updated skip list saved with 10 items
+2025-04-18 10:25:57,746 - INFO - Added 'Wear-Resistant AR400 Carbon Steel' to skip list
+2025-04-18 10:26:08,186 - WARNING - No tables found for product: Ultra-Wear-Resistant AR500 Carbon Steel
+2025-04-18 10:26:08,186 - INFO - Saving product data to database...
+2025-04-18 10:26:08,187 - INFO - Successfully saved: Ultra-Wear-Resistant AR500 Carbon Steel
+2025-04-18 10:26:08,188 - INFO - Updated skip list saved with 11 items
+2025-04-18 10:26:08,188 - INFO - Added 'Ultra-Wear-Resistant AR500 Carbon Steel' to skip list
+2025-04-18 10:26:18,508 - WARNING - No tables found for product: Impact-Resistant A516 Carbon Steel
+2025-04-18 10:26:18,508 - INFO - Saving product data to database...
+2025-04-18 10:26:18,509 - INFO - Successfully saved: Impact-Resistant A516 Carbon Steel
+2025-04-18 10:26:18,509 - INFO - Updated skip list saved with 12 items
+2025-04-18 10:26:18,509 - INFO - Added 'Impact-Resistant A516 Carbon Steel' to skip list
+2025-04-18 10:26:20,514 - INFO - Driver closed successfully

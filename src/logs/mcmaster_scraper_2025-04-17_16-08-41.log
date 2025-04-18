@@ -1,0 +1,1032 @@
+2025-04-17 16:08:41,106 - INFO - ====== WebDriver manager ======
+2025-04-17 16:08:41,176 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-17 16:08:41,347 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-17 16:08:41,499 - INFO - Driver [/home/nandinidalsaniya/.wdm/drivers/chromedriver/linux64/135.0.7049.95/chromedriver-linux64/chromedriver] found in cache
+2025-04-17 16:08:43,519 - INFO - patching driver executable /home/nandinidalsaniya/.local/share/undetected_chromedriver/undetected_chromedriver
+2025-04-17 16:08:57,089 - INFO - Found 27 categories
+2025-04-17 16:08:57,089 - INFO - Current skip list has 1 items
+2025-04-17 16:08:57,126 - INFO -  Processing category : Flow & Level Control
+2025-04-17 16:08:57,160 - INFO -   Processing sub category 1: Flow
+2025-04-17 16:08:57,197 - INFO -    Processing sub category 2: Pumps
+2025-04-17 16:08:57,216 - INFO -    Processing item: Pumps (https://www.mcmaster.com/products/flow-pumps/)
+2025-04-17 16:09:03,324 - INFO -       [Subcategory index page detected]
+2025-04-17 16:09:03,357 - INFO - Found 42 subcategory items to process
+2025-04-17 16:09:03,453 - INFO -     Processing item 1/42
+2025-04-17 16:09:03,453 - INFO -   Sub Category 3: Diaphragm Pumps
+2025-04-17 16:09:03,453 - INFO -   Products: 45 products
+2025-04-17 16:09:03,453 - INFO -   Opening: https://www.mcmaster.com/products/flow-pumps/diaphragm-pumps-2~/
+2025-04-17 16:09:03,498 - INFO - --- Switched to new tab 
+2025-04-17 16:09:07,639 - INFO -       [Contains Table page ]
+2025-04-17 16:09:09,690 - INFO - Found 4 sections to process
+2025-04-17 16:09:10,927 - INFO - Processing product: Continuous-Duty Any-Direction Constant-Flow-Rate Pumps for Water and Coolants
+2025-04-17 16:09:10,927 - INFO - Found 11 tables to extract
+2025-04-17 16:09:11,412 - INFO -   Extracted table 1/11
+2025-04-17 16:09:13,879 - INFO -   Extracted table 2/11
+2025-04-17 16:09:16,014 - INFO -   Extracted table 3/11
+2025-04-17 16:09:16,820 - INFO -   Extracted table 4/11
+2025-04-17 16:09:17,521 - INFO -   Extracted table 5/11
+2025-04-17 16:09:17,793 - INFO -   Extracted table 6/11
+2025-04-17 16:09:18,766 - INFO -   Extracted table 7/11
+2025-04-17 16:09:19,996 - INFO -   Extracted table 8/11
+2025-04-17 16:09:20,105 - INFO -   Extracted table 9/11
+2025-04-17 16:09:20,957 - INFO -   Extracted table 10/11
+2025-04-17 16:09:21,696 - INFO -   Extracted table 11/11
+2025-04-17 16:09:21,696 - INFO - Saving product data to database...
+2025-04-17 16:09:21,698 - INFO - Successfully saved: Continuous-Duty Any-Direction Constant-Flow-Rate Pumps for Water and Coolants
+2025-04-17 16:09:21,698 - INFO - Updated skip list saved with 2 items
+2025-04-17 16:09:21,698 - INFO - Added 'Continuous-Duty Any-Direction Constant-Flow-Rate Pumps for Water and Coolants' to skip list
+2025-04-17 16:09:21,704 - INFO - Updated skip list saved with 3 items
+2025-04-17 16:09:21,704 - INFO -   Added 'Diaphragm Pumps' to skip list
+2025-04-17 16:09:22,902 - INFO -     Processing item 2/42
+2025-04-17 16:09:22,902 - INFO -   Sub Category 3: Gear Pumps
+2025-04-17 16:09:22,902 - INFO -   Products: 41 products
+2025-04-17 16:09:22,902 - INFO -   Opening: https://www.mcmaster.com/products/flow-pumps/gear-pumps-2~/
+2025-04-17 16:09:22,965 - INFO - --- Switched to new tab 
+2025-04-17 16:09:27,032 - INFO -       [Contains Table page ]
+2025-04-17 16:09:29,087 - INFO - Found 4 sections to process
+2025-04-17 16:09:30,633 - INFO - Processing product: Constant-Flow-Rate Pumps for Water
+2025-04-17 16:09:30,633 - INFO - Found 11 tables to extract
+2025-04-17 16:09:31,684 - INFO -   Extracted table 1/11
+2025-04-17 16:09:33,061 - INFO -   Extracted table 2/11
+2025-04-17 16:09:33,861 - INFO -   Extracted table 3/11
+2025-04-17 16:09:34,696 - INFO -   Extracted table 4/11
+2025-04-17 16:09:35,278 - INFO -   Extracted table 5/11
+2025-04-17 16:09:37,670 - INFO -   Extracted table 6/11
+2025-04-17 16:09:38,390 - INFO -   Extracted table 7/11
+2025-04-17 16:09:39,463 - INFO -   Extracted table 8/11
+2025-04-17 16:09:40,893 - INFO -   Extracted table 9/11
+2025-04-17 16:09:41,632 - INFO -   Extracted table 10/11
+2025-04-17 16:09:42,535 - INFO -   Extracted table 11/11
+2025-04-17 16:09:42,535 - INFO - Saving product data to database...
+2025-04-17 16:09:42,536 - INFO - Successfully saved: Constant-Flow-Rate Pumps for Water
+2025-04-17 16:09:42,536 - INFO - Updated skip list saved with 4 items
+2025-04-17 16:09:42,536 - INFO - Added 'Constant-Flow-Rate Pumps for Water' to skip list
+2025-04-17 16:09:42,542 - INFO - Updated skip list saved with 5 items
+2025-04-17 16:09:42,542 - INFO -   Added 'Gear Pumps' to skip list
+2025-04-17 16:09:43,750 - INFO -     Processing item 3/42
+2025-04-17 16:09:43,751 - INFO -   Sub Category 3: Drum Pumps
+2025-04-17 16:09:43,751 - INFO -   Products: 156 products
+2025-04-17 16:09:43,751 - INFO -   Opening: https://www.mcmaster.com/products/flow-pumps/drum-pumps-2~/
+2025-04-17 16:09:43,815 - INFO - --- Switched to new tab 
+2025-04-17 16:09:52,333 - INFO -   [Types index page detected]
+2025-04-17 16:09:52,382 - INFO - Found 5 type groups to process
+2025-04-17 16:09:52,417 - INFO - Processing group 1/5: Manual-Operated Drum Pumps
+2025-04-17 16:09:52,417 - INFO -   Contains 22 products
+2025-04-17 16:09:52,448 - INFO - --- Product title : Drum Pumps for Water and Chemicals ---
+2025-04-17 16:09:52,491 - INFO - 
+  Product 1/22: Drum Pumps for Water and Chemicals
+2025-04-17 16:09:52,492 - INFO -     Link: https://www.mcmaster.com/products/flow-pumps/drum-pumps-2~/drum-pumps-for-water-and-chemicals-9/
+2025-04-17 16:09:52,492 - INFO -     Image: https://www.mcmaster.com/mvC/Contents/gfx/ImageCache/257/2578k15p1-@100p_637212521862654856.png?ver=ImageNotFound
+2025-04-17 16:09:52,492 - INFO -     Description: Push the plunger to pump water, cleaners, and chem...
+2025-04-17 16:09:57,253 - INFO - Found 2 sections to process
+2025-04-17 16:09:57,492 - INFO - Processing product: Drum Pumps for Water and Chemicals
+2025-04-17 16:09:57,492 - INFO - Found 8 tables to extract
+2025-04-17 16:09:57,978 - INFO -   Extracted table 1/8
+2025-04-17 16:09:58,806 - INFO -   Extracted table 2/8
+2025-04-17 16:09:59,139 - INFO -   Extracted table 3/8
+2025-04-17 16:09:59,453 - INFO -   Extracted table 4/8
+2025-04-17 16:10:00,188 - INFO -   Extracted table 5/8
+2025-04-17 16:10:00,740 - INFO -   Extracted table 6/8
+2025-04-17 16:10:03,106 - INFO -   Extracted table 7/8
+2025-04-17 16:10:03,575 - INFO -   Extracted table 8/8
+2025-04-17 16:10:03,575 - INFO - Saving product data to database...
+2025-04-17 16:10:03,576 - INFO - Successfully saved: Drum Pumps for Water and Chemicals
+2025-04-17 16:10:03,576 - INFO - Updated skip list saved with 6 items
+2025-04-17 16:10:03,576 - INFO - Added 'Drum Pumps for Water and Chemicals' to skip list
+2025-04-17 16:10:04,723 - INFO - --- Product title : Selectable-Flow-Rate Easy-Stroke
+Drum Pumps for Water and Chemicals ---
+2025-04-17 16:10:04,779 - INFO - 
+  Product 2/22: Selectable-Flow-Rate Easy-Stroke
+Drum Pumps for Water and Chemicals
+2025-04-17 16:10:04,780 - INFO -     Link: https://www.mcmaster.com/products/flow-pumps/drum-pumps-2~/selectable-flow-rate-easy-stroke-drum-pumps-for-water-and-chemicals/
+2025-04-17 16:10:04,780 - INFO -     Image: https://www.mcmaster.com/mvC/Contents/gfx/ImageCache/251/2515k45p1-c01a-digital@100p_637195138977533771.png?ver=ImageNotFound
+2025-04-17 16:10:04,780 - INFO -     Description: These pumps have a selectable flow rate, so you ca...
+2025-04-17 16:10:12,731 - INFO - Found 2 sections to process
+2025-04-17 16:10:12,900 - INFO - Processing product: Selectable-Flow-Rate Easy-Stroke Drum Pumps for Water and Chemicals
+2025-04-17 16:10:12,900 - INFO - Found 1 tables to extract
+2025-04-17 16:10:13,426 - INFO -   Extracted table 1/1
+2025-04-17 16:10:13,426 - INFO - Saving product data to database...
+2025-04-17 16:10:13,427 - INFO - Successfully saved: Selectable-Flow-Rate Easy-Stroke Drum Pumps for Water and Chemicals
+2025-04-17 16:10:13,427 - INFO - Updated skip list saved with 7 items
+2025-04-17 16:10:13,427 - INFO - Added 'Selectable-Flow-Rate Easy-Stroke Drum Pumps for Water and Chemicals' to skip list
+2025-04-17 16:10:14,573 - INFO - --- Product title : Easy-Stroke Drum Pumps for
+Water, Coolant, and Chemicals ---
+2025-04-17 16:10:14,619 - INFO - 
+  Product 3/22: Easy-Stroke Drum Pumps for
+Water, Coolant, and Chemicals
+2025-04-17 16:10:14,619 - INFO -     Link: https://www.mcmaster.com/products/flow-pumps/drum-pumps-2~/easy-stroke-drum-pumps-for-water-coolant-and-chemicals-10/
+2025-04-17 16:10:14,619 - INFO -     Image: https://www.mcmaster.com/mvC/Contents/gfx/ImageCache/422/4222k71p1-c01a-digital@100p_636899911966565859.png?ver=ImageNotFound
+2025-04-17 16:10:14,619 - INFO -     Description: A lever handle maximizes output with each stroke f...
+2025-04-17 16:10:21,132 - INFO - Found 2 sections to process
+2025-04-17 16:10:21,235 - INFO - Processing product: Easy-Stroke Drum Pumps for Water, Coolant, and Chemicals
+2025-04-17 16:10:21,235 - INFO - Found 2 tables to extract
+2025-04-17 16:10:21,718 - INFO -   Extracted table 1/2
+2025-04-17 16:10:21,846 - INFO -   Extracted table 2/2
+2025-04-17 16:10:21,846 - INFO - Saving product data to database...
+2025-04-17 16:10:21,847 - INFO - Successfully saved: Easy-Stroke Drum Pumps for Water, Coolant, and Chemicals
+2025-04-17 16:10:21,847 - INFO - Updated skip list saved with 8 items
+2025-04-17 16:10:21,847 - INFO - Added 'Easy-Stroke Drum Pumps for Water, Coolant, and Chemicals' to skip list
+2025-04-17 16:10:22,985 - INFO - --- Product title : Smooth-Flow Drum Pumps
+for Water and Chemicals ---
+2025-04-17 16:10:23,035 - INFO - 
+  Product 4/22: Smooth-Flow Drum Pumps
+for Water and Chemicals
+2025-04-17 16:10:23,035 - INFO -     Link: https://www.mcmaster.com/products/flow-pumps/drum-pumps-2~/smooth-flow-drum-pumps-for-water-and-chemicals/
+2025-04-17 16:10:23,035 - INFO -     Image: https://www.mcmaster.com/mvC/Contents/gfx/ImageCache/675/67515k87p1-@100p_637208987637255472.png?ver=ImageNotFound
+2025-04-17 16:10:23,035 - INFO -     Description: Rotate the handle to dispense a continuous flow of...
+2025-04-17 16:10:28,672 - INFO - Found 2 sections to process
+2025-04-17 16:10:28,771 - INFO - Processing product: Smooth-Flow Drum Pumps for Water and Chemicals
+2025-04-17 16:10:28,771 - INFO - Found 1 tables to extract
+2025-04-17 16:10:29,313 - INFO -   Extracted table 1/1
+2025-04-17 16:10:29,313 - INFO - Saving product data to database...
+2025-04-17 16:10:29,314 - INFO - Successfully saved: Smooth-Flow Drum Pumps for Water and Chemicals
+2025-04-17 16:10:29,314 - INFO - Updated skip list saved with 9 items
+2025-04-17 16:10:29,314 - INFO - Added 'Smooth-Flow Drum Pumps for Water and Chemicals' to skip list
+2025-04-17 16:10:30,458 - INFO - --- Product title : Compact Drum Pumps
+for Water and Chemicals ---
+2025-04-17 16:10:30,511 - INFO - 
+  Product 5/22: Compact Drum Pumps
+for Water and Chemicals
+2025-04-17 16:10:30,511 - INFO -     Link: https://www.mcmaster.com/products/flow-pumps/drum-pumps-2~/compact-drum-pumps-for-water-and-chemicals/
+2025-04-17 16:10:30,511 - INFO -     Image: https://www.mcmaster.com/mvC/Contents/gfx/ImageCache/436/4368k13-c01a1558708500@100p_636942898762236477.png?ver=ImageNotFound
+2025-04-17 16:10:30,511 - INFO -     Description: Designed to move low volumes of caustic liquids in...
+2025-04-17 16:10:37,408 - INFO - Found 2 sections to process
+2025-04-17 16:10:37,507 - INFO - Processing product: Compact Drum Pumps for Water and Chemicals
+2025-04-17 16:10:37,507 - INFO - Found 1 tables to extract
+2025-04-17 16:10:38,301 - INFO -   Extracted table 1/1
+2025-04-17 16:10:38,301 - INFO - Saving product data to database...
+2025-04-17 16:10:38,302 - INFO - Successfully saved: Compact Drum Pumps for Water and Chemicals
+2025-04-17 16:10:38,302 - INFO - Updated skip list saved with 10 items
+2025-04-17 16:10:38,302 - INFO - Added 'Compact Drum Pumps for Water and Chemicals' to skip list
+2025-04-17 16:10:39,462 - INFO - --- Product title : Nondrip Drum Pumps
+for Water and Chemicals ---
+2025-04-17 16:10:39,513 - INFO - 
+  Product 6/22: Nondrip Drum Pumps
+for Water and Chemicals
+2025-04-17 16:10:39,513 - INFO -     Link: https://www.mcmaster.com/products/flow-pumps/drum-pumps-2~/nondrip-drum-pumps-for-water-and-chemicals-9/
+2025-04-17 16:10:39,513 - INFO -     Image: https://www.mcmaster.com/mvC/Contents/gfx/ImageCache/974/9743t11p1-@100p_637209013117051884.png?ver=ImageNotFound
+2025-04-17 16:10:39,513 - INFO -     Description: Eliminate leaks and waste with a faucet-style nond...
+2025-04-17 16:10:43,697 - INFO - Found 2 sections to process
+2025-04-17 16:10:43,806 - INFO - Processing product: Nondrip Drum Pumps for Water and Chemicals
+2025-04-17 16:10:43,806 - INFO - Found 1 tables to extract
+2025-04-17 16:10:44,168 - INFO -   Extracted table 1/1
+2025-04-17 16:10:44,168 - INFO - Saving product data to database...
+2025-04-17 16:10:44,168 - INFO - Successfully saved: Nondrip Drum Pumps for Water and Chemicals
+2025-04-17 16:10:44,169 - INFO - Updated skip list saved with 11 items
+2025-04-17 16:10:44,169 - INFO - Added 'Nondrip Drum Pumps for Water and Chemicals' to skip list
+2025-04-17 16:10:45,320 - INFO - --- Product title : Drum Pumps for Water and Coolant ---
+2025-04-17 16:10:45,365 - INFO - 
+  Product 7/22: Drum Pumps for Water and Coolant
+2025-04-17 16:10:45,366 - INFO -     Link: https://www.mcmaster.com/products/flow-pumps/drum-pumps-2~/drum-pumps-for-water-and-coolant-9/
+2025-04-17 16:10:45,366 - INFO -     Image: https://www.mcmaster.com/mvC/Contents/gfx/ImageCache/991/9912k31p1-c01a-digital@100p_636899912712925460.png?ver=ImageNotFound
+2025-04-17 16:10:45,366 - INFO -     Description: A 316 stainless steel housing makes these pumps re...
+2025-04-17 16:10:49,854 - INFO - Found 2 sections to process
+2025-04-17 16:10:50,057 - INFO - Processing product: Drum Pumps for Water and Coolant
+2025-04-17 16:10:50,057 - INFO - Found 2 tables to extract
+2025-04-17 16:10:50,489 - INFO -   Extracted table 1/2
+2025-04-17 16:10:50,734 - INFO -   Extracted table 2/2
+2025-04-17 16:10:50,734 - INFO - Saving product data to database...
+2025-04-17 16:10:50,735 - INFO - Successfully saved: Drum Pumps for Water and Coolant
+2025-04-17 16:10:50,735 - INFO - Updated skip list saved with 12 items
+2025-04-17 16:10:50,735 - INFO - Added 'Drum Pumps for Water and Coolant' to skip list
+2025-04-17 16:10:51,875 - INFO - --- Product title : Drum Pumps for Harsh Chemicals ---
+2025-04-17 16:10:51,926 - INFO - 
+  Product 8/22: Drum Pumps for Harsh Chemicals
+2025-04-17 16:10:51,926 - INFO -     Link: https://www.mcmaster.com/products/flow-pumps/drum-pumps-2~/drum-pumps-for-harsh-chemicals/
+2025-04-17 16:10:51,926 - INFO -     Image: https://www.mcmaster.com/mvC/Contents/gfx/ImageCache/302/3024n2-@100p_636942135007975376.png?ver=ImageNotFound
+2025-04-17 16:10:51,926 - INFO -     Description: Made with PTFE components, these pumps stand up to...
+2025-04-17 16:10:56,380 - INFO - Found 2 sections to process
+2025-04-17 16:10:56,471 - INFO - Processing product: Drum Pumps for Harsh Chemicals
+2025-04-17 16:10:56,471 - INFO - Found 1 tables to extract
+2025-04-17 16:10:56,949 - INFO -   Extracted table 1/1
+2025-04-17 16:10:56,949 - INFO - Saving product data to database...
+2025-04-17 16:10:56,949 - INFO - Successfully saved: Drum Pumps for Harsh Chemicals
+2025-04-17 16:10:56,950 - INFO - Updated skip list saved with 13 items
+2025-04-17 16:10:56,950 - INFO - Added 'Drum Pumps for Harsh Chemicals' to skip list
+2025-04-17 16:10:58,087 - INFO - --- Product title : Drum Pumps for Oil ---
+2025-04-17 16:10:58,140 - INFO - 
+  Product 9/22: Drum Pumps for Oil
+2025-04-17 16:10:58,141 - INFO -     Link: https://www.mcmaster.com/products/flow-pumps/drum-pumps-2~/drum-pumps-for-oil-7/
+2025-04-17 16:10:58,141 - INFO -     Image: https://www.mcmaster.com/mvC/Contents/gfx/ImageCache/991/9912k28p1-c01a-digital@100p_636899903289319022.png?ver=ImageNotFound
+2025-04-17 16:10:58,141 - INFO -     Description: Use these pumps to move lubricating oil, such as h...
+2025-04-17 16:11:02,846 - INFO - Found 2 sections to process
+2025-04-17 16:11:02,927 - INFO - Processing product: Drum Pumps for Oil
+2025-04-17 16:11:02,927 - INFO - Found 1 tables to extract
+2025-04-17 16:11:03,309 - INFO -   Extracted table 1/1
+2025-04-17 16:11:03,309 - INFO - Saving product data to database...
+2025-04-17 16:11:03,310 - INFO - Successfully saved: Drum Pumps for Oil
+2025-04-17 16:11:03,310 - INFO - Updated skip list saved with 14 items
+2025-04-17 16:11:03,310 - INFO - Added 'Drum Pumps for Oil' to skip list
+2025-04-17 16:11:04,455 - INFO - --- Product title : Smooth-Flow Drum Pumps for Oil ---
+2025-04-17 16:11:04,504 - INFO - 
+  Product 10/22: Smooth-Flow Drum Pumps for Oil
+2025-04-17 16:11:04,504 - INFO -     Link: https://www.mcmaster.com/products/flow-pumps/drum-pumps-2~/smooth-flow-drum-pumps-for-oil-8/
+2025-04-17 16:11:04,504 - INFO -     Image: https://www.mcmaster.com/mvC/Contents/gfx/ImageCache/423/4236k7p1-@100p_637208294992017354.png?ver=ImageNotFound
+2025-04-17 16:11:04,504 - INFO -     Description: Rotate the handle to dispense a continuous flow of...
+2025-04-17 16:11:08,829 - INFO - Found 2 sections to process
+2025-04-17 16:11:09,013 - INFO - Processing product: Smooth-Flow Drum Pumps for Oil
+2025-04-17 16:11:09,013 - INFO - Found 6 tables to extract
+2025-04-17 16:11:09,557 - INFO -   Extracted table 1/6
+2025-04-17 16:11:10,133 - INFO -   Extracted table 2/6
+2025-04-17 16:11:10,581 - INFO -   Extracted table 3/6
+2025-04-17 16:11:11,030 - INFO -   Extracted table 4/6
+2025-04-17 16:11:11,409 - INFO -   Extracted table 5/6
+2025-04-17 16:11:11,605 - INFO -   Extracted table 6/6
+2025-04-17 16:11:11,605 - INFO - Saving product data to database...
+2025-04-17 16:11:11,606 - INFO - Successfully saved: Smooth-Flow Drum Pumps for Oil
+2025-04-17 16:11:11,606 - INFO - Updated skip list saved with 15 items
+2025-04-17 16:11:11,606 - INFO - Added 'Smooth-Flow Drum Pumps for Oil' to skip list
+2025-04-17 16:11:12,751 - INFO - --- Product title : Easy-Stroke Drum Pumps for Oil ---
+2025-04-17 16:11:12,797 - INFO - 
+  Product 11/22: Easy-Stroke Drum Pumps for Oil
+2025-04-17 16:11:12,797 - INFO -     Link: https://www.mcmaster.com/products/flow-pumps/drum-pumps-2~/easy-stroke-drum-pumps-for-oil/
+2025-04-17 16:11:12,797 - INFO -     Image: https://www.mcmaster.com/mvC/Contents/gfx/ImageCache/426/4266k11p1-@100p_637208301018881136.png?ver=ImageNotFound
+2025-04-17 16:11:12,798 - INFO -     Description: For low-effort dispensing, these pumps have a leve...
+2025-04-17 16:11:17,171 - INFO - Found 2 sections to process
+2025-04-17 16:11:17,307 - INFO - Processing product: Easy-Stroke Drum Pumps for Oil
+2025-04-17 16:11:17,307 - INFO - Found 1 tables to extract
+2025-04-17 16:11:18,021 - INFO -   Extracted table 1/1
+2025-04-17 16:11:18,021 - INFO - Saving product data to database...
+2025-04-17 16:11:18,022 - INFO - Successfully saved: Easy-Stroke Drum Pumps for Oil
+2025-04-17 16:11:18,022 - INFO - Updated skip list saved with 16 items
+2025-04-17 16:11:18,022 - INFO - Added 'Easy-Stroke Drum Pumps for Oil' to skip list
+2025-04-17 16:11:19,174 - INFO - --- Product title : Drum Pumps for Diesel Exhaust Fluid ---
+2025-04-17 16:11:19,220 - INFO - 
+  Product 12/22: Drum Pumps for Diesel Exhaust Fluid
+2025-04-17 16:11:19,220 - INFO -     Link: https://www.mcmaster.com/products/flow-pumps/drum-pumps-2~/drum-pumps-for-diesel-exhaust-fluid/
+2025-04-17 16:11:19,220 - INFO -     Image: https://www.mcmaster.com/mvC/Contents/gfx/ImageCache/294/2940n1-@100p_636942199036147904.png?ver=ImageNotFound
+2025-04-17 16:11:19,220 - INFO -     Description: Made with polypropylene components, these pumps wi...
+2025-04-17 16:11:23,814 - INFO - Found 2 sections to process
+2025-04-17 16:11:23,883 - INFO - Processing product: Drum Pumps for Diesel Exhaust Fluid
+2025-04-17 16:11:23,883 - INFO - Found 1 tables to extract
+2025-04-17 16:11:24,449 - INFO -   Extracted table 1/1
+2025-04-17 16:11:24,449 - INFO - Saving product data to database...
+2025-04-17 16:11:24,450 - INFO - Successfully saved: Drum Pumps for Diesel Exhaust Fluid
+2025-04-17 16:11:24,450 - INFO - Updated skip list saved with 17 items
+2025-04-17 16:11:24,450 - INFO - Added 'Drum Pumps for Diesel Exhaust Fluid' to skip list
+2025-04-17 16:11:25,581 - INFO - --- Product title : Drum Pumps for Fuel and Flammable Liquid ---
+2025-04-17 16:11:25,626 - INFO - 
+  Product 13/22: Drum Pumps for Fuel and Flammable Liquid
+2025-04-17 16:11:25,626 - INFO -     Link: https://www.mcmaster.com/products/flow-pumps/drum-pumps-2~/drum-pumps-for-fuel-and-flammable-liquid-9/
+2025-04-17 16:11:25,626 - INFO -     Image: https://www.mcmaster.com/mvC/Contents/gfx/ImageCache/425/4259k31p1-@100p_637208300044302706.png?ver=ImageNotFound
+2025-04-17 16:11:25,627 - INFO -     Description: All of these pumps have bonding and grounding wire...
+2025-04-17 16:11:30,742 - INFO - Found 2 sections to process
+2025-04-17 16:11:30,842 - INFO - Processing product: Drum Pumps for Fuel and Flammable Liquid
+2025-04-17 16:11:30,842 - INFO - Found 2 tables to extract
+2025-04-17 16:11:31,887 - INFO -   Extracted table 1/2
+2025-04-17 16:11:32,066 - INFO -   Extracted table 2/2
+2025-04-17 16:11:32,066 - INFO - Saving product data to database...
+2025-04-17 16:11:32,067 - INFO - Successfully saved: Drum Pumps for Fuel and Flammable Liquid
+2025-04-17 16:11:32,067 - INFO - Updated skip list saved with 18 items
+2025-04-17 16:11:32,067 - INFO - Added 'Drum Pumps for Fuel and Flammable Liquid' to skip list
+2025-04-17 16:11:33,189 - INFO - --- Product title : Easy-Stroke Drum Pumps with Nozzle for Fuel ---
+2025-04-17 16:11:33,243 - INFO - 
+  Product 14/22: Easy-Stroke Drum Pumps with Nozzle for Fuel
+2025-04-17 16:11:33,244 - INFO -     Link: https://www.mcmaster.com/products/flow-pumps/drum-pumps-2~/easy-stroke-drum-pumps-with-nozzle-for-fuel/
+2025-04-17 16:11:33,244 - INFO -     Image: https://www.mcmaster.com/mvC/Contents/gfx/ImageCache/990/9906k12p1-@100p_637024160683813114.png?ver=ImageNotFound
+2025-04-17 16:11:33,244 - INFO -     Description: A nozzle and hose allow you to dispense directly i...
+2025-04-17 16:11:38,360 - INFO - Found 2 sections to process
+2025-04-17 16:11:38,455 - INFO - Processing product: Easy-Stroke Drum Pumps with Nozzle for Fuel
+2025-04-17 16:11:38,455 - INFO - Found 2 tables to extract
+2025-04-17 16:11:38,806 - INFO -   Extracted table 1/2
+2025-04-17 16:11:39,175 - INFO -   Extracted table 2/2
+2025-04-17 16:11:39,175 - INFO - Saving product data to database...
+2025-04-17 16:11:39,176 - INFO - Successfully saved: Easy-Stroke Drum Pumps with Nozzle for Fuel
+2025-04-17 16:11:39,176 - INFO - Updated skip list saved with 19 items
+2025-04-17 16:11:39,176 - INFO - Added 'Easy-Stroke Drum Pumps with Nozzle for Fuel' to skip list
+2025-04-17 16:11:40,402 - INFO - --- Product title : Quick-Dispensing Drum
+Pumps with Nozzle for Fuel ---
+2025-04-17 16:11:40,505 - INFO - 
+  Product 15/22: Quick-Dispensing Drum
+Pumps with Nozzle for Fuel
+2025-04-17 16:11:40,506 - INFO -     Link: https://www.mcmaster.com/products/flow-pumps/drum-pumps-2~/quick-dispensing-drum-pumps-with-nozzle-for-fuel-10/
+2025-04-17 16:11:40,506 - INFO -     Image: https://www.mcmaster.com/mvC/Contents/gfx/ImageCache/431/4312k28p1-@100p_637208980323549817.png?ver=ImageNotFound
+2025-04-17 16:11:40,506 - INFO -     Description: These pumps have a discharge hose for transfer app...
+2025-04-17 16:11:45,606 - INFO - Found 2 sections to process
+2025-04-17 16:11:45,685 - INFO - Processing product: Quick-Dispensing Drum Pumps with Nozzle for Fuel
+2025-04-17 16:11:45,685 - INFO - Found 2 tables to extract
+2025-04-17 16:11:46,025 - INFO -   Extracted table 1/2
+2025-04-17 16:11:46,293 - INFO -   Extracted table 2/2
+2025-04-17 16:11:46,293 - INFO - Saving product data to database...
+2025-04-17 16:11:46,294 - INFO - Successfully saved: Quick-Dispensing Drum Pumps with Nozzle for Fuel
+2025-04-17 16:11:46,294 - INFO - Updated skip list saved with 20 items
+2025-04-17 16:11:46,294 - INFO - Added 'Quick-Dispensing Drum Pumps with Nozzle for Fuel' to skip list
+2025-04-17 16:11:47,416 - INFO - --- Product title : Easy-Stroke Drum Pumps for Fuel ---
+2025-04-17 16:11:47,463 - INFO - 
+  Product 16/22: Easy-Stroke Drum Pumps for Fuel
+2025-04-17 16:11:47,463 - INFO -     Link: https://www.mcmaster.com/products/flow-pumps/drum-pumps-2~/easy-stroke-drum-pumps-for-fuel-9/
+2025-04-17 16:11:47,463 - INFO -     Image: https://www.mcmaster.com/mvC/Contents/gfx/ImageCache/990/9906k11p1-c01a-digital@100p_636899901362835855.png?ver=ImageNotFound
+2025-04-17 16:11:47,463 - INFO -     Description: For low‐effort dispensing, a lever handle maximize...
+2025-04-17 16:11:52,000 - INFO - Found 2 sections to process
+2025-04-17 16:11:52,086 - INFO - Processing product: Easy-Stroke Drum Pumps for Fuel
+2025-04-17 16:11:52,086 - INFO - Found 2 tables to extract
+2025-04-17 16:11:52,391 - INFO -   Extracted table 1/2
+2025-04-17 16:11:52,561 - INFO -   Extracted table 2/2
+2025-04-17 16:11:52,561 - INFO - Saving product data to database...
+2025-04-17 16:11:52,562 - INFO - Successfully saved: Easy-Stroke Drum Pumps for Fuel
+2025-04-17 16:11:52,563 - INFO - Updated skip list saved with 21 items
+2025-04-17 16:11:52,563 - INFO - Added 'Easy-Stroke Drum Pumps for Fuel' to skip list
+2025-04-17 16:11:53,700 - INFO - --- Product title : Quick-Dispensing Drum Pumps for Fuel ---
+2025-04-17 16:11:53,740 - INFO - 
+  Product 17/22: Quick-Dispensing Drum Pumps for Fuel
+2025-04-17 16:11:53,740 - INFO -     Link: https://www.mcmaster.com/products/flow-pumps/drum-pumps-2~/quick-dispensing-drum-pumps-for-fuel-10/
+2025-04-17 16:11:53,740 - INFO -     Image: https://www.mcmaster.com/mvC/Contents/gfx/ImageCache/431/4312k24p1-c01a-digital@100p_636943025521048267.png?ver=ImageNotFound
+2025-04-17 16:11:53,740 - INFO -     Description: A lever handle delivers fluid on both the forward ...
+2025-04-17 16:11:58,201 - INFO - Found 2 sections to process
+2025-04-17 16:11:58,290 - INFO - Processing product: Quick-Dispensing Drum Pumps for Fuel
+2025-04-17 16:11:58,290 - INFO - Found 2 tables to extract
+2025-04-17 16:11:58,690 - INFO -   Extracted table 1/2
+2025-04-17 16:11:58,858 - INFO -   Extracted table 2/2
+2025-04-17 16:11:58,858 - INFO - Saving product data to database...
+2025-04-17 16:11:58,859 - INFO - Successfully saved: Quick-Dispensing Drum Pumps for Fuel
+2025-04-17 16:11:58,859 - INFO - Updated skip list saved with 22 items
+2025-04-17 16:11:58,859 - INFO - Added 'Quick-Dispensing Drum Pumps for Fuel' to skip list
+2025-04-17 16:11:59,963 - INFO - --- Product title : Nondrip Drum Pumps for
+Fuel and Flammable Liquid ---
+2025-04-17 16:12:00,006 - INFO - 
+  Product 18/22: Nondrip Drum Pumps for
+Fuel and Flammable Liquid
+2025-04-17 16:12:00,006 - INFO -     Link: https://www.mcmaster.com/products/flow-pumps/drum-pumps-2~/nondrip-drum-pumps-for-fuel-and-flammable-liquid-9/
+2025-04-17 16:12:00,007 - INFO -     Image: https://www.mcmaster.com/mvC/Contents/gfx/ImageCache/974/9743t11p1-@100p_637209013117051884.png?ver=ImageNotFound
+2025-04-17 16:12:00,007 - INFO -     Description: Eliminate leaks and waste with a faucet-style nond...
+2025-04-17 16:12:04,144 - INFO - Found 2 sections to process
+2025-04-17 16:12:04,272 - INFO - Processing product: Nondrip Drum Pumps for Fuel and Flammable Liquid
+2025-04-17 16:12:04,273 - INFO - Found 1 tables to extract
+2025-04-17 16:12:04,793 - INFO -   Extracted table 1/1
+2025-04-17 16:12:04,793 - INFO - Saving product data to database...
+2025-04-17 16:12:04,794 - INFO - Successfully saved: Nondrip Drum Pumps for Fuel and Flammable Liquid
+2025-04-17 16:12:04,794 - INFO - Updated skip list saved with 23 items
+2025-04-17 16:12:04,794 - INFO - Added 'Nondrip Drum Pumps for Fuel and Flammable Liquid' to skip list
+2025-04-17 16:12:05,897 - INFO - --- Product title : Deep-Reach Suction Pumps for Fuel ---
+2025-04-17 16:12:05,937 - INFO - 
+  Product 19/22: Deep-Reach Suction Pumps for Fuel
+2025-04-17 16:12:05,938 - INFO -     Link: https://www.mcmaster.com/products/flow-pumps/drum-pumps-2~/deep-reach-suction-pumps-for-fuel/
+2025-04-17 16:12:05,938 - INFO -     Image: https://www.mcmaster.com/mvC/Contents/gfx/ImageCache/991/9911k11p1-@100p_637209016667013870.png?ver=ImageNotFound
+2025-04-17 16:12:05,938 - INFO -     Description: Remove liquid from hard‐to‐reach areas with a long...
+2025-04-17 16:12:10,050 - INFO - Found 2 sections to process
+2025-04-17 16:12:10,272 - INFO - Processing product: Deep-Reach Suction Pumps for Fuel
+2025-04-17 16:12:10,272 - INFO - Found 1 tables to extract
+2025-04-17 16:12:10,741 - INFO -   Extracted table 1/1
+2025-04-17 16:12:10,741 - INFO - Saving product data to database...
+2025-04-17 16:12:10,742 - INFO - Successfully saved: Deep-Reach Suction Pumps for Fuel
+2025-04-17 16:12:10,742 - INFO - Updated skip list saved with 24 items
+2025-04-17 16:12:10,742 - INFO - Added 'Deep-Reach Suction Pumps for Fuel' to skip list
+2025-04-17 16:12:11,853 - INFO - --- Product title : Smooth-Flow Drum Pumps for Fuel ---
+2025-04-17 16:12:11,896 - INFO - 
+  Product 20/22: Smooth-Flow Drum Pumps for Fuel
+2025-04-17 16:12:11,896 - INFO -     Link: https://www.mcmaster.com/products/flow-pumps/drum-pumps-2~/smooth-flow-drum-pumps-for-fuel-9/
+2025-04-17 16:12:11,896 - INFO -     Image: https://www.mcmaster.com/mvC/Contents/gfx/ImageCache/423/4236k8p1-@100p_637209153141266700.png?ver=ImageNotFound
+2025-04-17 16:12:11,896 - INFO -     Description: Rotate the handle to dispense a continuous flow of...
+2025-04-17 16:12:16,320 - INFO - Found 2 sections to process
+2025-04-17 16:12:16,539 - INFO - Processing product: Smooth-Flow Drum Pumps for Fuel
+2025-04-17 16:12:16,539 - INFO - Found 6 tables to extract
+2025-04-17 16:12:16,876 - INFO -   Extracted table 1/6
+2025-04-17 16:12:17,164 - INFO -   Extracted table 2/6
+2025-04-17 16:12:17,550 - INFO -   Extracted table 3/6
+2025-04-17 16:12:17,777 - INFO -   Extracted table 4/6
+2025-04-17 16:12:18,113 - INFO -   Extracted table 5/6
+2025-04-17 16:12:18,451 - INFO -   Extracted table 6/6
+2025-04-17 16:12:18,451 - INFO - Saving product data to database...
+2025-04-17 16:12:18,452 - INFO - Successfully saved: Smooth-Flow Drum Pumps for Fuel
+2025-04-17 16:12:18,452 - INFO - Updated skip list saved with 25 items
+2025-04-17 16:12:18,452 - INFO - Added 'Smooth-Flow Drum Pumps for Fuel' to skip list
+2025-04-17 16:12:19,556 - INFO - --- Product title : Drum Pumps for Food and Beverage ---
+2025-04-17 16:12:19,599 - INFO - 
+  Product 21/22: Drum Pumps for Food and Beverage
+2025-04-17 16:12:19,599 - INFO -     Link: https://www.mcmaster.com/products/flow-pumps/drum-pumps-2~/drum-pumps-for-food-and-beverage/
+2025-04-17 16:12:19,600 - INFO -     Image: https://www.mcmaster.com/mvC/Contents/gfx/ImageCache/304/3047k38-@100p_637523658513940302.png?ver=ImageNotFound
+2025-04-17 16:12:19,600 - INFO -     Description: Use these pumps in food and beverage applications....
+2025-04-17 16:12:24,056 - INFO - Found 2 sections to process
+2025-04-17 16:12:24,194 - INFO - Processing product: Drum Pumps for Food and Beverage
+2025-04-17 16:12:24,194 - INFO - Found 1 tables to extract
+2025-04-17 16:12:26,590 - INFO -   Extracted table 1/1
+2025-04-17 16:12:26,590 - INFO - Saving product data to database...
+2025-04-17 16:12:26,591 - INFO - Successfully saved: Drum Pumps for Food and Beverage
+2025-04-17 16:12:26,591 - INFO - Updated skip list saved with 26 items
+2025-04-17 16:12:26,592 - INFO - Added 'Drum Pumps for Food and Beverage' to skip list
+2025-04-17 16:12:27,692 - INFO - --- Product title : Siphon Drum Pumps ---
+2025-04-17 16:12:27,737 - INFO - 
+  Product 22/22: Siphon Drum Pumps
+2025-04-17 16:12:27,737 - INFO -     Link: https://www.mcmaster.com/products/flow-pumps/drum-pumps-2~/siphon-drum-pumps-7/
+2025-04-17 16:12:27,737 - INFO -     Image: https://www.mcmaster.com/mvC/Contents/gfx/ImageCache/427/4270k21p1-@100p_637208302406463773.png?ver=ImageNotFound
+2025-04-17 16:12:27,737 - INFO -     Description: Since these pumps use suction to draw liquid out o...
+2025-04-17 16:12:32,911 - INFO - Found 2 sections to process
+2025-04-17 16:12:33,103 - INFO - Processing product: Siphon Drum Pumps
+2025-04-17 16:12:33,103 - INFO - Found 2 tables to extract
+2025-04-17 16:12:34,417 - INFO -   Extracted table 1/2
+2025-04-17 16:12:34,777 - INFO -   Extracted table 2/2
+2025-04-17 16:12:34,777 - INFO - Saving product data to database...
+2025-04-17 16:12:34,778 - INFO - Successfully saved: Siphon Drum Pumps
+2025-04-17 16:12:34,778 - INFO - Updated skip list saved with 27 items
+2025-04-17 16:12:34,779 - INFO - Added 'Siphon Drum Pumps' to skip list
+2025-04-17 16:12:36,888 - INFO - Processing group 2/5: Air-Powered Drum Pumps
+2025-04-17 16:12:36,888 - INFO -   Contains 14 products
+2025-04-17 16:12:36,912 - INFO - --- Product title : Polypropylene Extended-Life
+Air-Powered Drum Pumps for Chemicals ---
+2025-04-17 16:12:36,947 - INFO - 
+  Product 1/14: Polypropylene Extended-Life
+Air-Powered Drum Pumps for Chemicals
+2025-04-17 16:12:36,947 - INFO -     Link: https://www.mcmaster.com/products/flow-pumps/drum-pumps-2~/polypropylene-extended-life-air-powered-drum-pumps-for-chemicals/
+2025-04-17 16:12:36,947 - INFO -     Image: https://www.mcmaster.com/mvC/Contents/gfx/ImageCache/828/8281k52p1-c01a-digital@100p_636899923183446475.png?ver=ImageNotFound
+2025-04-17 16:12:36,947 - INFO -     Description: The polypropylene housing provides good resistance...
+2025-04-17 16:12:41,517 - INFO - Found 2 sections to process
+2025-04-17 16:12:41,891 - INFO - Processing product: Polypropylene Extended-Life Air-Powered Drum Pumps for Chemicals
+2025-04-17 16:12:41,891 - INFO - Found 2 tables to extract
+2025-04-17 16:12:42,956 - INFO -   Extracted table 1/2
+2025-04-17 16:12:43,233 - INFO -   Extracted table 2/2
+2025-04-17 16:12:43,233 - INFO - Saving product data to database...
+2025-04-17 16:12:43,234 - INFO - Successfully saved: Polypropylene Extended-Life Air-Powered Drum Pumps for Chemicals
+2025-04-17 16:12:43,234 - INFO - Updated skip list saved with 28 items
+2025-04-17 16:12:43,234 - INFO - Added 'Polypropylene Extended-Life Air-Powered Drum Pumps for Chemicals' to skip list
+2025-04-17 16:12:44,339 - INFO - --- Product title : PVDF Extended-Life Air-Powered
+Drum Pumps for Chemicals ---
+2025-04-17 16:12:44,384 - INFO - 
+  Product 2/14: PVDF Extended-Life Air-Powered
+Drum Pumps for Chemicals
+2025-04-17 16:12:44,384 - INFO -     Link: https://www.mcmaster.com/products/flow-pumps/drum-pumps-2~/pvdf-extended-life-air-powered-drum-pumps-for-chemicals/
+2025-04-17 16:12:44,384 - INFO -     Image: https://www.mcmaster.com/mvC/Contents/gfx/ImageCache/828/8281k52p1-c01a-digital@100p_636899923183446475.png?ver=ImageNotFound
+2025-04-17 16:12:44,384 - INFO -     Description: A chemical- and impact-resistant PVDF housing stan...
+2025-04-17 16:12:49,090 - INFO - Found 2 sections to process
+2025-04-17 16:12:49,261 - INFO - Processing product: PVDF Extended-Life Air-Powered Drum Pumps for Chemicals
+2025-04-17 16:12:49,261 - INFO - Found 2 tables to extract
+2025-04-17 16:12:49,735 - INFO -   Extracted table 1/2
+2025-04-17 16:12:49,848 - INFO -   Extracted table 2/2
+2025-04-17 16:12:49,848 - INFO - Saving product data to database...
+2025-04-17 16:12:49,849 - INFO - Successfully saved: PVDF Extended-Life Air-Powered Drum Pumps for Chemicals
+2025-04-17 16:12:49,849 - INFO - Updated skip list saved with 29 items
+2025-04-17 16:12:49,849 - INFO - Added 'PVDF Extended-Life Air-Powered Drum Pumps for Chemicals' to skip list
+2025-04-17 16:12:50,987 - INFO - --- Product title : Stainless Steel Extended-Life
+Air-Powered Drum Pumps for Chemicals ---
+2025-04-17 16:12:51,031 - INFO - 
+  Product 3/14: Stainless Steel Extended-Life
+Air-Powered Drum Pumps for Chemicals
+2025-04-17 16:12:51,032 - INFO -     Link: https://www.mcmaster.com/products/flow-pumps/drum-pumps-2~/stainless-steel-extended-life-air-powered-drum-pumps-for-chemicals/
+2025-04-17 16:12:51,033 - INFO -     Image: https://www.mcmaster.com/mvC/Contents/gfx/ImageCache/828/8281k16p1-@100p_637209008761515033.png?ver=ImageNotFound
+2025-04-17 16:12:51,033 - INFO -     Description: A stainless steel construction allows these pumps ...
+2025-04-17 16:12:55,454 - INFO - Found 2 sections to process
+2025-04-17 16:12:55,662 - INFO - Processing product: Stainless Steel Extended-Life Air-Powered Drum Pumps for Chemicals
+2025-04-17 16:12:55,662 - INFO - Found 2 tables to extract
+2025-04-17 16:12:56,106 - INFO -   Extracted table 1/2
+2025-04-17 16:12:56,216 - INFO -   Extracted table 2/2
+2025-04-17 16:12:56,216 - INFO - Saving product data to database...
+2025-04-17 16:12:56,217 - INFO - Successfully saved: Stainless Steel Extended-Life Air-Powered Drum Pumps for Chemicals
+2025-04-17 16:12:56,217 - INFO - Updated skip list saved with 30 items
+2025-04-17 16:12:56,217 - INFO - Added 'Stainless Steel Extended-Life Air-Powered Drum Pumps for Chemicals' to skip list
+2025-04-17 16:12:57,359 - INFO - --- Product title : Aluminum Extended-Life
+Air-Powered Drum Pumps for Oil ---
+2025-04-17 16:12:57,400 - INFO - 
+  Product 4/14: Aluminum Extended-Life
+Air-Powered Drum Pumps for Oil
+2025-04-17 16:12:57,400 - INFO -     Link: https://www.mcmaster.com/products/flow-pumps/drum-pumps-2~/aluminum-extended-life-air-powered-drum-pumps-for-oil/
+2025-04-17 16:12:57,400 - INFO -     Image: https://www.mcmaster.com/mvC/Contents/gfx/ImageCache/828/8281k16p1-@100p_637209008761515033.png?ver=ImageNotFound
+2025-04-17 16:12:57,400 - INFO -     Description: Use these pumps to move lubricating oil such as hy...
+2025-04-17 16:13:01,894 - INFO - Found 2 sections to process
+2025-04-17 16:13:02,067 - INFO - Processing product: Aluminum Extended-Life Air-Powered Drum Pumps for Oil
+2025-04-17 16:13:02,067 - INFO - Found 2 tables to extract
+2025-04-17 16:13:02,542 - INFO -   Extracted table 1/2
+2025-04-17 16:13:02,653 - INFO -   Extracted table 2/2
+2025-04-17 16:13:02,653 - INFO - Saving product data to database...
+2025-04-17 16:13:02,654 - INFO - Successfully saved: Aluminum Extended-Life Air-Powered Drum Pumps for Oil
+2025-04-17 16:13:02,654 - INFO - Updated skip list saved with 31 items
+2025-04-17 16:13:02,654 - INFO - Added 'Aluminum Extended-Life Air-Powered Drum Pumps for Oil' to skip list
+2025-04-17 16:13:03,758 - INFO - --- Product title : Stainless Steel Extended-Life Air-Powered
+Drum Pumps for Food and Beverage ---
+2025-04-17 16:13:03,796 - INFO - 
+  Product 5/14: Stainless Steel Extended-Life Air-Powered
+Drum Pumps for Food and Beverage
+2025-04-17 16:13:03,797 - INFO -     Link: https://www.mcmaster.com/products/flow-pumps/drum-pumps-2~/stainless-steel-extended-life-air-powered-drum-pumps-for-food-and-beverage/
+2025-04-17 16:13:03,797 - INFO -     Image: https://www.mcmaster.com/mvC/Contents/gfx/ImageCache/828/8281k16p1-@100p_637209008761515033.png?ver=ImageNotFound
+2025-04-17 16:13:03,798 - INFO -     Description: These pumps are designed for use in food and bever...
+2025-04-17 16:13:08,249 - INFO - Found 2 sections to process
+2025-04-17 16:13:08,360 - INFO - Processing product: Stainless Steel Extended-Life Air-Powered Drum Pumps for Food and Beverage
+2025-04-17 16:13:08,360 - INFO - Found 2 tables to extract
+2025-04-17 16:13:08,764 - INFO -   Extracted table 1/2
+2025-04-17 16:13:08,876 - INFO -   Extracted table 2/2
+2025-04-17 16:13:08,876 - INFO - Saving product data to database...
+2025-04-17 16:13:08,877 - INFO - Successfully saved: Stainless Steel Extended-Life Air-Powered Drum Pumps for Food and Beverage
+2025-04-17 16:13:08,877 - INFO - Updated skip list saved with 32 items
+2025-04-17 16:13:08,877 - INFO - Added 'Stainless Steel Extended-Life Air-Powered Drum Pumps for Food and Beverage' to skip list
+2025-04-17 16:13:09,982 - INFO - --- Product title : Aluminum Extended-Life
+Air-Powered Drum Pumps for Fuel ---
+2025-04-17 16:13:10,026 - INFO - 
+  Product 6/14: Aluminum Extended-Life
+Air-Powered Drum Pumps for Fuel
+2025-04-17 16:13:10,026 - INFO -     Link: https://www.mcmaster.com/products/flow-pumps/drum-pumps-2~/aluminum-extended-life-air-powered-drum-pumps-for-fuel/
+2025-04-17 16:13:10,026 - INFO -     Image: https://www.mcmaster.com/mvC/Contents/gfx/ImageCache/828/8281k16p1-@100p_637209008761515033.png?ver=ImageNotFound
+2025-04-17 16:13:10,026 - INFO -     Description: Pump fuel such as gasoline, kerosene, and diesel f...
+2025-04-17 16:13:14,535 - INFO - Found 2 sections to process
+2025-04-17 16:13:14,711 - INFO - Processing product: Aluminum Extended-Life Air-Powered Drum Pumps for Fuel
+2025-04-17 16:13:14,712 - INFO - Found 2 tables to extract
+2025-04-17 16:13:15,132 - INFO -   Extracted table 1/2
+2025-04-17 16:13:15,247 - INFO -   Extracted table 2/2
+2025-04-17 16:13:15,247 - INFO - Saving product data to database...
+2025-04-17 16:13:15,248 - INFO - Successfully saved: Aluminum Extended-Life Air-Powered Drum Pumps for Fuel
+2025-04-17 16:13:15,248 - INFO - Updated skip list saved with 33 items
+2025-04-17 16:13:15,248 - INFO - Added 'Aluminum Extended-Life Air-Powered Drum Pumps for Fuel' to skip list
+2025-04-17 16:13:16,351 - INFO - --- Product title : Air-Powered Drum Pumps
+for Food and Beverage ---
+2025-04-17 16:13:16,397 - INFO - 
+  Product 7/14: Air-Powered Drum Pumps
+for Food and Beverage
+2025-04-17 16:13:16,397 - INFO -     Link: https://www.mcmaster.com/products/flow-pumps/drum-pumps-2~/air-powered-drum-pumps-for-food-and-beverage-8/
+2025-04-17 16:13:16,397 - INFO -     Image: https://www.mcmaster.com/mvC/Contents/gfx/ImageCache/429/42905k73p1-@100p_637208977030742622.png?ver=ImageNotFound
+2025-04-17 16:13:16,397 - INFO -     Description: With wetted parts made of FDA listed materials, th...
+2025-04-17 16:13:20,854 - INFO - Found 2 sections to process
+2025-04-17 16:13:20,962 - INFO - Processing product: Air-Powered Drum Pumps for Food and Beverage
+2025-04-17 16:13:20,962 - INFO - Found 1 tables to extract
+2025-04-17 16:13:21,727 - INFO -   Extracted table 1/1
+2025-04-17 16:13:21,727 - INFO - Saving product data to database...
+2025-04-17 16:13:21,728 - INFO - Successfully saved: Air-Powered Drum Pumps for Food and Beverage
+2025-04-17 16:13:21,728 - INFO - Updated skip list saved with 34 items
+2025-04-17 16:13:21,728 - INFO - Added 'Air-Powered Drum Pumps for Food and Beverage' to skip list
+2025-04-17 16:13:22,848 - INFO - --- Product title : Air-Powered Drum Pumps with Sanitary
+Quick-Clamp Fittings for Food and Beverage ---
+2025-04-17 16:13:22,894 - INFO - 
+  Product 8/14: Air-Powered Drum Pumps with Sanitary
+Quick-Clamp Fittings for Food and Beverage
+2025-04-17 16:13:22,894 - INFO -     Link: https://www.mcmaster.com/products/flow-pumps/drum-pumps-2~/air-powered-drum-pumps-with-sanitary-quick-clamp-fittings-for-food-and-beverage/
+2025-04-17 16:13:22,895 - INFO -     Image: https://www.mcmaster.com/mvC/Contents/gfx/ImageCache/293/2936n1-@100p_636970720503444511.png?ver=ImageNotFound
+2025-04-17 16:13:22,895 - INFO -     Description: For easy cleaning, these pumps have a sanitary qui...
+2025-04-17 16:13:27,375 - INFO - Found 2 sections to process
+2025-04-17 16:13:27,486 - INFO - Processing product: Air-Powered Drum Pumps with Sanitary Quick-Clamp Fittings for Food and Beverage
+2025-04-17 16:13:27,486 - INFO - Found 1 tables to extract
+2025-04-17 16:13:28,165 - INFO -   Extracted table 1/1
+2025-04-17 16:13:28,165 - INFO - Saving product data to database...
+2025-04-17 16:13:28,166 - INFO - Successfully saved: Air-Powered Drum Pumps with Sanitary Quick-Clamp Fittings for Food and Beverage
+2025-04-17 16:13:28,166 - INFO - Updated skip list saved with 35 items
+2025-04-17 16:13:28,166 - INFO - Added 'Air-Powered Drum Pumps with Sanitary Quick-Clamp Fittings for Food and Beverage' to skip list
+2025-04-17 16:13:29,274 - INFO - --- Product title : Air-Powered Drum Pumps for
+Water, Oil, Coolants, and Chemicals ---
+2025-04-17 16:13:29,319 - INFO - 
+  Product 9/14: Air-Powered Drum Pumps for
+Water, Oil, Coolants, and Chemicals
+2025-04-17 16:13:29,319 - INFO -     Link: https://www.mcmaster.com/products/flow-pumps/drum-pumps-2~/air-powered-drum-pumps-for-water-oil-coolants-and-chemicals-8/
+2025-04-17 16:13:29,320 - INFO -     Image: https://www.mcmaster.com/mvC/Contents/gfx/ImageCache/429/42905k72p1-@100p_637209139725866852.png?ver=ImageNotFound
+2025-04-17 16:13:29,320 - INFO -     Description: Often used with ammonia, etching and cleaning solu...
+2025-04-17 16:13:33,793 - INFO - Found 2 sections to process
+2025-04-17 16:13:34,002 - INFO - Processing product: Air-Powered Drum Pumps for Water, Oil, Coolants, and Chemicals
+2025-04-17 16:13:34,002 - INFO - Found 2 tables to extract
+2025-04-17 16:13:34,427 - INFO -   Extracted table 1/2
+2025-04-17 16:13:35,019 - INFO -   Extracted table 2/2
+2025-04-17 16:13:35,019 - INFO - Saving product data to database...
+2025-04-17 16:13:35,020 - INFO - Successfully saved: Air-Powered Drum Pumps for Water, Oil, Coolants, and Chemicals
+2025-04-17 16:13:35,020 - INFO - Updated skip list saved with 36 items
+2025-04-17 16:13:35,020 - INFO - Added 'Air-Powered Drum Pumps for Water, Oil, Coolants, and Chemicals' to skip list
+2025-04-17 16:13:36,126 - INFO - --- Product title : Air-Powered Drum Pumps with
+Hose and Filter/Lubricator for
+Water, Oil, Coolants, and Chemicals ---
+2025-04-17 16:13:36,172 - INFO - 
+  Product 10/14: Air-Powered Drum Pumps with
+Hose and Filter/Lubricator for
+Water, Oil, Coolants, and Chemicals
+2025-04-17 16:13:36,172 - INFO -     Link: https://www.mcmaster.com/products/flow-pumps/drum-pumps-2~/air-powered-drum-pumps-with-hose-and-filter-lubricator-for-water-oil-coolants-and-chemicals-9/
+2025-04-17 16:13:36,172 - INFO -     Image: https://www.mcmaster.com/mvC/Contents/gfx/ImageCache/824/8243k21p1-@100p_637209000204454111.png?ver=ImageNotFound
+2025-04-17 16:13:36,172 - INFO -     Description: A filter/lubricator ensures efficiency and reduces...
+2025-04-17 16:13:41,127 - INFO - Found 2 sections to process
+2025-04-17 16:13:41,355 - INFO - Processing product: Air-Powered Drum Pumps with Hose and Filter/Lubricator for Water, Oil, Coolants, and Chemicals
+2025-04-17 16:13:41,355 - INFO - Found 2 tables to extract
+2025-04-17 16:13:42,301 - INFO -   Extracted table 1/2
+2025-04-17 16:13:42,528 - INFO -   Extracted table 2/2
+2025-04-17 16:13:42,528 - INFO - Saving product data to database...
+2025-04-17 16:13:42,529 - INFO - Successfully saved: Air-Powered Drum Pumps with Hose and Filter/Lubricator for Water, Oil, Coolants, and Chemicals
+2025-04-17 16:13:42,529 - INFO - Updated skip list saved with 37 items
+2025-04-17 16:13:42,529 - INFO - Added 'Air-Powered Drum Pumps with Hose and Filter/Lubricator for Water, Oil, Coolants, and Chemicals' to skip list
+2025-04-17 16:13:43,629 - INFO - --- Product title : Air-Powered Drum Pumps
+for Flammable Liquid ---
+2025-04-17 16:13:43,676 - INFO - 
+  Product 11/14: Air-Powered Drum Pumps
+for Flammable Liquid
+2025-04-17 16:13:43,676 - INFO -     Link: https://www.mcmaster.com/products/flow-pumps/drum-pumps-2~/air-powered-drum-pumps-for-flammable-liquid-8/
+2025-04-17 16:13:43,676 - INFO -     Image: https://www.mcmaster.com/mvC/Contents/gfx/ImageCache/282/2824k39-@100p_637244628212960894.png?ver=ImageNotFound
+2025-04-17 16:13:43,676 - INFO -     Description: These pumps have a motor that is rated for IEC Zon...
+2025-04-17 16:13:49,183 - INFO - Found 2 sections to process
+2025-04-17 16:13:49,371 - INFO - Processing product: Air-Powered Drum Pumps for Flammable Liquid
+2025-04-17 16:13:49,371 - INFO - Found 2 tables to extract
+2025-04-17 16:13:50,333 - INFO -   Extracted table 1/2
+2025-04-17 16:13:50,501 - INFO -   Extracted table 2/2
+2025-04-17 16:13:50,501 - INFO - Saving product data to database...
+2025-04-17 16:13:50,502 - INFO - Successfully saved: Air-Powered Drum Pumps for Flammable Liquid
+2025-04-17 16:13:50,502 - INFO - Updated skip list saved with 38 items
+2025-04-17 16:13:50,503 - INFO - Added 'Air-Powered Drum Pumps for Flammable Liquid' to skip list
+2025-04-17 16:13:51,605 - INFO - --- Product title : High-Pressure Air-Powered Drum
+Pumps for Fuel and Flammable Liquid ---
+2025-04-17 16:13:51,650 - INFO - 
+  Product 12/14: High-Pressure Air-Powered Drum
+Pumps for Fuel and Flammable Liquid
+2025-04-17 16:13:51,650 - INFO -     Link: https://www.mcmaster.com/products/flow-pumps/drum-pumps-2~/high-pressure-air-powered-drum-pumps-for-fuel-and-flammable-liquid/
+2025-04-17 16:13:51,650 - INFO -     Image: https://www.mcmaster.com/mvC/Contents/gfx/ImageCache/430/4304k51p1-@100p_637208978741330804.png?ver=ImageNotFound
+2025-04-17 16:13:51,651 - INFO -     Description: Use these pumps with fuel and flammable liquids, s...
+2025-04-17 16:14:03,275 - INFO - Found 2 sections to process
+2025-04-17 16:14:03,417 - INFO - Processing product: High-Pressure Air-Powered Drum Pumps for Fuel and Flammable Liquid
+2025-04-17 16:14:03,418 - INFO - Found 1 tables to extract
+2025-04-17 16:14:04,139 - INFO -   Extracted table 1/1
+2025-04-17 16:14:04,139 - INFO - Saving product data to database...
+2025-04-17 16:14:04,140 - INFO - Successfully saved: High-Pressure Air-Powered Drum Pumps for Fuel and Flammable Liquid
+2025-04-17 16:14:04,141 - INFO - Updated skip list saved with 39 items
+2025-04-17 16:14:04,141 - INFO - Added 'High-Pressure Air-Powered Drum Pumps for Fuel and Flammable Liquid' to skip list
+2025-04-17 16:14:05,242 - INFO - --- Product title : High-Pressure Air-Powered
+Drum Pumps for Oil ---
+2025-04-17 16:14:05,284 - INFO - 
+  Product 13/14: High-Pressure Air-Powered
+Drum Pumps for Oil
+2025-04-17 16:14:05,284 - INFO -     Link: https://www.mcmaster.com/products/flow-pumps/drum-pumps-2~/high-pressure-air-powered-drum-pumps-for-oil-8/
+2025-04-17 16:14:05,284 - INFO -     Image: https://www.mcmaster.com/mvC/Contents/gfx/ImageCache/418/41835k39p1-@100p_637208286529605442.png?ver=ImageNotFound
+2025-04-17 16:14:05,284 - INFO -     Description: Transfer lubricating oil such as hydraulic and mot...
+2025-04-17 16:14:09,772 - INFO - Found 2 sections to process
+2025-04-17 16:14:09,954 - INFO - Processing product: High-Pressure Air-Powered Drum Pumps for Oil
+2025-04-17 16:14:09,954 - INFO - Found 2 tables to extract
+2025-04-17 16:14:10,586 - INFO -   Extracted table 1/2
+2025-04-17 16:14:10,697 - INFO -   Extracted table 2/2
+2025-04-17 16:14:10,697 - INFO - Saving product data to database...
+2025-04-17 16:14:10,698 - INFO - Successfully saved: High-Pressure Air-Powered Drum Pumps for Oil
+2025-04-17 16:14:10,698 - INFO - Updated skip list saved with 40 items
+2025-04-17 16:14:10,698 - INFO - Added 'High-Pressure Air-Powered Drum Pumps for Oil' to skip list
+2025-04-17 16:14:11,804 - INFO - --- Product title : High-Pressure Air-Powered
+Drum Pumps for Chemicals ---
+2025-04-17 16:14:11,848 - INFO - 
+  Product 14/14: High-Pressure Air-Powered
+Drum Pumps for Chemicals
+2025-04-17 16:14:11,849 - INFO -     Link: https://www.mcmaster.com/products/flow-pumps/drum-pumps-2~/high-pressure-air-powered-drum-pumps-for-chemicals/
+2025-04-17 16:14:11,849 - INFO -     Image: https://www.mcmaster.com/mvC/Contents/gfx/ImageCache/295/2950n1-@100p_636970720832828612.png?ver=ImageNotFound
+2025-04-17 16:14:11,849 - INFO -     Description: With a higher pressure than other air-powered drum...
+2025-04-17 16:14:16,736 - INFO - Found 2 sections to process
+2025-04-17 16:14:16,914 - INFO - Processing product: High-Pressure Air-Powered Drum Pumps for Chemicals
+2025-04-17 16:14:16,914 - INFO - Found 1 tables to extract
+2025-04-17 16:14:17,565 - INFO -   Extracted table 1/1
+2025-04-17 16:14:17,565 - INFO - Saving product data to database...
+2025-04-17 16:14:17,566 - INFO - Successfully saved: High-Pressure Air-Powered Drum Pumps for Chemicals
+2025-04-17 16:14:17,566 - INFO - Updated skip list saved with 41 items
+2025-04-17 16:14:17,566 - INFO - Added 'High-Pressure Air-Powered Drum Pumps for Chemicals' to skip list
+2025-04-17 16:14:19,668 - INFO - Processing group 3/5: Electric Drum Pumps
+2025-04-17 16:14:19,668 - INFO -   Contains 8 products
+2025-04-17 16:14:19,691 - INFO - --- Product title : Electric Drum Pumps for
+Water, Oil, and Chemicals ---
+2025-04-17 16:14:19,723 - INFO - 
+  Product 1/8: Electric Drum Pumps for
+Water, Oil, and Chemicals
+2025-04-17 16:14:19,723 - INFO -     Link: https://www.mcmaster.com/products/flow-pumps/drum-pumps-2~/electric-drum-pumps-for-water-oil-and-chemicals-10/
+2025-04-17 16:14:19,723 - INFO -     Image: https://www.mcmaster.com/mvC/Contents/gfx/ImageCache/253/2539k58p1-@100p_637208266539196735.png?ver=ImageNotFound
+2025-04-17 16:14:19,723 - INFO -     Description: Drain and transfer liquid more quickly and easily ...
+2025-04-17 16:14:24,435 - INFO - Found 2 sections to process
+2025-04-17 16:14:24,544 - INFO - Processing product: Electric Drum Pumps for Water, Oil, and Chemicals
+2025-04-17 16:14:24,544 - INFO - Found 3 tables to extract
+2025-04-17 16:14:25,159 - INFO -   Extracted table 1/3
+2025-04-17 16:14:25,552 - INFO -   Extracted table 2/3
+2025-04-17 16:14:26,116 - INFO -   Extracted table 3/3
+2025-04-17 16:14:26,116 - INFO - Saving product data to database...
+2025-04-17 16:14:26,117 - INFO - Successfully saved: Electric Drum Pumps for Water, Oil, and Chemicals
+2025-04-17 16:14:26,117 - INFO - Updated skip list saved with 42 items
+2025-04-17 16:14:26,117 - INFO - Added 'Electric Drum Pumps for Water, Oil, and Chemicals' to skip list
+2025-04-17 16:14:27,221 - INFO - --- Product title : Hazardous Location Electric Drum Pumps
+for Water, Oil, Coolants, and Chemicals ---
+2025-04-17 16:14:27,264 - INFO - 
+  Product 2/8: Hazardous Location Electric Drum Pumps
+for Water, Oil, Coolants, and Chemicals
+2025-04-17 16:14:27,264 - INFO -     Link: https://www.mcmaster.com/products/flow-pumps/drum-pumps-2~/hazardous-location-electric-drum-pumps-for-water-oil-coolants-and-chemicals-10/
+2025-04-17 16:14:27,264 - INFO -     Image: https://www.mcmaster.com/mvC/Contents/gfx/ImageCache/426/42675k47p1-@100p_637208301849323560.png?ver=ImageNotFound
+2025-04-17 16:14:27,264 - INFO -     Description: These pumps quickly empty drum contents by moving ...
+2025-04-17 16:14:31,354 - INFO - Found 2 sections to process
+2025-04-17 16:14:31,442 - INFO - Processing product: Hazardous Location Electric Drum Pumps for Water, Oil, Coolants, and Chemicals
+2025-04-17 16:14:31,442 - INFO - Found 2 tables to extract
+2025-04-17 16:14:31,847 - INFO -   Extracted table 1/2
+2025-04-17 16:14:32,323 - INFO -   Extracted table 2/2
+2025-04-17 16:14:32,323 - INFO - Saving product data to database...
+2025-04-17 16:14:32,324 - INFO - Successfully saved: Hazardous Location Electric Drum Pumps for Water, Oil, Coolants, and Chemicals
+2025-04-17 16:14:32,324 - INFO - Updated skip list saved with 43 items
+2025-04-17 16:14:32,324 - INFO - Added 'Hazardous Location Electric Drum Pumps for Water, Oil, Coolants, and Chemicals' to skip list
+2025-04-17 16:14:33,431 - INFO - --- Product title : High-Flow Electric Drum Pumps for
+Water, Oil, Coolants, and Chemicals ---
+2025-04-17 16:14:33,475 - INFO - 
+  Product 3/8: High-Flow Electric Drum Pumps for
+Water, Oil, Coolants, and Chemicals
+2025-04-17 16:14:33,475 - INFO -     Link: https://www.mcmaster.com/products/flow-pumps/drum-pumps-2~/high-flow-electric-drum-pumps-for-water-oil-coolants-and-chemicals-9/
+2025-04-17 16:14:33,475 - INFO -     Image: https://www.mcmaster.com/mvC/Contents/gfx/ImageCache/680/6800k18p1-@100p_637208988544542874.png?ver=ImageNotFound
+2025-04-17 16:14:33,475 - INFO -     Description: Designed to move 40 gallons of liquid per minute, ...
+2025-04-17 16:14:37,971 - INFO - Found 2 sections to process
+2025-04-17 16:14:38,060 - INFO - Processing product: High-Flow Electric Drum Pumps for Water, Oil, Coolants, and Chemicals
+2025-04-17 16:14:38,060 - INFO - Found 2 tables to extract
+2025-04-17 16:14:39,201 - INFO -   Extracted table 1/2
+2025-04-17 16:14:39,380 - INFO -   Extracted table 2/2
+2025-04-17 16:14:39,380 - INFO - Saving product data to database...
+2025-04-17 16:14:39,381 - INFO - Successfully saved: High-Flow Electric Drum Pumps for Water, Oil, Coolants, and Chemicals
+2025-04-17 16:14:39,381 - INFO - Updated skip list saved with 44 items
+2025-04-17 16:14:39,382 - INFO - Added 'High-Flow Electric Drum Pumps for Water, Oil, Coolants, and Chemicals' to skip list
+2025-04-17 16:14:40,533 - INFO - --- Product title : Adjustable-Flow Electric Drum Pumps
+for Water, Oil, Coolants, and Chemicals ---
+2025-04-17 16:14:40,571 - INFO - 
+  Product 4/8: Adjustable-Flow Electric Drum Pumps
+for Water, Oil, Coolants, and Chemicals
+2025-04-17 16:14:40,571 - INFO -     Link: https://www.mcmaster.com/products/flow-pumps/drum-pumps-2~/adjustable-flow-electric-drum-pumps-for-water-oil-coolants-and-chemicals-9/
+2025-04-17 16:14:40,571 - INFO -     Image: https://www.mcmaster.com/mvC/Contents/gfx/ImageCache/428/42895k82p1-@100p_637208975883085913.png?ver=ImageNotFound
+2025-04-17 16:14:40,571 - INFO -     Description: Alter the flow rate for versatile dispensing....
+2025-04-17 16:14:44,673 - INFO - Found 2 sections to process
+2025-04-17 16:14:44,799 - INFO - Processing product: Adjustable-Flow Electric Drum Pumps for Water, Oil, Coolants, and Chemicals
+2025-04-17 16:14:44,799 - INFO - Found 3 tables to extract
+2025-04-17 16:14:45,392 - INFO -   Extracted table 1/3
+2025-04-17 16:14:46,512 - INFO -   Extracted table 2/3
+2025-04-17 16:14:48,143 - INFO -   Extracted table 3/3
+2025-04-17 16:14:48,143 - INFO - Saving product data to database...
+2025-04-17 16:14:48,144 - INFO - Successfully saved: Adjustable-Flow Electric Drum Pumps for Water, Oil, Coolants, and Chemicals
+2025-04-17 16:14:48,144 - INFO - Updated skip list saved with 45 items
+2025-04-17 16:14:48,144 - INFO - Added 'Adjustable-Flow Electric Drum Pumps for Water, Oil, Coolants, and Chemicals' to skip list
+2025-04-17 16:14:49,247 - INFO - --- Product title : Precise-Flow Electric Drum Pumps
+for Water, Oil, and Chemicals ---
+2025-04-17 16:14:49,287 - INFO - 
+  Product 5/8: Precise-Flow Electric Drum Pumps
+for Water, Oil, and Chemicals
+2025-04-17 16:14:49,287 - INFO -     Link: https://www.mcmaster.com/products/flow-pumps/drum-pumps-2~/precise-flow-electric-drum-pumps-for-water-oil-and-chemicals-9/
+2025-04-17 16:14:49,287 - INFO -     Image: https://www.mcmaster.com/mvC/Contents/gfx/ImageCache/434/4341k36c1-1585319276-p9@100p_637208980832722463.png?ver=ImageNotFound
+2025-04-17 16:14:49,287 - INFO -     Description: For accurate dispensing in extremely low-flow appl...
+2025-04-17 16:14:53,786 - INFO - Found 2 sections to process
+2025-04-17 16:14:53,874 - INFO - Processing product: Precise-Flow Electric Drum Pumps for Water, Oil, and Chemicals
+2025-04-17 16:14:53,874 - INFO - Found 1 tables to extract
+2025-04-17 16:14:54,456 - INFO -   Extracted table 1/1
+2025-04-17 16:14:54,456 - INFO - Saving product data to database...
+2025-04-17 16:14:54,457 - INFO - Successfully saved: Precise-Flow Electric Drum Pumps for Water, Oil, and Chemicals
+2025-04-17 16:14:54,463 - INFO - Updated skip list saved with 46 items
+2025-04-17 16:14:54,463 - INFO - Added 'Precise-Flow Electric Drum Pumps for Water, Oil, and Chemicals' to skip list
+2025-04-17 16:14:55,578 - INFO - --- Product title : Electric Drum Pump Systems for
+Water, Oil, Coolants, and Chemicals ---
+2025-04-17 16:14:55,622 - INFO - 
+  Product 6/8: Electric Drum Pump Systems for
+Water, Oil, Coolants, and Chemicals
+2025-04-17 16:14:55,623 - INFO -     Link: https://www.mcmaster.com/products/flow-pumps/drum-pumps-2~/electric-drum-pump-systems-for-water-oil-coolants-and-chemicals/
+2025-04-17 16:14:55,623 - INFO -     Image: https://www.mcmaster.com/mvC/Contents/gfx/ImageCache/713/7133t25p1-@100p_637208989092776205.png?ver=ImageNotFound
+2025-04-17 16:14:55,623 - INFO -     Description: Including nozzles and connectors, these pumps come...
+2025-04-17 16:15:00,020 - INFO - Found 2 sections to process
+2025-04-17 16:15:00,249 - INFO - Processing product: Electric Drum Pump Systems for Water, Oil, Coolants, and Chemicals
+2025-04-17 16:15:00,249 - INFO - Found 1 tables to extract
+2025-04-17 16:15:01,794 - INFO -   Extracted table 1/1
+2025-04-17 16:15:01,795 - INFO - Saving product data to database...
+2025-04-17 16:15:01,795 - INFO - Successfully saved: Electric Drum Pump Systems for Water, Oil, Coolants, and Chemicals
+2025-04-17 16:15:01,796 - INFO - Updated skip list saved with 47 items
+2025-04-17 16:15:01,796 - INFO - Added 'Electric Drum Pump Systems for Water, Oil, Coolants, and Chemicals' to skip list
+2025-04-17 16:15:02,897 - INFO - --- Product title : Sanitary Electric Drum Pumps ---
+2025-04-17 16:15:02,940 - INFO - 
+  Product 7/8: Sanitary Electric Drum Pumps
+2025-04-17 16:15:02,940 - INFO -     Link: https://www.mcmaster.com/products/flow-pumps/drum-pumps-2~/sanitary-electric-drum-pumps/
+2025-04-17 16:15:02,940 - INFO -     Image: https://www.mcmaster.com/mvC/Contents/gfx/ImageCache/332/3328k11p1-@100p_637208280020629521.png?ver=ImageNotFound
+2025-04-17 16:15:02,940 - INFO -     Description: Commonly used in food, beverage, pharmaceutical, a...
+2025-04-17 16:15:07,480 - INFO - Found 2 sections to process
+2025-04-17 16:15:07,658 - INFO - Processing product: Sanitary Electric Drum Pumps
+2025-04-17 16:15:07,658 - INFO - Found 1 tables to extract
+2025-04-17 16:15:09,039 - INFO -   Extracted table 1/1
+2025-04-17 16:15:09,039 - INFO - Saving product data to database...
+2025-04-17 16:15:09,040 - INFO - Successfully saved: Sanitary Electric Drum Pumps
+2025-04-17 16:15:09,040 - INFO - Updated skip list saved with 48 items
+2025-04-17 16:15:09,040 - INFO - Added 'Sanitary Electric Drum Pumps' to skip list
+2025-04-17 16:15:10,148 - INFO - --- Product title : Electric Drum Pumps with Nozzle for Fuel ---
+2025-04-17 16:15:10,194 - INFO - 
+  Product 8/8: Electric Drum Pumps with Nozzle for Fuel
+2025-04-17 16:15:10,194 - INFO -     Link: https://www.mcmaster.com/products/flow-pumps/drum-pumps-2~/electric-drum-pumps-with-nozzle-for-fuel/
+2025-04-17 16:15:10,194 - INFO -     Image: https://www.mcmaster.com/mvC/Contents/gfx/ImageCache/810/8108k43-@100p_636952465695708462.png?ver=ImageNotFound
+2025-04-17 16:15:10,194 - INFO -     Description: These pumps are rated for fuel such as gasoline, k...
+2025-04-17 16:15:14,295 - INFO - Found 2 sections to process
+2025-04-17 16:15:14,461 - INFO - Processing product: Electric Drum Pumps with Nozzle for Fuel
+2025-04-17 16:15:14,462 - INFO - Found 3 tables to extract
+2025-04-17 16:15:15,061 - INFO -   Extracted table 1/3
+2025-04-17 16:15:15,510 - INFO -   Extracted table 2/3
+2025-04-17 16:15:15,680 - INFO -   Extracted table 3/3
+2025-04-17 16:15:15,680 - INFO - Saving product data to database...
+2025-04-17 16:15:15,681 - INFO - Successfully saved: Electric Drum Pumps with Nozzle for Fuel
+2025-04-17 16:15:15,681 - INFO - Updated skip list saved with 49 items
+2025-04-17 16:15:15,681 - INFO - Added 'Electric Drum Pumps with Nozzle for Fuel' to skip list
+2025-04-17 16:15:17,786 - INFO - Processing group 4/5: Battery-Operated Drum Pumps
+2025-04-17 16:15:17,786 - INFO -   Contains 6 products
+2025-04-17 16:15:17,810 - INFO - --- Product title : Portable Battery-Operated
+Drum Pumps for Diesel Fuel ---
+2025-04-17 16:15:17,844 - INFO - 
+  Product 1/6: Portable Battery-Operated
+Drum Pumps for Diesel Fuel
+2025-04-17 16:15:17,844 - INFO -     Link: https://www.mcmaster.com/products/flow-pumps/drum-pumps-2~/portable-battery-operated-drum-pumps-for-diesel-fuel-7/
+2025-04-17 16:15:17,844 - INFO -     Image: https://www.mcmaster.com/mvC/Contents/gfx/ImageCache/991/99155k33p1-c01a-digital@100p_636899889816999430.png?ver=ImageNotFound
+2025-04-17 16:15:17,844 - INFO -     Description: Attach these pumps to any 12-volt battery for on-s...
+2025-04-17 16:15:22,413 - INFO - Found 2 sections to process
+2025-04-17 16:15:22,528 - INFO - Processing product: Portable Battery-Operated Drum Pumps for Diesel Fuel
+2025-04-17 16:15:22,528 - INFO - Found 1 tables to extract
+2025-04-17 16:15:23,225 - INFO -   Extracted table 1/1
+2025-04-17 16:15:23,225 - INFO - Saving product data to database...
+2025-04-17 16:15:23,226 - INFO - Successfully saved: Portable Battery-Operated Drum Pumps for Diesel Fuel
+2025-04-17 16:15:23,232 - INFO - Updated skip list saved with 50 items
+2025-04-17 16:15:23,232 - INFO - Added 'Portable Battery-Operated Drum Pumps for Diesel Fuel' to skip list
+2025-04-17 16:15:24,378 - INFO - --- Product title : Portable Battery-Operated Drum
+Pumps with Nozzle for Diesel Fuel ---
+2025-04-17 16:15:24,460 - INFO - 
+  Product 2/6: Portable Battery-Operated Drum
+Pumps with Nozzle for Diesel Fuel
+2025-04-17 16:15:24,461 - INFO -     Link: https://www.mcmaster.com/products/flow-pumps/drum-pumps-2~/portable-battery-operated-drum-pumps-with-nozzle-for-diesel-fuel/
+2025-04-17 16:15:24,461 - INFO -     Image: https://www.mcmaster.com/mvC/Contents/gfx/ImageCache/991/99155k55p1-@100p_637209020021129032.png?ver=ImageNotFound
+2025-04-17 16:15:24,461 - INFO -     Description: A nozzle and hose allow you to dispense directly i...
+2025-04-17 16:15:28,965 - INFO - Found 2 sections to process
+2025-04-17 16:15:29,077 - INFO - Processing product: Portable Battery-Operated Drum Pumps with Nozzle for Diesel Fuel
+2025-04-17 16:15:29,077 - INFO - Found 1 tables to extract
+2025-04-17 16:15:29,794 - INFO -   Extracted table 1/1
+2025-04-17 16:15:29,794 - INFO - Saving product data to database...
+2025-04-17 16:15:29,795 - INFO - Successfully saved: Portable Battery-Operated Drum Pumps with Nozzle for Diesel Fuel
+2025-04-17 16:15:29,795 - INFO - Updated skip list saved with 51 items
+2025-04-17 16:15:29,795 - INFO - Added 'Portable Battery-Operated Drum Pumps with Nozzle for Diesel Fuel' to skip list
+2025-04-17 16:15:30,948 - INFO - --- Product title : Battery-Operated Siphon Drum Pumps ---
+2025-04-17 16:15:30,994 - INFO - 
+  Product 3/6: Battery-Operated Siphon Drum Pumps
+2025-04-17 16:15:30,994 - INFO -     Link: https://www.mcmaster.com/products/flow-pumps/drum-pumps-2~/battery-operated-siphon-drum-pumps/
+2025-04-17 16:15:30,994 - INFO -     Image: https://www.mcmaster.com/mvC/Contents/gfx/ImageCache/238/2382k66p1-@100p_637208263941815711.png?ver=ImageNotFound
+2025-04-17 16:15:30,995 - INFO -     Description: Quickly generate suction with battery power....
+2025-04-17 16:15:35,592 - INFO - Found 2 sections to process
+2025-04-17 16:15:35,722 - INFO - Processing product: Battery-Operated Siphon Drum Pumps
+2025-04-17 16:15:35,722 - INFO - Found 1 tables to extract
+2025-04-17 16:15:36,588 - INFO -   Extracted table 1/1
+2025-04-17 16:15:36,588 - INFO - Saving product data to database...
+2025-04-17 16:15:36,589 - INFO - Successfully saved: Battery-Operated Siphon Drum Pumps
+2025-04-17 16:15:36,590 - INFO - Updated skip list saved with 52 items
+2025-04-17 16:15:36,590 - INFO - Added 'Battery-Operated Siphon Drum Pumps' to skip list
+2025-04-17 16:15:37,688 - INFO - --- Product title : Battery-Operated Drum
+Pumps with Nozzle for Fuel ---
+2025-04-17 16:15:37,733 - INFO - 
+  Product 4/6: Battery-Operated Drum
+Pumps with Nozzle for Fuel
+2025-04-17 16:15:37,733 - INFO -     Link: https://www.mcmaster.com/products/flow-pumps/drum-pumps-2~/battery-operated-drum-pumps-with-nozzle-for-fuel-7/
+2025-04-17 16:15:37,733 - INFO -     Image: https://www.mcmaster.com/mvC/Contents/gfx/ImageCache/997/9972k18p1-@100p_637209195160782901.png?ver=ImageNotFound
+2025-04-17 16:15:37,733 - INFO -     Description: Operating on a 12-volt battery, use these pumps to...
+2025-04-17 16:15:42,195 - INFO - Found 2 sections to process
+2025-04-17 16:15:42,320 - INFO - Processing product: Battery-Operated Drum Pumps with Nozzle for Fuel
+2025-04-17 16:15:42,320 - INFO - Found 1 tables to extract
+2025-04-17 16:15:42,896 - INFO -   Extracted table 1/1
+2025-04-17 16:15:42,896 - INFO - Saving product data to database...
+2025-04-17 16:15:42,897 - INFO - Successfully saved: Battery-Operated Drum Pumps with Nozzle for Fuel
+2025-04-17 16:15:42,897 - INFO - Updated skip list saved with 53 items
+2025-04-17 16:15:42,897 - INFO - Added 'Battery-Operated Drum Pumps with Nozzle for Fuel' to skip list
+2025-04-17 16:15:44,007 - INFO - --- Product title : Hazardous Location High-Flow
+Battery-Operated Drum
+Pumps with Nozzle for Fuel ---
+2025-04-17 16:15:44,048 - INFO - 
+  Product 5/6: Hazardous Location High-Flow
+Battery-Operated Drum
+Pumps with Nozzle for Fuel
+2025-04-17 16:15:44,048 - INFO -     Link: https://www.mcmaster.com/products/flow-pumps/drum-pumps-2~/hazardous-location-high-flow-battery-operated-drum-pumps-with-nozzle-for-fuel/
+2025-04-17 16:15:44,048 - INFO -     Image: https://www.mcmaster.com/mvC/Contents/gfx/ImageCache/265/2651K25-@100p_637622824282833281.png?ver=ImageNotFound
+2025-04-17 16:15:44,049 - INFO -     Description: These pumps are C-UL listed for use in environment...
+2025-04-17 16:15:48,542 - INFO - Found 2 sections to process
+2025-04-17 16:15:48,672 - INFO - Processing product: Hazardous Location High-Flow Battery-Operated Drum Pumps with Nozzle for Fuel
+2025-04-17 16:15:48,672 - INFO - Found 1 tables to extract
+2025-04-17 16:15:49,460 - INFO -   Extracted table 1/1
+2025-04-17 16:15:49,460 - INFO - Saving product data to database...
+2025-04-17 16:15:49,461 - INFO - Successfully saved: Hazardous Location High-Flow Battery-Operated Drum Pumps with Nozzle for Fuel
+2025-04-17 16:15:49,461 - INFO - Updated skip list saved with 54 items
+2025-04-17 16:15:49,461 - INFO - Added 'Hazardous Location High-Flow Battery-Operated Drum Pumps with Nozzle for Fuel' to skip list
+2025-04-17 16:15:50,593 - INFO - --- Product title : Battery-Operated Drum
+Pumps with Nozzle for Oil ---
+2025-04-17 16:15:50,632 - INFO - 
+  Product 6/6: Battery-Operated Drum
+Pumps with Nozzle for Oil
+2025-04-17 16:15:50,633 - INFO -     Link: https://www.mcmaster.com/products/flow-pumps/drum-pumps-2~/battery-operated-drum-pumps-with-nozzle-for-oil-7/
+2025-04-17 16:15:50,633 - INFO -     Image: https://www.mcmaster.com/mvC/Contents/gfx/ImageCache/387/3877n213-@100p_b6tt8_1722360544.png?ver=ImageNotFound
+2025-04-17 16:15:50,633 - INFO -     Description: Quickly and cleanly transfer oil with no need for ...
+2025-04-17 16:15:55,013 - INFO - Found 2 sections to process
+2025-04-17 16:15:55,200 - INFO - Processing product: Battery-Operated Drum Pumps with Nozzle for Oil
+2025-04-17 16:15:55,200 - INFO - Found 6 tables to extract
+2025-04-17 16:15:55,815 - INFO -   Extracted table 1/6
+2025-04-17 16:15:56,177 - INFO -   Extracted table 2/6
+2025-04-17 16:15:56,347 - INFO -   Extracted table 3/6
+2025-04-17 16:15:56,569 - INFO -   Extracted table 4/6
+2025-04-17 16:15:56,720 - INFO -   Extracted table 5/6
+2025-04-17 16:15:56,873 - INFO -   Extracted table 6/6
+2025-04-17 16:15:56,873 - INFO - Saving product data to database...
+2025-04-17 16:15:56,874 - INFO - Successfully saved: Battery-Operated Drum Pumps with Nozzle for Oil
+2025-04-17 16:15:56,874 - INFO - Updated skip list saved with 55 items
+2025-04-17 16:15:56,874 - INFO - Added 'Battery-Operated Drum Pumps with Nozzle for Oil' to skip list
+2025-04-17 16:15:58,998 - INFO - Processing group 5/5: Foot-Operated Drum Pumps
+2025-04-17 16:15:58,998 - INFO -   Contains 2 products
+2025-04-17 16:15:59,022 - INFO - --- Product title : Foot-Operated Drum
+Pumps for Harsh Chemicals ---
+2025-04-17 16:15:59,054 - INFO - 
+  Product 1/2: Foot-Operated Drum
+Pumps for Harsh Chemicals
+2025-04-17 16:15:59,054 - INFO -     Link: https://www.mcmaster.com/products/flow-pumps/drum-pumps-2~/foot-operated-drum-pumps-for-harsh-chemicals/
+2025-04-17 16:15:59,054 - INFO -     Image: https://www.mcmaster.com/mvC/Contents/gfx/ImageCache/448/4482n11-2-@100p_636970715189964531.png?ver=ImageNotFound
+2025-04-17 16:15:59,054 - INFO -     Description: Made of PVDF components, these pumps resist harsh ...
+2025-04-17 16:16:03,523 - INFO - Found 2 sections to process
+2025-04-17 16:16:03,624 - INFO - Processing product: Foot-Operated Drum Pumps for Harsh Chemicals
+2025-04-17 16:16:03,624 - INFO - Found 1 tables to extract
+2025-04-17 16:16:04,129 - INFO -   Extracted table 1/1
+2025-04-17 16:16:04,130 - INFO - Saving product data to database...
+2025-04-17 16:16:04,133 - INFO - Successfully saved: Foot-Operated Drum Pumps for Harsh Chemicals
+2025-04-17 16:16:04,134 - INFO - Updated skip list saved with 56 items
+2025-04-17 16:16:04,134 - INFO - Added 'Foot-Operated Drum Pumps for Harsh Chemicals' to skip list
+2025-04-17 16:16:05,278 - INFO - --- Product title : Foot-Operated Drum Pumps for Water and Oil ---
+2025-04-17 16:16:05,322 - INFO - 
+  Product 2/2: Foot-Operated Drum Pumps for Water and Oil
+2025-04-17 16:16:05,322 - INFO -     Link: https://www.mcmaster.com/products/flow-pumps/drum-pumps-2~/foot-operated-drum-pumps-for-water-and-oil/
+2025-04-17 16:16:05,322 - INFO -     Image: https://www.mcmaster.com/mvC/Contents/gfx/ImageCache/283/2830n12-2-@100p_636970719084347606.png?ver=ImageNotFound
+2025-04-17 16:16:05,322 - INFO -     Description: The foot pedal allows hands-free operation....
+2025-04-17 16:16:09,748 - INFO - Found 2 sections to process
+2025-04-17 16:16:09,822 - INFO - Processing product: Foot-Operated Drum Pumps for Water and Oil
+2025-04-17 16:16:09,823 - INFO - Found 1 tables to extract
+2025-04-17 16:16:10,358 - INFO -   Extracted table 1/1
+2025-04-17 16:16:10,358 - INFO - Saving product data to database...
+2025-04-17 16:16:10,359 - INFO - Successfully saved: Foot-Operated Drum Pumps for Water and Oil
+2025-04-17 16:16:10,359 - INFO - Updated skip list saved with 57 items
+2025-04-17 16:16:10,359 - INFO - Added 'Foot-Operated Drum Pumps for Water and Oil' to skip list
+2025-04-17 16:16:12,454 - INFO - Updated skip list saved with 58 items
+2025-04-17 16:16:12,454 - INFO -   Added 'Drum Pumps' to skip list
+2025-04-17 16:16:13,659 - INFO -     Processing item 4/42
+2025-04-17 16:16:13,660 - INFO -   Sub Category 3: Sump Pumps
+2025-04-17 16:16:13,660 - INFO -   Products: 60 products
+2025-04-17 16:16:13,660 - INFO -   Opening: https://www.mcmaster.com/products/flow-pumps/sump-pumps-1~/
+2025-04-17 16:16:13,719 - INFO - --- Switched to new tab 
+2025-04-17 16:16:17,753 - INFO -       [Contains Table page ]
+2025-04-17 16:16:19,792 - INFO - Found 2 sections to process
+2025-04-17 16:16:22,501 - INFO - Processing product: Float-Switch Activated Sump Pumps for Water
+2025-04-17 16:16:22,501 - INFO - Found 37 tables to extract
+2025-04-17 16:16:23,066 - INFO -   Extracted table 1/37
+2025-04-17 16:16:23,959 - INFO -   Extracted table 2/37
+2025-04-17 16:16:24,595 - INFO -   Extracted table 3/37
+2025-04-17 16:16:25,240 - INFO -   Extracted table 4/37
+2025-04-17 16:16:25,838 - INFO -   Extracted table 5/37
+2025-04-17 16:16:26,065 - INFO -   Extracted table 6/37
+2025-04-17 16:16:26,597 - INFO -   Extracted table 7/37
+2025-04-17 16:16:27,293 - INFO -   Extracted table 8/37
+2025-04-17 16:16:27,425 - INFO -   Extracted table 9/37
+2025-04-17 16:16:28,283 - INFO -   Extracted table 10/37
+2025-04-17 16:16:28,866 - INFO -   Extracted table 11/37
+2025-04-17 16:16:29,704 - INFO -   Extracted table 12/37
+2025-04-17 16:16:29,957 - INFO -   Extracted table 13/37
+2025-04-17 16:16:30,233 - INFO -   Extracted table 14/37
+2025-04-17 16:16:30,430 - INFO -   Extracted table 15/37
+2025-04-17 16:16:31,589 - INFO -   Extracted table 16/37
+2025-04-17 16:16:32,443 - INFO -   Extracted table 17/37
+2025-04-17 16:16:33,172 - INFO -   Extracted table 18/37
+2025-04-17 16:16:33,841 - INFO -   Extracted table 19/37
+2025-04-17 16:16:34,635 - INFO -   Extracted table 20/37
+2025-04-17 16:16:35,216 - INFO -   Extracted table 21/37
+2025-04-17 16:16:35,748 - INFO -   Extracted table 22/37
+2025-04-17 16:16:37,316 - INFO -   Extracted table 23/37
+2025-04-17 16:16:39,962 - INFO -   Extracted table 24/37
+2025-04-17 16:16:41,454 - INFO -   Extracted table 25/37
+2025-04-17 16:16:42,345 - INFO -   Extracted table 26/37
+2025-04-17 16:16:43,103 - INFO -   Extracted table 27/37
+2025-04-17 16:16:44,177 - INFO -   Extracted table 28/37
+2025-04-17 16:16:45,511 - INFO -   Extracted table 29/37
+2025-04-17 16:16:46,067 - INFO -   Extracted table 30/37
+2025-04-17 16:16:46,844 - INFO -   Extracted table 31/37
+2025-04-17 16:16:47,703 - INFO -   Extracted table 32/37
+2025-04-17 16:16:48,824 - INFO -   Extracted table 33/37
+2025-04-17 16:16:49,338 - INFO -   Extracted table 34/37
+2025-04-17 16:16:49,467 - INFO -   Extracted table 35/37
+2025-04-17 16:16:50,028 - INFO -   Extracted table 36/37
+2025-04-17 16:16:50,388 - INFO -   Extracted table 37/37
+2025-04-17 16:16:50,388 - INFO - Saving product data to database...
+2025-04-17 16:16:50,389 - INFO - Successfully saved: Float-Switch Activated Sump Pumps for Water
+2025-04-17 16:16:50,389 - INFO - Updated skip list saved with 59 items
+2025-04-17 16:16:50,389 - INFO - Added 'Float-Switch Activated Sump Pumps for Water' to skip list
+2025-04-17 16:16:50,395 - INFO - Updated skip list saved with 60 items
+2025-04-17 16:16:50,396 - INFO -   Added 'Sump Pumps' to skip list
+2025-04-17 16:16:51,628 - INFO -     Processing item 5/42
+2025-04-17 16:16:51,629 - INFO -   Sub Category 3: Submersible Pumps
+2025-04-17 16:16:51,629 - INFO -   Products: 35 products
+2025-04-17 16:16:51,629 - INFO -   Opening: https://www.mcmaster.com/products/flow-pumps/submersible-pumps-2~/
+2025-04-17 16:16:51,696 - INFO - --- Switched to new tab 
+2025-04-17 16:16:56,233 - INFO -       [Contains Table page ]
+2025-04-17 16:16:58,282 - INFO - Found 4 sections to process
+2025-04-17 16:16:59,889 - INFO - Processing product: Submersible Pumps for Water
+2025-04-17 16:16:59,889 - INFO - Found 15 tables to extract
+2025-04-17 16:17:00,679 - INFO -   Extracted table 1/15
+2025-04-17 16:17:01,761 - INFO -   Extracted table 2/15
+2025-04-17 16:17:02,977 - INFO -   Extracted table 3/15
+2025-04-17 16:17:03,491 - INFO -   Extracted table 4/15
+2025-04-17 16:17:04,047 - INFO -   Extracted table 5/15
+2025-04-17 16:17:04,522 - INFO -   Extracted table 6/15
+2025-04-17 16:17:06,002 - INFO -   Extracted table 7/15
+2025-04-17 16:17:07,350 - INFO -   Extracted table 8/15
+2025-04-17 16:17:07,819 - INFO -   Extracted table 9/15
+2025-04-17 16:17:08,540 - INFO -   Extracted table 10/15
+2025-04-17 16:17:09,100 - INFO -   Extracted table 11/15
+2025-04-17 16:17:09,710 - INFO -   Extracted table 12/15
+2025-04-17 16:17:10,287 - INFO -   Extracted table 13/15
+2025-04-17 16:17:11,453 - INFO -   Extracted table 14/15
+2025-04-17 16:17:12,099 - INFO -   Extracted table 15/15
+2025-04-17 16:17:12,099 - INFO - Saving product data to database...
+2025-04-17 16:17:12,100 - INFO - Successfully saved: Submersible Pumps for Water
+2025-04-17 16:17:12,101 - INFO - Updated skip list saved with 61 items
+2025-04-17 16:17:12,101 - INFO - Added 'Submersible Pumps for Water' to skip list
+2025-04-17 16:17:12,107 - INFO - Updated skip list saved with 62 items
+2025-04-17 16:17:12,107 - INFO -   Added 'Submersible Pumps' to skip list
+2025-04-17 16:17:13,372 - INFO -     Processing item 6/42
+2025-04-17 16:17:13,373 - INFO -   Sub Category 3: Dewatering Pumps
+2025-04-17 16:17:13,373 - INFO -   Products: 40 products
+2025-04-17 16:17:13,373 - INFO -   Opening: https://www.mcmaster.com/products/flow-pumps/dewatering-pumps-2~/
+2025-04-17 16:17:13,448 - INFO - --- Switched to new tab 
+2025-04-17 16:17:18,002 - INFO -       [Contains Table page ]
+2025-04-17 16:17:20,050 - INFO - Found 3 sections to process
+2025-04-17 16:17:21,504 - INFO - Processing product: Harsh-Environment Self-Priming Water-Removal Pumps
+2025-04-17 16:17:21,504 - INFO - Found 28 tables to extract
+2025-04-17 16:17:21,969 - INFO -   Extracted table 1/28
+2025-04-17 16:17:22,356 - INFO -   Extracted table 2/28
+2025-04-17 16:17:22,686 - INFO -   Extracted table 3/28
+2025-04-17 16:17:23,650 - INFO -   Extracted table 4/28
+2025-04-17 16:17:23,834 - INFO -   Extracted table 5/28
+2025-04-17 16:17:24,517 - INFO -   Extracted table 6/28
+2025-04-17 16:17:24,977 - INFO -   Extracted table 7/28
+2025-04-17 16:17:25,494 - INFO -   Extracted table 8/28
+2025-04-17 16:17:26,087 - INFO -   Extracted table 9/28
+2025-04-17 16:17:26,778 - INFO -   Extracted table 10/28
+2025-04-17 16:17:26,843 - INFO - Driver closed successfully

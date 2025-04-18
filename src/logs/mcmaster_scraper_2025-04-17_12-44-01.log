@@ -1,0 +1,34 @@
+2025-04-17 12:44:01,136 - INFO - ====== WebDriver manager ======
+2025-04-17 12:44:01,207 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-17 12:44:01,391 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-17 12:44:01,540 - INFO - Driver [/home/nandinidalsaniya/.wdm/drivers/chromedriver/linux64/135.0.7049.95/chromedriver-linux64/chromedriver] found in cache
+2025-04-17 12:44:03,246 - INFO - patching driver executable /home/nandinidalsaniya/.local/share/undetected_chromedriver/undetected_chromedriver
+2025-04-17 12:44:15,421 - INFO - Found 27 categories
+2025-04-17 12:44:15,421 - INFO - Current skip list has 7 items
+2025-04-17 12:44:15,454 - INFO -  Processing category : Flow & Level Control
+2025-04-17 12:44:15,498 - INFO -   Processing sub category 1: Flow
+2025-04-17 12:44:15,529 - INFO -    Processing sub category 2: Pumps
+2025-04-17 12:44:15,556 - INFO -    Processing item: Pumps (https://www.mcmaster.com/products/flow-pumps/)
+2025-04-17 12:44:23,559 - INFO -       [Subcategory index page detected]
+2025-04-17 12:44:23,603 - INFO - 
+Found 42 subcategory items to process
+2025-04-17 12:44:23,733 - INFO - 
+Processing item 1/42
+2025-04-17 12:44:23,733 - INFO -   Title: Diaphragm Pumps
+2025-04-17 12:44:23,733 - INFO -   Products: 45 products
+2025-04-17 12:44:23,733 - INFO -   Opening: https://www.mcmaster.com/diaphragm-pumps-2~/
+2025-04-17 12:44:32,596 - INFO - Updated skip list saved with 8 items
+2025-04-17 12:44:32,596 - INFO -   Added 'Diaphragm Pumps' to skip list
+2025-04-17 12:44:33,780 - INFO - 
+Processing item 2/42
+2025-04-17 12:44:33,780 - INFO -   Title: Gear Pumps
+2025-04-17 12:44:33,780 - INFO -   Products: 41 products
+2025-04-17 12:44:33,780 - INFO -   Opening: https://www.mcmaster.com/products/flow-pumps/gear-pumps-2~/
+2025-04-17 12:44:39,940 - INFO - Updated skip list saved with 9 items
+2025-04-17 12:44:39,941 - INFO -   Added 'Gear Pumps' to skip list
+2025-04-17 12:44:41,121 - INFO - 
+Processing item 3/42
+2025-04-17 12:44:41,121 - INFO -   Title: Drum Pumps
+2025-04-17 12:44:41,121 - INFO -   Products: 156 products
+2025-04-17 12:44:41,121 - INFO -   Opening: https://www.mcmaster.com/products/flow-pumps/drum-pumps-2~/
+2025-04-17 12:44:42,743 - INFO - Driver closed successfully

@@ -1,0 +1,26 @@
+2025-04-17 18:14:50,654 - INFO - ====== WebDriver manager ======
+2025-04-17 18:14:50,741 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-17 18:14:50,938 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-17 18:14:51,088 - INFO - Driver [/home/nandinidalsaniya/.wdm/drivers/chromedriver/linux64/135.0.7049.95/chromedriver-linux64/chromedriver] found in cache
+2025-04-17 18:14:53,311 - INFO - patching driver executable /home/nandinidalsaniya/.local/share/undetected_chromedriver/undetected_chromedriver
+2025-04-17 18:15:03,578 - INFO - Found 27 categories
+2025-04-17 18:15:03,578 - INFO - Current skip list has 1 items
+2025-04-17 18:15:03,629 - INFO -  Processing category : Fastening & Joining
+2025-04-17 18:15:03,662 - INFO -   Processing sub category 1: Fasteners
+2025-04-17 18:15:03,685 - INFO -    Processing sub category 2: Screws & Bolts
+2025-04-17 18:15:03,705 - INFO -    Processing item: Screws & Bolts (https://www.mcmaster.com/products/screws/)
+2025-04-17 18:15:11,020 - INFO -       [Subcategory index page detected]
+2025-04-17 18:15:11,053 - INFO - Found 99 subcategory items to process
+2025-04-17 18:15:11,156 - INFO -     Processing item 1/99
+2025-04-17 18:15:11,156 - INFO -   Sub Category 3: Socket Head Screws
+2025-04-17 18:15:11,156 - INFO -   Products: 7,873 products
+2025-04-17 18:15:11,156 - INFO -   Opening: https://www.mcmaster.com/products/screws/socket-head-screws-2~/
+2025-04-17 18:15:11,219 - INFO - --- Switched to new tab 
+2025-04-17 18:15:17,578 - INFO -   [Product page detected]
+2025-04-17 18:15:19,628 - INFO - Found 3 sections to process
+2025-04-17 18:15:29,855 - WARNING - No tables found for product: About Socket Head Screws
+2025-04-17 18:15:29,855 - INFO - Saving product data to database...
+2025-04-17 18:15:29,857 - INFO - Successfully saved: About Socket Head Screws
+2025-04-17 18:15:29,857 - INFO - Updated skip list saved with 2 items
+2025-04-17 18:15:29,857 - INFO - Added 'About Socket Head Screws' to skip list
+2025-04-17 18:15:32,547 - INFO - Driver closed successfully

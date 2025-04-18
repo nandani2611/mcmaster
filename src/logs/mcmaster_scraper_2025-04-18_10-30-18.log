@@ -1,0 +1,960 @@
+2025-04-18 10:30:18,966 - INFO - ====== WebDriver manager ======
+2025-04-18 10:30:19,050 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-18 10:30:19,326 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-18 10:30:19,562 - INFO - Driver [/home/nandinidalsaniya/.wdm/drivers/chromedriver/linux64/135.0.7049.95/chromedriver-linux64/chromedriver] found in cache
+2025-04-18 10:30:21,269 - INFO - patching driver executable /home/nandinidalsaniya/.local/share/undetected_chromedriver/undetected_chromedriver
+2025-04-18 10:30:28,495 - INFO - Found 27 categories
+2025-04-18 10:30:28,495 - INFO - Current skip list has 12 items
+2025-04-18 10:30:28,540 - INFO -  Processing category : Flow & Level Control
+2025-04-18 10:30:28,580 - INFO -   Processing sub category 1: Flow
+2025-04-18 10:30:28,608 - INFO -    Processing sub category 2: Pumps
+2025-04-18 10:30:28,633 - INFO -    Processing item: Pumps (https://www.mcmaster.com/products/flow-pumps/)
+2025-04-18 10:30:35,124 - INFO -       [Subcategory index page detected]
+2025-04-18 10:30:35,163 - INFO - Found 42 subcategory items to process
+2025-04-18 10:30:35,271 - INFO -     Processing item 1/42
+2025-04-18 10:30:35,271 - INFO -   Sub Category 3: Diaphragm Pumps
+2025-04-18 10:30:35,271 - INFO -   Products: 45 products
+2025-04-18 10:30:35,271 - INFO -   Opening: https://www.mcmaster.com/products/flow-pumps/diaphragm-pumps-2~/
+2025-04-18 10:30:35,343 - INFO - --- Switched to new tab 
+2025-04-18 10:30:39,615 - INFO -       [Contains Table page ]
+2025-04-18 10:30:41,677 - INFO - Found 4 sections to process
+2025-04-18 10:30:42,781 - INFO - Processing product: Continuous-Duty Any-Direction Constant-Flow-Rate Pumps for Water and Coolants
+2025-04-18 10:30:42,782 - INFO - Found 11 tables to extract
+2025-04-18 10:30:43,344 - INFO -   Extracted table 1/11
+2025-04-18 10:30:46,210 - INFO -   Extracted table 2/11
+2025-04-18 10:30:48,748 - INFO -   Extracted table 3/11
+2025-04-18 10:30:49,641 - INFO -   Extracted table 4/11
+2025-04-18 10:30:50,457 - INFO -   Extracted table 5/11
+2025-04-18 10:30:50,784 - INFO -   Extracted table 6/11
+2025-04-18 10:30:51,910 - INFO -   Extracted table 7/11
+2025-04-18 10:30:53,356 - INFO -   Extracted table 8/11
+2025-04-18 10:30:53,489 - INFO -   Extracted table 9/11
+2025-04-18 10:30:54,499 - INFO -   Extracted table 10/11
+2025-04-18 10:30:55,363 - INFO -   Extracted table 11/11
+2025-04-18 10:30:55,363 - INFO - Saving product data to database...
+2025-04-18 10:30:55,365 - INFO - Successfully saved: Continuous-Duty Any-Direction Constant-Flow-Rate Pumps for Water and Coolants
+2025-04-18 10:30:55,365 - INFO - Updated skip list saved with 13 items
+2025-04-18 10:30:55,366 - INFO - Added 'Continuous-Duty Any-Direction Constant-Flow-Rate Pumps for Water and Coolants' to skip list
+2025-04-18 10:30:55,372 - INFO - Updated skip list saved with 14 items
+2025-04-18 10:30:55,372 - INFO -   Added 'Diaphragm Pumps' to skip list
+2025-04-18 10:30:56,563 - INFO -     Processing item 2/42
+2025-04-18 10:30:56,563 - INFO -   Sub Category 3: Gear Pumps
+2025-04-18 10:30:56,563 - INFO -   Products: 41 products
+2025-04-18 10:30:56,563 - INFO -   Opening: https://www.mcmaster.com/products/flow-pumps/gear-pumps-2~/
+2025-04-18 10:30:56,618 - INFO - --- Switched to new tab 
+2025-04-18 10:31:00,719 - INFO -       [Contains Table page ]
+2025-04-18 10:31:02,765 - INFO - Found 4 sections to process
+2025-04-18 10:31:04,628 - INFO - Processing product: Constant-Flow-Rate Pumps for Water
+2025-04-18 10:31:04,628 - INFO - Found 11 tables to extract
+2025-04-18 10:31:05,826 - INFO -   Extracted table 1/11
+2025-04-18 10:31:07,133 - INFO -   Extracted table 2/11
+2025-04-18 10:31:07,854 - INFO -   Extracted table 3/11
+2025-04-18 10:31:08,592 - INFO -   Extracted table 4/11
+2025-04-18 10:31:09,096 - INFO -   Extracted table 5/11
+2025-04-18 10:31:10,761 - INFO -   Extracted table 6/11
+2025-04-18 10:31:11,477 - INFO -   Extracted table 7/11
+2025-04-18 10:31:12,638 - INFO -   Extracted table 8/11
+2025-04-18 10:31:14,166 - INFO -   Extracted table 9/11
+2025-04-18 10:31:14,951 - INFO -   Extracted table 10/11
+2025-04-18 10:31:15,918 - INFO -   Extracted table 11/11
+2025-04-18 10:31:15,919 - INFO - Saving product data to database...
+2025-04-18 10:31:15,920 - INFO - Successfully saved: Constant-Flow-Rate Pumps for Water
+2025-04-18 10:31:15,920 - INFO - Updated skip list saved with 15 items
+2025-04-18 10:31:15,920 - INFO - Added 'Constant-Flow-Rate Pumps for Water' to skip list
+2025-04-18 10:31:15,926 - INFO - Updated skip list saved with 16 items
+2025-04-18 10:31:15,926 - INFO -   Added 'Gear Pumps' to skip list
+2025-04-18 10:31:17,123 - INFO -     Processing item 3/42
+2025-04-18 10:31:17,123 - INFO -   Sub Category 3: Drum Pumps
+2025-04-18 10:31:17,123 - INFO -   Products: 156 products
+2025-04-18 10:31:17,123 - INFO -   Opening: https://www.mcmaster.com/products/flow-pumps/drum-pumps-2~/
+2025-04-18 10:31:17,178 - INFO - --- Switched to new tab 
+2025-04-18 10:31:23,339 - INFO -   [Product page detected]
+2025-04-18 10:31:25,384 - INFO - Found 6 sections to process
+2025-04-18 10:31:35,637 - WARNING - No tables found for product: About Drum Pumps
+2025-04-18 10:31:35,637 - INFO - Saving product data to database...
+2025-04-18 10:31:35,638 - INFO - Successfully saved: About Drum Pumps
+2025-04-18 10:31:35,639 - INFO - Updated skip list saved with 17 items
+2025-04-18 10:31:35,639 - INFO - Added 'About Drum Pumps' to skip list
+2025-04-18 10:31:46,241 - WARNING - No tables found for product: Manual-Operated Drum Pumps
+2025-04-18 10:31:46,241 - INFO - Saving product data to database...
+2025-04-18 10:31:46,242 - INFO - Successfully saved: Manual-Operated Drum Pumps
+2025-04-18 10:31:46,242 - INFO - Updated skip list saved with 18 items
+2025-04-18 10:31:46,242 - INFO - Added 'Manual-Operated Drum Pumps' to skip list
+2025-04-18 10:31:56,668 - WARNING - No tables found for product: Air-Powered Drum Pumps
+2025-04-18 10:31:56,668 - INFO - Saving product data to database...
+2025-04-18 10:31:56,669 - INFO - Successfully saved: Air-Powered Drum Pumps
+2025-04-18 10:31:56,669 - INFO - Updated skip list saved with 19 items
+2025-04-18 10:31:56,669 - INFO - Added 'Air-Powered Drum Pumps' to skip list
+2025-04-18 10:32:07,032 - WARNING - No tables found for product: Electric Drum Pumps
+2025-04-18 10:32:07,032 - INFO - Saving product data to database...
+2025-04-18 10:32:07,033 - INFO - Successfully saved: Electric Drum Pumps
+2025-04-18 10:32:07,033 - INFO - Updated skip list saved with 20 items
+2025-04-18 10:32:07,033 - INFO - Added 'Electric Drum Pumps' to skip list
+2025-04-18 10:32:17,364 - WARNING - No tables found for product: Battery-Operated Drum Pumps
+2025-04-18 10:32:17,364 - INFO - Saving product data to database...
+2025-04-18 10:32:17,365 - INFO - Successfully saved: Battery-Operated Drum Pumps
+2025-04-18 10:32:17,365 - INFO - Updated skip list saved with 21 items
+2025-04-18 10:32:17,365 - INFO - Added 'Battery-Operated Drum Pumps' to skip list
+2025-04-18 10:32:27,649 - WARNING - No tables found for product: Foot-Operated Drum Pumps
+2025-04-18 10:32:27,649 - INFO - Saving product data to database...
+2025-04-18 10:32:27,650 - INFO - Successfully saved: Foot-Operated Drum Pumps
+2025-04-18 10:32:27,650 - INFO - Updated skip list saved with 22 items
+2025-04-18 10:32:27,650 - INFO - Added 'Foot-Operated Drum Pumps' to skip list
+2025-04-18 10:32:27,656 - INFO - Updated skip list saved with 23 items
+2025-04-18 10:32:27,657 - INFO -   Added 'Drum Pumps' to skip list
+2025-04-18 10:32:28,858 - INFO -     Processing item 4/42
+2025-04-18 10:32:28,858 - INFO -   Sub Category 3: Sump Pumps
+2025-04-18 10:32:28,858 - INFO -   Products: 60 products
+2025-04-18 10:32:28,858 - INFO -   Opening: https://www.mcmaster.com/products/flow-pumps/sump-pumps-1~/
+2025-04-18 10:32:28,911 - INFO - --- Switched to new tab 
+2025-04-18 10:32:33,138 - INFO -       [Contains Table page ]
+2025-04-18 10:32:35,187 - INFO - Found 2 sections to process
+2025-04-18 10:32:38,160 - INFO - Processing product: Float-Switch Activated Sump Pumps for Water
+2025-04-18 10:32:38,161 - INFO - Found 37 tables to extract
+2025-04-18 10:32:38,680 - INFO -   Extracted table 1/37
+2025-04-18 10:32:39,499 - INFO -   Extracted table 2/37
+2025-04-18 10:32:40,034 - INFO -   Extracted table 3/37
+2025-04-18 10:32:40,751 - INFO -   Extracted table 4/37
+2025-04-18 10:32:41,308 - INFO -   Extracted table 5/37
+2025-04-18 10:32:41,444 - INFO -   Extracted table 6/37
+2025-04-18 10:32:41,994 - INFO -   Extracted table 7/37
+2025-04-18 10:32:42,776 - INFO -   Extracted table 8/37
+2025-04-18 10:32:42,912 - INFO -   Extracted table 9/37
+2025-04-18 10:32:43,854 - INFO -   Extracted table 10/37
+2025-04-18 10:32:44,351 - INFO -   Extracted table 11/37
+2025-04-18 10:32:45,166 - INFO -   Extracted table 12/37
+2025-04-18 10:32:45,416 - INFO -   Extracted table 13/37
+2025-04-18 10:32:45,734 - INFO -   Extracted table 14/37
+2025-04-18 10:32:45,959 - INFO -   Extracted table 15/37
+2025-04-18 10:32:47,049 - INFO -   Extracted table 16/37
+2025-04-18 10:32:47,932 - INFO -   Extracted table 17/37
+2025-04-18 10:32:48,749 - INFO -   Extracted table 18/37
+2025-04-18 10:32:49,345 - INFO -   Extracted table 19/37
+2025-04-18 10:32:50,168 - INFO -   Extracted table 20/37
+2025-04-18 10:32:50,701 - INFO -   Extracted table 21/37
+2025-04-18 10:32:51,277 - INFO -   Extracted table 22/37
+2025-04-18 10:32:52,064 - INFO -   Extracted table 23/37
+2025-04-18 10:32:53,171 - INFO -   Extracted table 24/37
+2025-04-18 10:32:54,182 - INFO -   Extracted table 25/37
+2025-04-18 10:32:54,979 - INFO -   Extracted table 26/37
+2025-04-18 10:32:55,832 - INFO -   Extracted table 27/37
+2025-04-18 10:32:56,854 - INFO -   Extracted table 28/37
+2025-04-18 10:32:58,201 - INFO -   Extracted table 29/37
+2025-04-18 10:32:58,776 - INFO -   Extracted table 30/37
+2025-04-18 10:32:59,575 - INFO -   Extracted table 31/37
+2025-04-18 10:33:00,478 - INFO -   Extracted table 32/37
+2025-04-18 10:33:01,616 - INFO -   Extracted table 33/37
+2025-04-18 10:33:02,142 - INFO -   Extracted table 34/37
+2025-04-18 10:33:02,280 - INFO -   Extracted table 35/37
+2025-04-18 10:33:02,892 - INFO -   Extracted table 36/37
+2025-04-18 10:33:03,276 - INFO -   Extracted table 37/37
+2025-04-18 10:33:03,276 - INFO - Saving product data to database...
+2025-04-18 10:33:03,278 - INFO - Successfully saved: Float-Switch Activated Sump Pumps for Water
+2025-04-18 10:33:03,278 - INFO - Updated skip list saved with 24 items
+2025-04-18 10:33:03,278 - INFO - Added 'Float-Switch Activated Sump Pumps for Water' to skip list
+2025-04-18 10:33:03,285 - INFO - Updated skip list saved with 25 items
+2025-04-18 10:33:03,285 - INFO -   Added 'Sump Pumps' to skip list
+2025-04-18 10:33:04,473 - INFO -     Processing item 5/42
+2025-04-18 10:33:04,473 - INFO -   Sub Category 3: Submersible Pumps
+2025-04-18 10:33:04,473 - INFO -   Products: 35 products
+2025-04-18 10:33:04,473 - INFO -   Opening: https://www.mcmaster.com/products/flow-pumps/submersible-pumps-2~/
+2025-04-18 10:33:04,523 - INFO - --- Switched to new tab 
+2025-04-18 10:33:08,627 - INFO -       [Contains Table page ]
+2025-04-18 10:33:10,676 - INFO - Found 4 sections to process
+2025-04-18 10:33:12,351 - INFO - Processing product: Submersible Pumps for Water
+2025-04-18 10:33:12,351 - INFO - Found 15 tables to extract
+2025-04-18 10:33:13,094 - INFO -   Extracted table 1/15
+2025-04-18 10:33:14,150 - INFO -   Extracted table 2/15
+2025-04-18 10:33:15,345 - INFO -   Extracted table 3/15
+2025-04-18 10:33:15,858 - INFO -   Extracted table 4/15
+2025-04-18 10:33:16,376 - INFO -   Extracted table 5/15
+2025-04-18 10:33:16,873 - INFO -   Extracted table 6/15
+2025-04-18 10:33:18,373 - INFO -   Extracted table 7/15
+2025-04-18 10:33:19,690 - INFO -   Extracted table 8/15
+2025-04-18 10:33:20,174 - INFO -   Extracted table 9/15
+2025-04-18 10:33:20,878 - INFO -   Extracted table 10/15
+2025-04-18 10:33:21,422 - INFO -   Extracted table 11/15
+2025-04-18 10:33:22,132 - INFO -   Extracted table 12/15
+2025-04-18 10:33:23,093 - INFO -   Extracted table 13/15
+2025-04-18 10:33:24,320 - INFO -   Extracted table 14/15
+2025-04-18 10:33:25,010 - INFO -   Extracted table 15/15
+2025-04-18 10:33:25,010 - INFO - Saving product data to database...
+2025-04-18 10:33:25,011 - INFO - Successfully saved: Submersible Pumps for Water
+2025-04-18 10:33:25,012 - INFO - Updated skip list saved with 26 items
+2025-04-18 10:33:25,012 - INFO - Added 'Submersible Pumps for Water' to skip list
+2025-04-18 10:33:25,018 - INFO - Updated skip list saved with 27 items
+2025-04-18 10:33:25,018 - INFO -   Added 'Submersible Pumps' to skip list
+2025-04-18 10:33:26,208 - INFO -     Processing item 6/42
+2025-04-18 10:33:26,208 - INFO -   Sub Category 3: Dewatering Pumps
+2025-04-18 10:33:26,209 - INFO -   Products: 40 products
+2025-04-18 10:33:26,209 - INFO -   Opening: https://www.mcmaster.com/products/flow-pumps/dewatering-pumps-2~/
+2025-04-18 10:33:26,261 - INFO - --- Switched to new tab 
+2025-04-18 10:33:30,423 - INFO -       [Contains Table page ]
+2025-04-18 10:33:32,469 - INFO - Found 3 sections to process
+2025-04-18 10:33:34,108 - INFO - Processing product: Harsh-Environment Self-Priming Water-Removal Pumps
+2025-04-18 10:33:34,108 - INFO - Found 28 tables to extract
+2025-04-18 10:33:34,539 - INFO -   Extracted table 1/28
+2025-04-18 10:33:34,993 - INFO -   Extracted table 2/28
+2025-04-18 10:33:35,389 - INFO -   Extracted table 3/28
+2025-04-18 10:33:36,450 - INFO -   Extracted table 4/28
+2025-04-18 10:33:36,648 - INFO -   Extracted table 5/28
+2025-04-18 10:33:37,397 - INFO -   Extracted table 6/28
+2025-04-18 10:33:37,955 - INFO -   Extracted table 7/28
+2025-04-18 10:33:38,590 - INFO -   Extracted table 8/28
+2025-04-18 10:33:39,337 - INFO -   Extracted table 9/28
+2025-04-18 10:33:40,092 - INFO -   Extracted table 10/28
+2025-04-18 10:33:40,835 - INFO -   Extracted table 11/28
+2025-04-18 10:33:41,588 - INFO -   Extracted table 12/28
+2025-04-18 10:33:42,320 - INFO -   Extracted table 13/28
+2025-04-18 10:33:42,870 - INFO -   Extracted table 14/28
+2025-04-18 10:33:43,007 - INFO -   Extracted table 15/28
+2025-04-18 10:33:43,717 - INFO -   Extracted table 16/28
+2025-04-18 10:33:44,531 - INFO -   Extracted table 17/28
+2025-04-18 10:33:44,678 - INFO -   Extracted table 18/28
+2025-04-18 10:33:44,899 - INFO -   Extracted table 19/28
+2025-04-18 10:33:45,465 - INFO -   Extracted table 20/28
+2025-04-18 10:33:45,622 - INFO -   Extracted table 21/28
+2025-04-18 10:33:45,943 - INFO -   Extracted table 22/28
+2025-04-18 10:33:46,504 - INFO -   Extracted table 23/28
+2025-04-18 10:33:46,643 - INFO -   Extracted table 24/28
+2025-04-18 10:33:46,802 - INFO -   Extracted table 25/28
+2025-04-18 10:33:47,414 - INFO -   Extracted table 26/28
+2025-04-18 10:33:48,609 - INFO -   Extracted table 27/28
+2025-04-18 10:33:49,350 - INFO -   Extracted table 28/28
+2025-04-18 10:33:49,350 - INFO - Saving product data to database...
+2025-04-18 10:33:49,351 - INFO - Successfully saved: Harsh-Environment Self-Priming Water-Removal Pumps
+2025-04-18 10:33:49,352 - INFO - Updated skip list saved with 28 items
+2025-04-18 10:33:49,352 - INFO - Added 'Harsh-Environment Self-Priming Water-Removal Pumps' to skip list
+2025-04-18 10:33:49,358 - INFO - Updated skip list saved with 29 items
+2025-04-18 10:33:49,358 - INFO -   Added 'Dewatering Pumps' to skip list
+2025-04-18 10:33:50,550 - INFO -     Processing item 7/42
+2025-04-18 10:33:50,550 - INFO -   Sub Category 3: Pump Impellers
+2025-04-18 10:33:50,550 - INFO -   Products: 80 products
+2025-04-18 10:33:50,550 - INFO -   Opening: https://www.mcmaster.com/products/flow-pumps/pump-impellers-2~/
+2025-04-18 10:33:50,600 - INFO - --- Switched to new tab 
+2025-04-18 10:33:54,901 - INFO -       [Contains Table page ]
+2025-04-18 10:33:56,965 - INFO - Found 1 sections to process
+2025-04-18 10:33:57,047 - INFO - Processing product: Impellers for Circulation Pumps
+2025-04-18 10:33:57,047 - INFO - Found 1 tables to extract
+2025-04-18 10:34:03,517 - INFO -   Extracted table 1/1
+2025-04-18 10:34:03,517 - INFO - Saving product data to database...
+2025-04-18 10:34:03,518 - INFO - Successfully saved: Impellers for Circulation Pumps
+2025-04-18 10:34:03,519 - INFO - Updated skip list saved with 30 items
+2025-04-18 10:34:03,519 - INFO - Added 'Impellers for Circulation Pumps' to skip list
+2025-04-18 10:34:03,525 - INFO - Updated skip list saved with 31 items
+2025-04-18 10:34:03,525 - INFO -   Added 'Pump Impellers' to skip list
+2025-04-18 10:34:04,712 - INFO -     Processing item 8/42
+2025-04-18 10:34:04,713 - INFO -   Sub Category 3: Pump Baseplates
+2025-04-18 10:34:04,713 - INFO -   Products: 8 products
+2025-04-18 10:34:04,713 - INFO -   Opening: https://www.mcmaster.com/products/flow-pumps/pump-baseplates-2~/
+2025-04-18 10:34:04,765 - INFO - --- Switched to new tab 
+2025-04-18 10:34:08,869 - INFO -       [Contains Table page ]
+2025-04-18 10:34:10,910 - INFO - Found 1 sections to process
+2025-04-18 10:34:11,045 - INFO - Processing product: Baseplates for Circulation Pumps
+2025-04-18 10:34:11,046 - INFO - Found 1 tables to extract
+2025-04-18 10:34:12,019 - INFO -   Extracted table 1/1
+2025-04-18 10:34:12,019 - INFO - Saving product data to database...
+2025-04-18 10:34:12,020 - INFO - Successfully saved: Baseplates for Circulation Pumps
+2025-04-18 10:34:12,021 - INFO - Updated skip list saved with 32 items
+2025-04-18 10:34:12,021 - INFO - Added 'Baseplates for Circulation Pumps' to skip list
+2025-04-18 10:34:12,027 - INFO - Updated skip list saved with 33 items
+2025-04-18 10:34:12,027 - INFO -   Added 'Pump Baseplates' to skip list
+2025-04-18 10:34:13,238 - INFO -     Processing item 9/42
+2025-04-18 10:34:13,238 - INFO -   Sub Category 3: Peristaltic Pumps
+2025-04-18 10:34:13,238 - INFO -   Products: 46 products
+2025-04-18 10:34:13,238 - INFO -   Opening: https://www.mcmaster.com/products/flow-pumps/peristaltic-pumps-2~/
+2025-04-18 10:34:13,291 - INFO - --- Switched to new tab 
+2025-04-18 10:34:17,573 - INFO -       [Contains Table page ]
+2025-04-18 10:34:19,619 - INFO - Found 4 sections to process
+2025-04-18 10:34:19,937 - INFO - Processing product: Fixed-Flow-Rate Metering Pumps for Chemicals
+2025-04-18 10:34:19,937 - INFO - Found 14 tables to extract
+2025-04-18 10:34:23,915 - INFO -   Extracted table 1/14
+2025-04-18 10:34:24,246 - INFO -   Extracted table 2/14
+2025-04-18 10:34:25,816 - INFO -   Extracted table 3/14
+2025-04-18 10:34:27,066 - INFO -   Extracted table 4/14
+2025-04-18 10:34:27,306 - INFO -   Extracted table 5/14
+2025-04-18 10:34:28,226 - INFO -   Extracted table 6/14
+2025-04-18 10:34:28,852 - INFO -   Extracted table 7/14
+2025-04-18 10:34:30,045 - INFO -   Extracted table 8/14
+2025-04-18 10:34:30,249 - INFO -   Extracted table 9/14
+2025-04-18 10:34:30,715 - INFO -   Extracted table 10/14
+2025-04-18 10:34:30,916 - INFO -   Extracted table 11/14
+2025-04-18 10:34:31,635 - INFO -   Extracted table 12/14
+2025-04-18 10:34:31,766 - INFO -   Extracted table 13/14
+2025-04-18 10:34:32,547 - INFO -   Extracted table 14/14
+2025-04-18 10:34:32,547 - INFO - Saving product data to database...
+2025-04-18 10:34:32,548 - INFO - Successfully saved: Fixed-Flow-Rate Metering Pumps for Chemicals
+2025-04-18 10:34:32,549 - INFO - Updated skip list saved with 34 items
+2025-04-18 10:34:32,549 - INFO - Added 'Fixed-Flow-Rate Metering Pumps for Chemicals' to skip list
+2025-04-18 10:34:32,555 - INFO - Updated skip list saved with 35 items
+2025-04-18 10:34:32,555 - INFO -   Added 'Peristaltic Pumps' to skip list
+2025-04-18 10:34:33,750 - INFO -     Processing item 10/42
+2025-04-18 10:34:33,751 - INFO -   Sub Category 3: Vacuum Pumps
+2025-04-18 10:34:33,751 - INFO -   Products: 64 products
+2025-04-18 10:34:33,751 - INFO -   Opening: https://www.mcmaster.com/products/flow-pumps/vacuum-pumps-2~/
+2025-04-18 10:34:33,804 - INFO - --- Switched to new tab 
+2025-04-18 10:34:38,013 - INFO -       [Contains Table page ]
+2025-04-18 10:34:40,060 - INFO - Found 2 sections to process
+2025-04-18 10:34:42,054 - INFO - Processing product: Oil-Free Electric Vacuum Pumps
+2025-04-18 10:34:42,054 - INFO - Found 19 tables to extract
+2025-04-18 10:34:42,546 - INFO -   Extracted table 1/19
+2025-04-18 10:34:43,369 - INFO -   Extracted table 2/19
+2025-04-18 10:34:43,849 - INFO -   Extracted table 3/19
+2025-04-18 10:34:44,363 - INFO -   Extracted table 4/19
+2025-04-18 10:34:44,852 - INFO -   Extracted table 5/19
+2025-04-18 10:34:45,370 - INFO -   Extracted table 6/19
+2025-04-18 10:34:45,565 - INFO -   Extracted table 7/19
+2025-04-18 10:34:47,574 - INFO -   Extracted table 8/19
+2025-04-18 10:34:48,856 - INFO -   Extracted table 9/19
+2025-04-18 10:34:49,537 - INFO -   Extracted table 10/19
+2025-04-18 10:34:50,264 - INFO -   Extracted table 11/19
+2025-04-18 10:34:50,997 - INFO -   Extracted table 12/19
+2025-04-18 10:34:51,424 - INFO -   Extracted table 13/19
+2025-04-18 10:34:51,906 - INFO -   Extracted table 14/19
+2025-04-18 10:34:52,220 - INFO -   Extracted table 15/19
+2025-04-18 10:34:52,919 - INFO -   Extracted table 16/19
+2025-04-18 10:34:58,129 - INFO -   Extracted table 17/19
+2025-04-18 10:34:59,823 - INFO -   Extracted table 18/19
+2025-04-18 10:35:00,229 - INFO -   Extracted table 19/19
+2025-04-18 10:35:00,229 - INFO - Saving product data to database...
+2025-04-18 10:35:00,231 - INFO - Successfully saved: Oil-Free Electric Vacuum Pumps
+2025-04-18 10:35:00,231 - INFO - Updated skip list saved with 36 items
+2025-04-18 10:35:00,231 - INFO - Added 'Oil-Free Electric Vacuum Pumps' to skip list
+2025-04-18 10:35:00,238 - INFO - Updated skip list saved with 37 items
+2025-04-18 10:35:00,238 - INFO -   Added 'Vacuum Pumps' to skip list
+2025-04-18 10:35:01,425 - INFO -     Processing item 11/42
+2025-04-18 10:35:01,425 - INFO -   Sub Category 3: Rotary Vane Pumps
+2025-04-18 10:35:01,425 - INFO -   Products: 13 products
+2025-04-18 10:35:01,425 - INFO -   Opening: https://www.mcmaster.com/products/flow-pumps/rotary-vane-pumps-2~/
+2025-04-18 10:35:01,477 - INFO - --- Switched to new tab 
+2025-04-18 10:35:05,702 - INFO -       [Contains Table page ]
+2025-04-18 10:35:07,746 - INFO - Found 4 sections to process
+2025-04-18 10:35:08,406 - INFO - Processing product: High-Pressure Constant-Flow-Rate Pumps
+2025-04-18 10:35:08,406 - INFO - Found 3 tables to extract
+2025-04-18 10:35:09,378 - INFO -   Extracted table 1/3
+2025-04-18 10:35:11,410 - INFO -   Extracted table 2/3
+2025-04-18 10:35:12,069 - INFO -   Extracted table 3/3
+2025-04-18 10:35:12,069 - INFO - Saving product data to database...
+2025-04-18 10:35:12,070 - INFO - Successfully saved: High-Pressure Constant-Flow-Rate Pumps
+2025-04-18 10:35:12,071 - INFO - Updated skip list saved with 38 items
+2025-04-18 10:35:12,071 - INFO - Added 'High-Pressure Constant-Flow-Rate Pumps' to skip list
+2025-04-18 10:35:12,077 - INFO - Updated skip list saved with 39 items
+2025-04-18 10:35:12,077 - INFO -   Added 'Rotary Vane Pumps' to skip list
+2025-04-18 10:35:13,273 - INFO -     Processing item 12/42
+2025-04-18 10:35:13,273 - INFO -   Sub Category 3: Piston Pumps
+2025-04-18 10:35:13,273 - INFO -   Products: 3 products
+2025-04-18 10:35:13,274 - INFO -   Opening: https://www.mcmaster.com/products/flow-pumps/piston-pumps-2~/
+2025-04-18 10:35:13,327 - INFO - --- Switched to new tab 
+2025-04-18 10:35:17,493 - INFO -       [Contains Table page ]
+2025-04-18 10:35:19,535 - INFO - Found 4 sections to process
+2025-04-18 10:35:19,657 - INFO - Processing product: Air-Powered Constant-Flow-Rate Pumps
+2025-04-18 10:35:19,657 - INFO - Found 1 tables to extract
+2025-04-18 10:35:20,561 - INFO -   Extracted table 1/1
+2025-04-18 10:35:20,562 - INFO - Saving product data to database...
+2025-04-18 10:35:20,562 - INFO - Successfully saved: Air-Powered Constant-Flow-Rate Pumps
+2025-04-18 10:35:20,563 - INFO - Updated skip list saved with 40 items
+2025-04-18 10:35:20,563 - INFO - Added 'Air-Powered Constant-Flow-Rate Pumps' to skip list
+2025-04-18 10:35:20,569 - INFO - Updated skip list saved with 41 items
+2025-04-18 10:35:20,569 - INFO -   Added 'Piston Pumps' to skip list
+2025-04-18 10:35:21,773 - INFO -     Processing item 13/42
+2025-04-18 10:35:21,773 - INFO -   Sub Category 3: Jet Pumps
+2025-04-18 10:35:21,773 - INFO -   Products: 49 products
+2025-04-18 10:35:21,773 - INFO -   Opening: https://www.mcmaster.com/products/flow-pumps/jet-pumps-2~/
+2025-04-18 10:35:21,824 - INFO - --- Switched to new tab 
+2025-04-18 10:35:26,062 - INFO -       [Contains Table page ]
+2025-04-18 10:35:28,106 - INFO - Found 1 sections to process
+2025-04-18 10:35:32,138 - INFO - Processing product: Water Aspirator Pumps
+2025-04-18 10:35:32,138 - INFO - Found 4 tables to extract
+2025-04-18 10:35:32,563 - INFO -   Extracted table 1/4
+2025-04-18 10:35:37,373 - INFO -   Extracted table 2/4
+2025-04-18 10:35:38,943 - INFO -   Extracted table 3/4
+2025-04-18 10:35:43,146 - INFO -   Extracted table 4/4
+2025-04-18 10:35:43,146 - INFO - Saving product data to database...
+2025-04-18 10:35:43,147 - INFO - Successfully saved: Water Aspirator Pumps
+2025-04-18 10:35:43,148 - INFO - Updated skip list saved with 42 items
+2025-04-18 10:35:43,148 - INFO - Added 'Water Aspirator Pumps' to skip list
+2025-04-18 10:35:43,154 - INFO - Updated skip list saved with 43 items
+2025-04-18 10:35:43,155 - INFO -   Added 'Jet Pumps' to skip list
+2025-04-18 10:35:44,363 - INFO -     Processing item 14/42
+2025-04-18 10:35:44,363 - INFO -   Sub Category 3: Condensate Pumps
+2025-04-18 10:35:44,363 - INFO -   Products: 29 products
+2025-04-18 10:35:44,363 - INFO -   Opening: https://www.mcmaster.com/products/flow-pumps/condensate-pumps-1~/
+2025-04-18 10:35:44,415 - INFO - --- Switched to new tab 
+2025-04-18 10:35:48,633 - INFO -       [Contains Table page ]
+2025-04-18 10:35:50,681 - INFO - Found 4 sections to process
+2025-04-18 10:35:51,344 - INFO - Processing product: Condensate Pumps with Tank
+2025-04-18 10:35:51,344 - INFO - Found 18 tables to extract
+2025-04-18 10:35:51,863 - INFO -   Extracted table 1/18
+2025-04-18 10:35:52,709 - INFO -   Extracted table 2/18
+2025-04-18 10:35:53,522 - INFO -   Extracted table 3/18
+2025-04-18 10:35:54,790 - INFO -   Extracted table 4/18
+2025-04-18 10:35:55,598 - INFO -   Extracted table 5/18
+2025-04-18 10:35:56,409 - INFO -   Extracted table 6/18
+2025-04-18 10:35:57,139 - INFO -   Extracted table 7/18
+2025-04-18 10:35:57,922 - INFO -   Extracted table 8/18
+2025-04-18 10:35:58,640 - INFO -   Extracted table 9/18
+2025-04-18 10:35:58,776 - INFO -   Extracted table 10/18
+2025-04-18 10:35:59,267 - INFO -   Extracted table 11/18
+2025-04-18 10:35:59,450 - INFO -   Extracted table 12/18
+2025-04-18 10:36:00,168 - INFO -   Extracted table 13/18
+2025-04-18 10:36:00,829 - INFO -   Extracted table 14/18
+2025-04-18 10:36:01,230 - INFO -   Extracted table 15/18
+2025-04-18 10:36:02,068 - INFO -   Extracted table 16/18
+2025-04-18 10:36:02,600 - INFO -   Extracted table 17/18
+2025-04-18 10:36:03,237 - INFO -   Extracted table 18/18
+2025-04-18 10:36:03,237 - INFO - Saving product data to database...
+2025-04-18 10:36:03,239 - INFO - Successfully saved: Condensate Pumps with Tank
+2025-04-18 10:36:03,239 - INFO - Updated skip list saved with 44 items
+2025-04-18 10:36:03,239 - INFO - Added 'Condensate Pumps with Tank' to skip list
+2025-04-18 10:36:03,245 - INFO - Updated skip list saved with 45 items
+2025-04-18 10:36:03,245 - INFO -   Added 'Condensate Pumps' to skip list
+2025-04-18 10:36:04,440 - INFO -     Processing item 15/42
+2025-04-18 10:36:04,441 - INFO -   Sub Category 3: Plunger Pumps
+2025-04-18 10:36:04,441 - INFO -   Products: 3 products
+2025-04-18 10:36:04,441 - INFO -   Opening: https://www.mcmaster.com/products/flow-pumps/plunger-pumps-2~/
+2025-04-18 10:36:04,493 - INFO - --- Switched to new tab 
+2025-04-18 10:36:08,946 - INFO -       [Contains Table page ]
+2025-04-18 10:36:10,985 - INFO - Found 4 sections to process
+2025-04-18 10:36:11,282 - INFO - Processing product: High-Pressure Constant-Flow-Rate Pumps without Motor for Pressure Washing
+2025-04-18 10:36:11,282 - INFO - Found 1 tables to extract
+2025-04-18 10:36:12,133 - INFO -   Extracted table 1/1
+2025-04-18 10:36:12,133 - INFO - Saving product data to database...
+2025-04-18 10:36:12,134 - INFO - Successfully saved: High-Pressure Constant-Flow-Rate Pumps without Motor for Pressure Washing
+2025-04-18 10:36:12,134 - INFO - Updated skip list saved with 46 items
+2025-04-18 10:36:12,135 - INFO - Added 'High-Pressure Constant-Flow-Rate Pumps without Motor for Pressure Washing' to skip list
+2025-04-18 10:36:12,141 - INFO - Updated skip list saved with 47 items
+2025-04-18 10:36:12,141 - INFO -   Added 'Plunger Pumps' to skip list
+2025-04-18 10:36:13,340 - INFO -     Processing item 16/42
+2025-04-18 10:36:13,340 - INFO -   Sub Category 3: Pump Repair Kits
+2025-04-18 10:36:13,340 - INFO -   Products: 192 products
+2025-04-18 10:36:13,341 - INFO -   Opening: https://www.mcmaster.com/products/flow-pumps/pump-repair-kits-2~/
+2025-04-18 10:36:13,394 - INFO - --- Switched to new tab 
+2025-04-18 10:36:17,634 - INFO -       [Contains Table page ]
+2025-04-18 10:36:19,685 - INFO - Found 1 sections to process
+2025-04-18 10:36:21,154 - INFO - Processing product: Maintenance Kits for Circulation Pumps
+2025-04-18 10:36:21,154 - INFO - Found 8 tables to extract
+2025-04-18 10:36:22,885 - INFO -   Extracted table 1/8
+2025-04-18 10:36:27,156 - INFO -   Extracted table 2/8
+2025-04-18 10:36:28,570 - INFO -   Extracted table 3/8
+2025-04-18 10:36:31,251 - INFO -   Extracted table 4/8
+2025-04-18 10:36:33,734 - INFO -   Extracted table 5/8
+2025-04-18 10:36:34,012 - INFO -   Extracted table 6/8
+2025-04-18 10:36:34,469 - INFO -   Extracted table 7/8
+2025-04-18 10:36:35,162 - INFO -   Extracted table 8/8
+2025-04-18 10:36:35,162 - INFO - Saving product data to database...
+2025-04-18 10:36:35,164 - INFO - Successfully saved: Maintenance Kits for Circulation Pumps
+2025-04-18 10:36:35,169 - INFO - Updated skip list saved with 48 items
+2025-04-18 10:36:35,169 - INFO - Added 'Maintenance Kits for Circulation Pumps' to skip list
+2025-04-18 10:36:35,169 - INFO - Updated skip list saved with 49 items
+2025-04-18 10:36:35,170 - INFO -   Added 'Pump Repair Kits' to skip list
+2025-04-18 10:36:36,365 - INFO -     Processing item 17/42
+2025-04-18 10:36:36,365 - INFO -   Sub Category 3: Pump Pulsation Dampers
+2025-04-18 10:36:36,365 - INFO -   Products: 5 products
+2025-04-18 10:36:36,365 - INFO -   Opening: https://www.mcmaster.com/products/flow-pumps/pump-pulsation-dampers-2~/
+2025-04-18 10:36:36,417 - INFO - --- Switched to new tab 
+2025-04-18 10:36:40,554 - INFO -       [Contains Table page ]
+2025-04-18 10:36:42,597 - INFO - Found 1 sections to process
+2025-04-18 10:36:42,747 - INFO - Processing product: Pulsation Dampers for Air-Powered Transfer Pumps
+2025-04-18 10:36:42,747 - INFO - Found 1 tables to extract
+2025-04-18 10:36:43,500 - INFO -   Extracted table 1/1
+2025-04-18 10:36:43,500 - INFO - Saving product data to database...
+2025-04-18 10:36:43,503 - INFO - Successfully saved: Pulsation Dampers for Air-Powered Transfer Pumps
+2025-04-18 10:36:43,503 - INFO - Updated skip list saved with 50 items
+2025-04-18 10:36:43,504 - INFO - Added 'Pulsation Dampers for Air-Powered Transfer Pumps' to skip list
+2025-04-18 10:36:43,510 - INFO - Updated skip list saved with 51 items
+2025-04-18 10:36:43,510 - INFO -   Added 'Pump Pulsation Dampers' to skip list
+2025-04-18 10:36:44,706 - INFO -     Processing item 18/42
+2025-04-18 10:36:44,706 - INFO -   Sub Category 3: Syringe Pumps
+2025-04-18 10:36:44,706 - INFO -   Products: 5 products
+2025-04-18 10:36:44,706 - INFO -   Opening: https://www.mcmaster.com/products/flow-pumps/syringe-pumps-2~/
+2025-04-18 10:36:44,762 - INFO - --- Switched to new tab 
+2025-04-18 10:36:48,904 - INFO -       [Contains Table page ]
+2025-04-18 10:36:50,947 - INFO - Found 4 sections to process
+2025-04-18 10:36:51,303 - INFO - Processing product: Syringe Pumps for Chemicals
+2025-04-18 10:36:51,303 - INFO - Found 2 tables to extract
+2025-04-18 10:36:51,689 - INFO -   Extracted table 1/2
+2025-04-18 10:36:52,706 - INFO -   Extracted table 2/2
+2025-04-18 10:36:52,706 - INFO - Saving product data to database...
+2025-04-18 10:36:52,707 - INFO - Successfully saved: Syringe Pumps for Chemicals
+2025-04-18 10:36:52,707 - INFO - Updated skip list saved with 52 items
+2025-04-18 10:36:52,707 - INFO - Added 'Syringe Pumps for Chemicals' to skip list
+2025-04-18 10:36:52,713 - INFO - Updated skip list saved with 53 items
+2025-04-18 10:36:52,714 - INFO -   Added 'Syringe Pumps' to skip list
+2025-04-18 10:36:53,907 - INFO -     Processing item 19/42
+2025-04-18 10:36:53,907 - INFO -   Sub Category 3: Boiler Feed Pumps
+2025-04-18 10:36:53,908 - INFO -   Products: 2 products
+2025-04-18 10:36:53,908 - INFO -   Opening: https://www.mcmaster.com/products/flow-pumps/boiler-feed-pumps-2~/
+2025-04-18 10:36:53,961 - INFO - --- Switched to new tab 
+2025-04-18 10:36:58,306 - INFO -       [Contains Table page ]
+2025-04-18 10:37:00,348 - INFO - Found 4 sections to process
+2025-04-18 10:37:00,469 - INFO - Processing product: Boiler Feed Pumps
+2025-04-18 10:37:00,469 - INFO - Found 1 tables to extract
+2025-04-18 10:37:01,139 - INFO -   Extracted table 1/1
+2025-04-18 10:37:01,139 - INFO - Saving product data to database...
+2025-04-18 10:37:01,140 - INFO - Successfully saved: Boiler Feed Pumps
+2025-04-18 10:37:01,141 - INFO - Updated skip list saved with 54 items
+2025-04-18 10:37:01,141 - INFO - Added 'Boiler Feed Pumps' to skip list
+2025-04-18 10:37:02,337 - INFO -     Processing item 20/42
+2025-04-18 10:37:02,338 - INFO -   Sub Category 3: Strainers
+2025-04-18 10:37:02,338 - INFO -   Products: 1 product
+2025-04-18 10:37:02,338 - INFO -   Opening: https://www.mcmaster.com/products/flow-pumps/strainers-1~/
+2025-04-18 10:37:02,389 - INFO - --- Switched to new tab 
+2025-04-18 10:37:06,562 - INFO -       [Contains Table page ]
+2025-04-18 10:37:08,608 - INFO - Found 2 sections to process
+2025-04-18 10:37:08,698 - INFO - Processing product: Suction Strainers for Sump Pumps
+2025-04-18 10:37:08,699 - INFO - Found 1 tables to extract
+2025-04-18 10:37:09,014 - INFO -   Extracted table 1/1
+2025-04-18 10:37:09,014 - INFO - Saving product data to database...
+2025-04-18 10:37:09,021 - INFO - Successfully saved: Suction Strainers for Sump Pumps
+2025-04-18 10:37:09,021 - INFO - Updated skip list saved with 55 items
+2025-04-18 10:37:09,021 - INFO - Added 'Suction Strainers for Sump Pumps' to skip list
+2025-04-18 10:37:09,024 - INFO - Updated skip list saved with 56 items
+2025-04-18 10:37:09,024 - INFO -   Added 'Strainers' to skip list
+2025-04-18 10:37:10,224 - INFO -     Processing item 21/42
+2025-04-18 10:37:10,225 - INFO -   Sub Category 3: Fluid and Air Evacuators
+2025-04-18 10:37:10,225 - INFO -   Products: 1 product
+2025-04-18 10:37:10,225 - INFO -   Opening: https://www.mcmaster.com/products/flow-pumps/fluid-and-air-evacuators-1~/
+2025-04-18 10:37:10,276 - INFO - --- Switched to new tab 
+2025-04-18 10:37:14,486 - INFO -       [Contains Table page ]
+2025-04-18 10:37:16,527 - INFO - Found 1 sections to process
+2025-04-18 10:37:16,660 - INFO - Processing product: Air-Powered Hydraulic-Fluid and Air Evacuators
+2025-04-18 10:37:16,660 - INFO - Found 1 tables to extract
+2025-04-18 10:37:17,312 - INFO -   Extracted table 1/1
+2025-04-18 10:37:17,312 - INFO - Saving product data to database...
+2025-04-18 10:37:17,313 - INFO - Successfully saved: Air-Powered Hydraulic-Fluid and Air Evacuators
+2025-04-18 10:37:17,314 - INFO - Updated skip list saved with 57 items
+2025-04-18 10:37:17,314 - INFO - Added 'Air-Powered Hydraulic-Fluid and Air Evacuators' to skip list
+2025-04-18 10:37:17,314 - INFO - Updated skip list saved with 58 items
+2025-04-18 10:37:17,314 - INFO -   Added 'Fluid and Air Evacuators' to skip list
+2025-04-18 10:37:18,515 - INFO -     Processing item 22/42
+2025-04-18 10:37:18,515 - INFO -   Sub Category 3: Air Evacuators
+2025-04-18 10:37:18,515 - INFO -   Products: 1 product
+2025-04-18 10:37:18,515 - INFO -   Opening: https://www.mcmaster.com/products/flow-pumps/air-evacuators-1~/
+2025-04-18 10:37:18,571 - INFO - --- Switched to new tab 
+2025-04-18 10:37:22,886 - INFO -       [Contains Table page ]
+2025-04-18 10:37:24,927 - INFO - Found 1 sections to process
+2025-04-18 10:37:25,019 - INFO - Processing product: Hand-Operated Air Evacuators
+2025-04-18 10:37:25,020 - INFO - Found 1 tables to extract
+2025-04-18 10:37:25,479 - INFO -   Extracted table 1/1
+2025-04-18 10:37:25,479 - INFO - Saving product data to database...
+2025-04-18 10:37:25,486 - INFO - Successfully saved: Hand-Operated Air Evacuators
+2025-04-18 10:37:25,486 - INFO - Updated skip list saved with 59 items
+2025-04-18 10:37:25,486 - INFO - Added 'Hand-Operated Air Evacuators' to skip list
+2025-04-18 10:37:25,487 - INFO - Updated skip list saved with 60 items
+2025-04-18 10:37:25,487 - INFO -   Added 'Air Evacuators' to skip list
+2025-04-18 10:37:26,679 - INFO -     Processing item 23/42
+2025-04-18 10:37:26,679 - INFO -   Sub Category 3: Proportional Mixers
+2025-04-18 10:37:26,680 - INFO -   Products: 5 products
+2025-04-18 10:37:26,680 - INFO -   Opening: https://www.mcmaster.com/products/flow-pumps/proportional-mixers-2~/
+2025-04-18 10:37:26,728 - INFO - --- Switched to new tab 
+2025-04-18 10:37:30,970 - INFO -       [Contains Table page ]
+2025-04-18 10:37:33,014 - INFO - Found 1 sections to process
+2025-04-18 10:37:33,348 - INFO - Processing product: Aluminum Proportional Mixers for Soap Solutions
+2025-04-18 10:37:33,348 - INFO - Found 4 tables to extract
+2025-04-18 10:37:33,739 - INFO -   Extracted table 1/4
+2025-04-18 10:37:34,124 - INFO -   Extracted table 2/4
+2025-04-18 10:37:34,511 - INFO -   Extracted table 3/4
+2025-04-18 10:37:35,132 - INFO -   Extracted table 4/4
+2025-04-18 10:37:35,133 - INFO - Saving product data to database...
+2025-04-18 10:37:35,133 - INFO - Successfully saved: Aluminum Proportional Mixers for Soap Solutions
+2025-04-18 10:37:35,139 - INFO - Updated skip list saved with 61 items
+2025-04-18 10:37:35,139 - INFO - Added 'Aluminum Proportional Mixers for Soap Solutions' to skip list
+2025-04-18 10:37:35,140 - INFO - Updated skip list saved with 62 items
+2025-04-18 10:37:35,140 - INFO -   Added 'Proportional Mixers' to skip list
+2025-04-18 10:37:36,342 - INFO -     Processing item 24/42
+2025-04-18 10:37:36,342 - INFO -   Sub Category 3: Float Switches
+2025-04-18 10:37:36,343 - INFO -   Products: 4 products
+2025-04-18 10:37:36,343 - INFO -   Opening: https://www.mcmaster.com/products/flow-pumps/float-switches-3~/
+2025-04-18 10:37:36,396 - INFO - --- Switched to new tab 
+2025-04-18 10:37:40,721 - INFO -       [Contains Table page ]
+2025-04-18 10:37:42,763 - INFO - Found 2 sections to process
+2025-04-18 10:37:42,958 - INFO - Processing product: Heavy Duty Sewage Water Switches for Sump Pumps
+2025-04-18 10:37:42,958 - INFO - Found 3 tables to extract
+2025-04-18 10:37:43,200 - INFO -   Extracted table 1/3
+2025-04-18 10:37:43,532 - INFO -   Extracted table 2/3
+2025-04-18 10:37:43,896 - INFO -   Extracted table 3/3
+2025-04-18 10:37:43,896 - INFO - Saving product data to database...
+2025-04-18 10:37:43,897 - INFO - Successfully saved: Heavy Duty Sewage Water Switches for Sump Pumps
+2025-04-18 10:37:43,898 - INFO - Updated skip list saved with 63 items
+2025-04-18 10:37:43,898 - INFO - Added 'Heavy Duty Sewage Water Switches for Sump Pumps' to skip list
+2025-04-18 10:37:43,904 - INFO - Updated skip list saved with 64 items
+2025-04-18 10:37:43,904 - INFO -   Added 'Float Switches' to skip list
+2025-04-18 10:37:45,102 - INFO -     Processing item 25/42
+2025-04-18 10:37:45,102 - INFO -   Sub Category 3: Pressure Switches
+2025-04-18 10:37:45,102 - INFO -   Products: 2 products
+2025-04-18 10:37:45,103 - INFO -   Opening: https://www.mcmaster.com/products/flow-pumps/pressure-switches-2~/
+2025-04-18 10:37:45,167 - INFO - --- Switched to new tab 
+2025-04-18 10:37:49,312 - INFO -       [Contains Table page ]
+2025-04-18 10:37:51,353 - INFO - Found 2 sections to process
+2025-04-18 10:37:51,473 - INFO - Processing product: Pressure Switches for Sump Pumps
+2025-04-18 10:37:51,473 - INFO - Found 1 tables to extract
+2025-04-18 10:37:51,866 - INFO -   Extracted table 1/1
+2025-04-18 10:37:51,867 - INFO - Saving product data to database...
+2025-04-18 10:37:51,868 - INFO - Successfully saved: Pressure Switches for Sump Pumps
+2025-04-18 10:37:51,869 - INFO - Updated skip list saved with 65 items
+2025-04-18 10:37:51,870 - INFO - Added 'Pressure Switches for Sump Pumps' to skip list
+2025-04-18 10:37:51,876 - INFO - Updated skip list saved with 66 items
+2025-04-18 10:37:51,878 - INFO -   Added 'Pressure Switches' to skip list
+2025-04-18 10:37:53,081 - INFO -     Processing item 26/42
+2025-04-18 10:37:53,081 - INFO -   Sub Category 3: Hose and Hose Fittings
+2025-04-18 10:37:53,081 - INFO -   Products: 5 products
+2025-04-18 10:37:53,081 - INFO -   Opening: https://www.mcmaster.com/products/flow-pumps/hose-and-hose-fittings~/
+2025-04-18 10:37:53,134 - INFO - --- Switched to new tab 
+2025-04-18 10:37:57,481 - INFO -       [Contains Table page ]
+2025-04-18 10:37:59,523 - INFO - Found 2 sections to process
+2025-04-18 10:37:59,828 - INFO - Processing product: Wet Abrasive-Material Hose
+2025-04-18 10:37:59,828 - INFO - Found 2 tables to extract
+2025-04-18 10:38:00,454 - INFO -   Extracted table 1/2
+2025-04-18 10:38:01,407 - INFO -   Extracted table 2/2
+2025-04-18 10:38:01,407 - INFO - Saving product data to database...
+2025-04-18 10:38:01,408 - INFO - Successfully saved: Wet Abrasive-Material Hose
+2025-04-18 10:38:01,408 - INFO - Updated skip list saved with 67 items
+2025-04-18 10:38:01,408 - INFO - Added 'Wet Abrasive-Material Hose' to skip list
+2025-04-18 10:38:01,415 - INFO - Updated skip list saved with 68 items
+2025-04-18 10:38:01,415 - INFO -   Added 'Hose and Hose Fittings' to skip list
+2025-04-18 10:38:02,617 - INFO -     Processing item 27/42
+2025-04-18 10:38:02,617 - INFO -   Sub Category 3: Hydraulic Power Units
+2025-04-18 10:38:02,617 - INFO -   Products: 10 products
+2025-04-18 10:38:02,617 - INFO -   Opening: https://www.mcmaster.com/products/flow-pumps/hydraulic-power-units-1~/
+2025-04-18 10:38:02,667 - INFO - --- Switched to new tab 
+2025-04-18 10:38:06,819 - INFO -       [Contains Table page ]
+2025-04-18 10:38:08,859 - ERROR - Failed to locate #PageCntnr
+2025-04-18 10:38:08,859 - INFO - Updated skip list saved with 69 items
+2025-04-18 10:38:08,859 - INFO -   Added 'Hydraulic Power Units' to skip list
+2025-04-18 10:38:10,065 - INFO -     Processing item 28/42
+2025-04-18 10:38:10,065 - INFO -   Sub Category 3: Air Compressor/Vacuum Generators
+2025-04-18 10:38:10,065 - INFO -   Products: 4 products
+2025-04-18 10:38:10,065 - INFO -   Opening: https://www.mcmaster.com/products/flow-pumps/air-compressor-vacuum-generators-1~/
+2025-04-18 10:38:10,117 - INFO - --- Switched to new tab 
+2025-04-18 10:38:14,290 - INFO -       [Contains Table page ]
+2025-04-18 10:38:16,332 - INFO - Found 2 sections to process
+2025-04-18 10:38:16,437 - INFO - Processing product: Miniature Low-Flow Air Compressors/Vacuum Generators
+2025-04-18 10:38:16,437 - INFO - Found 1 tables to extract
+2025-04-18 10:38:17,344 - INFO -   Extracted table 1/1
+2025-04-18 10:38:17,344 - INFO - Saving product data to database...
+2025-04-18 10:38:17,345 - INFO - Successfully saved: Miniature Low-Flow Air Compressors/Vacuum Generators
+2025-04-18 10:38:17,346 - INFO - Updated skip list saved with 70 items
+2025-04-18 10:38:17,346 - INFO - Added 'Miniature Low-Flow Air Compressors/Vacuum Generators' to skip list
+2025-04-18 10:38:17,352 - INFO - Updated skip list saved with 71 items
+2025-04-18 10:38:17,352 - INFO -   Added 'Air Compressor/Vacuum Generators' to skip list
+2025-04-18 10:38:18,542 - INFO -     Processing item 29/42
+2025-04-18 10:38:18,542 - INFO -   Sub Category 3: Air to Hydraulic Power Units
+2025-04-18 10:38:18,542 - INFO -   Products: 8 products
+2025-04-18 10:38:18,542 - INFO -   Opening: https://www.mcmaster.com/products/flow-pumps/air-to-hydraulic-power-units-1~/
+2025-04-18 10:38:18,592 - INFO - --- Switched to new tab 
+2025-04-18 10:38:22,789 - INFO -       [Contains Table page ]
+2025-04-18 10:38:24,830 - INFO - Found 1 sections to process
+2025-04-18 10:38:25,228 - INFO - Processing product: Air to Hydraulic Power Converters
+2025-04-18 10:38:25,228 - INFO - Found 1 tables to extract
+2025-04-18 10:38:27,276 - INFO -   Extracted table 1/1
+2025-04-18 10:38:27,276 - INFO - Saving product data to database...
+2025-04-18 10:38:27,277 - INFO - Successfully saved: Air to Hydraulic Power Converters
+2025-04-18 10:38:27,277 - INFO - Updated skip list saved with 72 items
+2025-04-18 10:38:27,278 - INFO - Added 'Air to Hydraulic Power Converters' to skip list
+2025-04-18 10:38:27,284 - INFO - Updated skip list saved with 73 items
+2025-04-18 10:38:27,284 - INFO -   Added 'Air to Hydraulic Power Units' to skip list
+2025-04-18 10:38:28,482 - INFO -     Processing item 30/42
+2025-04-18 10:38:28,482 - INFO -   Sub Category 3: Air Cylinders
+2025-04-18 10:38:28,483 - INFO -   Products: 12 products
+2025-04-18 10:38:28,483 - INFO -   Opening: https://www.mcmaster.com/products/flow-pumps/air-cylinders-2~/
+2025-04-18 10:38:28,538 - INFO - --- Switched to new tab 
+2025-04-18 10:38:33,021 - INFO -       [Contains Table page ]
+2025-04-18 10:38:35,062 - INFO - Found 1 sections to process
+2025-04-18 10:38:35,664 - INFO - Processing product: Vacuum Lifting Air Cylinders
+2025-04-18 10:38:35,665 - INFO - Found 1 tables to extract
+2025-04-18 10:38:38,245 - INFO -   Extracted table 1/1
+2025-04-18 10:38:38,245 - INFO - Saving product data to database...
+2025-04-18 10:38:38,246 - INFO - Successfully saved: Vacuum Lifting Air Cylinders
+2025-04-18 10:38:38,246 - INFO - Updated skip list saved with 74 items
+2025-04-18 10:38:38,247 - INFO - Added 'Vacuum Lifting Air Cylinders' to skip list
+2025-04-18 10:38:38,253 - INFO - Updated skip list saved with 75 items
+2025-04-18 10:38:38,253 - INFO -   Added 'Air Cylinders' to skip list
+2025-04-18 10:38:39,444 - INFO -     Processing item 31/42
+2025-04-18 10:38:39,445 - INFO -   Sub Category 3: Oil Dispensers
+2025-04-18 10:38:39,445 - INFO -   Products: 4 products
+2025-04-18 10:38:39,445 - INFO -   Opening: https://www.mcmaster.com/products/flow-pumps/oil-dispensers-1~/
+2025-04-18 10:38:39,498 - INFO - --- Switched to new tab 
+2025-04-18 10:38:43,578 - INFO -       [Contains Table page ]
+2025-04-18 10:38:45,622 - INFO - Found 1 sections to process
+2025-04-18 10:38:45,807 - INFO - Processing product: Air-Powered Container-Mount Oil Dispensers
+2025-04-18 10:38:45,807 - INFO - Found 3 tables to extract
+2025-04-18 10:38:46,248 - INFO -   Extracted table 1/3
+2025-04-18 10:38:46,669 - INFO -   Extracted table 2/3
+2025-04-18 10:38:47,360 - INFO -   Extracted table 3/3
+2025-04-18 10:38:47,361 - INFO - Saving product data to database...
+2025-04-18 10:38:47,362 - INFO - Successfully saved: Air-Powered Container-Mount Oil Dispensers
+2025-04-18 10:38:47,362 - INFO - Updated skip list saved with 76 items
+2025-04-18 10:38:47,362 - INFO - Added 'Air-Powered Container-Mount Oil Dispensers' to skip list
+2025-04-18 10:38:47,368 - INFO - Updated skip list saved with 77 items
+2025-04-18 10:38:47,368 - INFO -   Added 'Oil Dispensers' to skip list
+2025-04-18 10:38:48,553 - INFO -     Processing item 32/42
+2025-04-18 10:38:48,553 - INFO -   Sub Category 3: Oil Dispenser Guns
+2025-04-18 10:38:48,559 - INFO -   Products: 4 products
+2025-04-18 10:38:48,559 - INFO -   Opening: https://www.mcmaster.com/products/flow-pumps/oil-dispenser-guns-1~/
+2025-04-18 10:38:48,611 - INFO - --- Switched to new tab 
+2025-04-18 10:38:52,730 - INFO -       [Contains Table page ]
+2025-04-18 10:38:54,769 - INFO - Found 1 sections to process
+2025-04-18 10:38:55,077 - INFO - Processing product: Guns for Container-Mount Oil Dispensers
+2025-04-18 10:38:55,077 - INFO - Found 3 tables to extract
+2025-04-18 10:38:55,743 - INFO -   Extracted table 1/3
+2025-04-18 10:38:56,373 - INFO -   Extracted table 2/3
+2025-04-18 10:38:56,510 - INFO -   Extracted table 3/3
+2025-04-18 10:38:56,510 - INFO - Saving product data to database...
+2025-04-18 10:38:56,511 - INFO - Successfully saved: Guns for Container-Mount Oil Dispensers
+2025-04-18 10:38:56,512 - INFO - Updated skip list saved with 78 items
+2025-04-18 10:38:56,512 - INFO - Added 'Guns for Container-Mount Oil Dispensers' to skip list
+2025-04-18 10:38:56,518 - INFO - Updated skip list saved with 79 items
+2025-04-18 10:38:56,518 - INFO -   Added 'Oil Dispenser Guns' to skip list
+2025-04-18 10:38:57,695 - INFO -     Processing item 33/42
+2025-04-18 10:38:57,695 - INFO -   Sub Category 3: Suction Guns
+2025-04-18 10:38:57,695 - INFO -   Products: 1 product
+2025-04-18 10:38:57,696 - INFO -   Opening: https://www.mcmaster.com/products/flow-pumps/suction-guns-1~/
+2025-04-18 10:38:57,746 - INFO - --- Switched to new tab 
+2025-04-18 10:39:02,013 - INFO -       [Contains Table page ]
+2025-04-18 10:39:04,053 - INFO - Found 2 sections to process
+2025-04-18 10:39:04,144 - INFO - Processing product: Syringe-Tip Suction Drum Pumps for Water
+2025-04-18 10:39:04,144 - INFO - Found 1 tables to extract
+2025-04-18 10:39:04,645 - INFO -   Extracted table 1/1
+2025-04-18 10:39:04,645 - INFO - Saving product data to database...
+2025-04-18 10:39:04,646 - INFO - Successfully saved: Syringe-Tip Suction Drum Pumps for Water
+2025-04-18 10:39:04,646 - INFO - Updated skip list saved with 80 items
+2025-04-18 10:39:04,646 - INFO - Added 'Syringe-Tip Suction Drum Pumps for Water' to skip list
+2025-04-18 10:39:04,647 - INFO - Updated skip list saved with 81 items
+2025-04-18 10:39:04,647 - INFO -   Added 'Suction Guns' to skip list
+2025-04-18 10:39:05,841 - INFO -     Processing item 34/42
+2025-04-18 10:39:05,841 - INFO -   Sub Category 3: Sump Pump Alarms
+2025-04-18 10:39:05,842 - INFO -   Products: 1 product
+2025-04-18 10:39:05,842 - INFO -   Opening: https://www.mcmaster.com/products/flow-pumps/sump-pump-alarms-2~/
+2025-04-18 10:39:05,897 - INFO - --- Switched to new tab 
+2025-04-18 10:39:10,134 - INFO -       [Contains Table page ]
+2025-04-18 10:39:12,176 - INFO - Found 2 sections to process
+2025-04-18 10:39:12,305 - INFO - Processing product: High Liquid-Level Alarms for Sump Pumps
+2025-04-18 10:39:12,305 - INFO - Found 1 tables to extract
+2025-04-18 10:39:12,749 - INFO -   Extracted table 1/1
+2025-04-18 10:39:12,749 - INFO - Saving product data to database...
+2025-04-18 10:39:12,757 - INFO - Successfully saved: High Liquid-Level Alarms for Sump Pumps
+2025-04-18 10:39:12,757 - INFO - Updated skip list saved with 82 items
+2025-04-18 10:39:12,757 - INFO - Added 'High Liquid-Level Alarms for Sump Pumps' to skip list
+2025-04-18 10:39:12,758 - INFO - Updated skip list saved with 83 items
+2025-04-18 10:39:12,758 - INFO -   Added 'Sump Pump Alarms' to skip list
+2025-04-18 10:39:13,954 - INFO -     Processing item 35/42
+2025-04-18 10:39:13,954 - INFO -   Sub Category 3: Foam
+2025-04-18 10:39:13,954 - INFO -   Products: 1 product
+2025-04-18 10:39:13,954 - INFO -   Opening: https://www.mcmaster.com/products/flow-pumps/foam-1~/
+2025-04-18 10:39:14,009 - INFO - --- Switched to new tab 
+2025-04-18 10:39:18,288 - INFO -       [Contains Table page ]
+2025-04-18 10:39:20,328 - INFO - Found 1 sections to process
+2025-04-18 10:39:20,425 - INFO - Processing product: Accessories and Replacement Parts for Vacuum Lifters
+2025-04-18 10:39:20,426 - INFO - Found 1 tables to extract
+2025-04-18 10:39:20,919 - INFO -   Extracted table 1/1
+2025-04-18 10:39:20,919 - INFO - Saving product data to database...
+2025-04-18 10:39:20,920 - INFO - Successfully saved: Accessories and Replacement Parts for Vacuum Lifters
+2025-04-18 10:39:20,920 - INFO - Updated skip list saved with 84 items
+2025-04-18 10:39:20,920 - INFO - Added 'Accessories and Replacement Parts for Vacuum Lifters' to skip list
+2025-04-18 10:39:20,926 - INFO - Updated skip list saved with 85 items
+2025-04-18 10:39:20,926 - INFO -   Added 'Foam' to skip list
+2025-04-18 10:39:22,123 - INFO -     Processing item 36/42
+2025-04-18 10:39:22,124 - INFO -   Sub Category 3: Tanks
+2025-04-18 10:39:22,124 - INFO -   Products: 1 product
+2025-04-18 10:39:22,124 - INFO -   Opening: https://www.mcmaster.com/products/flow-pumps/tanks-1~/
+2025-04-18 10:39:22,179 - INFO - --- Switched to new tab 
+2025-04-18 10:39:26,385 - INFO -       [Contains Table page ]
+2025-04-18 10:39:28,426 - INFO - Found 1 sections to process
+2025-04-18 10:39:28,536 - INFO - Processing product: Syringe Loading Tanks
+2025-04-18 10:39:28,536 - INFO - Found 1 tables to extract
+2025-04-18 10:39:29,349 - INFO -   Extracted table 1/1
+2025-04-18 10:39:29,349 - INFO - Saving product data to database...
+2025-04-18 10:39:29,356 - INFO - Successfully saved: Syringe Loading Tanks
+2025-04-18 10:39:29,357 - INFO - Updated skip list saved with 86 items
+2025-04-18 10:39:29,357 - INFO - Added 'Syringe Loading Tanks' to skip list
+2025-04-18 10:39:29,357 - INFO - Updated skip list saved with 87 items
+2025-04-18 10:39:29,357 - INFO -   Added 'Tanks' to skip list
+2025-04-18 10:39:30,557 - INFO -     Processing item 37/42
+2025-04-18 10:39:30,557 - INFO -   Sub Category 3: Pipette Pumps
+2025-04-18 10:39:30,557 - INFO -   Products: 6 products
+2025-04-18 10:39:30,557 - INFO -   Opening: https://www.mcmaster.com/products/flow-pumps/pipette-pumps-1~/
+2025-04-18 10:39:30,612 - INFO - --- Switched to new tab 
+2025-04-18 10:39:34,789 - INFO -       [Contains Table page ]
+2025-04-18 10:39:36,838 - INFO - Found 1 sections to process
+2025-04-18 10:39:37,173 - INFO - Processing product: Pipette Pumps
+2025-04-18 10:39:37,173 - INFO - Found 7 tables to extract
+2025-04-18 10:39:37,741 - INFO -   Extracted table 1/7
+2025-04-18 10:39:37,899 - INFO -   Extracted table 2/7
+2025-04-18 10:39:38,244 - INFO -   Extracted table 3/7
+2025-04-18 10:39:38,428 - INFO -   Extracted table 4/7
+2025-04-18 10:39:38,652 - INFO -   Extracted table 5/7
+2025-04-18 10:39:38,880 - INFO -   Extracted table 6/7
+2025-04-18 10:39:39,253 - INFO -   Extracted table 7/7
+2025-04-18 10:39:39,253 - INFO - Saving product data to database...
+2025-04-18 10:39:39,254 - INFO - Successfully saved: Pipette Pumps
+2025-04-18 10:39:39,255 - INFO - Updated skip list saved with 88 items
+2025-04-18 10:39:39,255 - INFO - Added 'Pipette Pumps' to skip list
+2025-04-18 10:39:40,457 - INFO -     Processing item 38/42
+2025-04-18 10:39:40,457 - INFO -   Sub Category 3: Vacuum Lifters
+2025-04-18 10:39:40,458 - INFO -   Products: 103 products
+2025-04-18 10:39:40,458 - INFO -   Opening: https://www.mcmaster.com/products/flow-pumps/vacuum-lifters-1~/
+2025-04-18 10:39:40,512 - INFO - --- Switched to new tab 
+2025-04-18 10:39:44,828 - INFO -       [Contains Table page ]
+2025-04-18 10:39:46,880 - INFO - Found 1 sections to process
+2025-04-18 10:39:50,273 - INFO - Processing product: Vacuum Lifters for Large Surfaces
+2025-04-18 10:39:50,273 - INFO - Found 33 tables to extract
+2025-04-18 10:39:53,325 - INFO -   Extracted table 1/33
+2025-04-18 10:39:54,879 - INFO -   Extracted table 2/33
+2025-04-18 10:39:55,278 - INFO -   Extracted table 3/33
+2025-04-18 10:39:56,269 - INFO -   Extracted table 4/33
+2025-04-18 10:39:56,971 - INFO -   Extracted table 5/33
+2025-04-18 10:39:57,282 - INFO -   Extracted table 6/33
+2025-04-18 10:39:57,546 - INFO -   Extracted table 7/33
+2025-04-18 10:39:57,786 - INFO -   Extracted table 8/33
+2025-04-18 10:39:58,058 - INFO -   Extracted table 9/33
+2025-04-18 10:40:02,372 - INFO -   Extracted table 10/33
+2025-04-18 10:40:02,880 - INFO -   Extracted table 11/33
+2025-04-18 10:40:03,993 - INFO -   Extracted table 12/33
+2025-04-18 10:40:04,327 - INFO -   Extracted table 13/33
+2025-04-18 10:40:04,767 - INFO -   Extracted table 14/33
+2025-04-18 10:40:05,008 - INFO -   Extracted table 15/33
+2025-04-18 10:40:05,274 - INFO -   Extracted table 16/33
+2025-04-18 10:40:07,488 - INFO -   Extracted table 17/33
+2025-04-18 10:40:08,338 - INFO -   Extracted table 18/33
+2025-04-18 10:40:09,179 - INFO -   Extracted table 19/33
+2025-04-18 10:40:11,408 - INFO -   Extracted table 20/33
+2025-04-18 10:40:11,825 - INFO -   Extracted table 21/33
+2025-04-18 10:40:12,064 - INFO -   Extracted table 22/33
+2025-04-18 10:40:12,492 - INFO -   Extracted table 23/33
+2025-04-18 10:40:12,934 - INFO -   Extracted table 24/33
+2025-04-18 10:40:13,189 - INFO -   Extracted table 25/33
+2025-04-18 10:40:13,429 - INFO -   Extracted table 26/33
+2025-04-18 10:40:16,407 - INFO -   Extracted table 27/33
+2025-04-18 10:40:17,010 - INFO -   Extracted table 28/33
+2025-04-18 10:40:18,034 - INFO -   Extracted table 29/33
+2025-04-18 10:40:18,663 - INFO -   Extracted table 30/33
+2025-04-18 10:40:19,521 - INFO -   Extracted table 31/33
+2025-04-18 10:40:19,984 - INFO -   Extracted table 32/33
+2025-04-18 10:40:20,119 - INFO -   Extracted table 33/33
+2025-04-18 10:40:20,119 - INFO - Saving product data to database...
+2025-04-18 10:40:20,121 - INFO - Successfully saved: Vacuum Lifters for Large Surfaces
+2025-04-18 10:40:20,121 - INFO - Updated skip list saved with 89 items
+2025-04-18 10:40:20,121 - INFO - Added 'Vacuum Lifters for Large Surfaces' to skip list
+2025-04-18 10:40:20,128 - INFO - Updated skip list saved with 90 items
+2025-04-18 10:40:20,128 - INFO -   Added 'Vacuum Lifters' to skip list
+2025-04-18 10:40:21,329 - INFO -     Processing item 39/42
+2025-04-18 10:40:21,329 - INFO -   Sub Category 3: Vacuum Lifter Dampers
+2025-04-18 10:40:21,330 - INFO -   Products: 5 products
+2025-04-18 10:40:21,330 - INFO -   Opening: https://www.mcmaster.com/products/flow-pumps/vacuum-lifter-dampers-2~/
+2025-04-18 10:40:21,384 - INFO - --- Switched to new tab 
+2025-04-18 10:40:25,844 - INFO -       [Contains Table page ]
+2025-04-18 10:40:27,885 - INFO - Found 1 sections to process
+2025-04-18 10:40:27,999 - INFO - Processing product: Anti-Slip Adapters for Non-Contact Vacuum Lifters
+2025-04-18 10:40:27,999 - INFO - Found 1 tables to extract
+2025-04-18 10:40:28,879 - INFO -   Extracted table 1/1
+2025-04-18 10:40:28,879 - INFO - Saving product data to database...
+2025-04-18 10:40:28,882 - INFO - Successfully saved: Anti-Slip Adapters for Non-Contact Vacuum Lifters
+2025-04-18 10:40:28,883 - INFO - Updated skip list saved with 91 items
+2025-04-18 10:40:28,883 - INFO - Added 'Anti-Slip Adapters for Non-Contact Vacuum Lifters' to skip list
+2025-04-18 10:40:28,889 - INFO - Updated skip list saved with 92 items
+2025-04-18 10:40:28,889 - INFO -   Added 'Vacuum Lifter Dampers' to skip list
+2025-04-18 10:40:30,099 - INFO -     Processing item 40/42
+2025-04-18 10:40:30,099 - INFO -   Sub Category 3: Vacuum Lifter Accessory and Replacement Parts
+2025-04-18 10:40:30,099 - INFO -   Products: 23 products
+2025-04-18 10:40:30,099 - INFO -   Opening: https://www.mcmaster.com/products/flow-pumps/vacuum-lifter-accessory-and-replacement-parts-2~/
+2025-04-18 10:40:30,157 - INFO - --- Switched to new tab 
+2025-04-18 10:40:34,596 - INFO -       [Contains Table page ]
+2025-04-18 10:40:36,639 - INFO - Found 1 sections to process
+2025-04-18 10:40:36,921 - INFO - Processing product: Accessories and Replacement Parts for Vacuum Lifters
+2025-04-18 10:40:36,921 - INFO - Found 7 tables to extract
+2025-04-18 10:40:37,211 - INFO -   Extracted table 1/7
+2025-04-18 10:40:37,835 - INFO -   Extracted table 2/7
+2025-04-18 10:40:38,566 - INFO -   Extracted table 3/7
+2025-04-18 10:40:39,382 - INFO -   Extracted table 4/7
+2025-04-18 10:40:39,875 - INFO -   Extracted table 5/7
+2025-04-18 10:40:40,181 - INFO -   Extracted table 6/7
+2025-04-18 10:40:40,508 - INFO -   Extracted table 7/7
+2025-04-18 10:40:40,508 - INFO - Saving product data to database...
+2025-04-18 10:40:40,509 - INFO - Successfully saved: Accessories and Replacement Parts for Vacuum Lifters
+2025-04-18 10:40:40,509 - INFO - Updated skip list saved with 93 items
+2025-04-18 10:40:40,509 - INFO -   Added 'Vacuum Lifter Accessory and Replacement Parts' to skip list
+2025-04-18 10:40:41,706 - INFO -     Processing item 41/42
+2025-04-18 10:40:41,706 - INFO -   Sub Category 3: Vacuum Fittings
+2025-04-18 10:40:41,706 - INFO -   Products: 14 products
+2025-04-18 10:40:41,706 - INFO -   Opening: https://www.mcmaster.com/products/flow-pumps/vacuum-fittings-2~/
+2025-04-18 10:40:41,760 - INFO - --- Switched to new tab 
+2025-04-18 10:40:46,109 - INFO -       [Contains Table page ]
+2025-04-18 10:40:48,150 - INFO - Found 1 sections to process
+2025-04-18 10:40:49,017 - INFO - Processing product: Create-a-Vacuum Fittings
+2025-04-18 10:40:49,017 - INFO - Found 1 tables to extract
+2025-04-18 10:40:51,251 - INFO -   Extracted table 1/1
+2025-04-18 10:40:51,251 - INFO - Saving product data to database...
+2025-04-18 10:40:51,252 - INFO - Successfully saved: Create-a-Vacuum Fittings
+2025-04-18 10:40:51,253 - INFO - Updated skip list saved with 94 items
+2025-04-18 10:40:51,253 - INFO - Added 'Create-a-Vacuum Fittings' to skip list
+2025-04-18 10:40:51,253 - INFO - Updated skip list saved with 95 items
+2025-04-18 10:40:51,253 - INFO -   Added 'Vacuum Fittings' to skip list
+2025-04-18 10:40:52,446 - INFO -     Processing item 42/42
+2025-04-18 10:40:52,446 - INFO -   Sub Category 3: T-Slotted Framing and Fittings
+2025-04-18 10:40:52,446 - INFO -   Products: 2 products
+2025-04-18 10:40:52,446 - INFO -   Opening: https://www.mcmaster.com/products/flow-pumps/t-slotted-framing-and-fittings~/
+2025-04-18 10:40:52,499 - INFO - --- Switched to new tab 
+2025-04-18 10:40:56,721 - INFO -       [Contains Table page ]
+2025-04-18 10:40:58,763 - INFO - Found 1 sections to process
+2025-04-18 10:40:58,959 - INFO - Processing product: Accessories and Replacement Parts for Vacuum Lifters
+2025-04-18 10:40:58,959 - INFO - Found 2 tables to extract
+2025-04-18 10:40:59,468 - INFO -   Extracted table 1/2
+2025-04-18 10:40:59,891 - INFO -   Extracted table 2/2
+2025-04-18 10:40:59,891 - INFO - Saving product data to database...
+2025-04-18 10:40:59,892 - INFO - Successfully saved: Accessories and Replacement Parts for Vacuum Lifters
+2025-04-18 10:40:59,893 - INFO - Updated skip list saved with 96 items
+2025-04-18 10:40:59,893 - INFO -   Added 'T-Slotted Framing and Fittings' to skip list
+2025-04-18 10:41:01,002 - INFO - Updated skip list saved with 97 items
+2025-04-18 10:41:01,002 - INFO -     Added 'Flow & Level Control/Pumps' to skip list
+2025-04-18 10:41:02,085 - INFO -    Processing sub category 2: Valves
+2025-04-18 10:41:02,105 - INFO -    Processing item: Valves (https://www.mcmaster.com/products/flow-valves/)
+2025-04-18 10:41:08,740 - INFO -       [Subcategory index page detected]
+2025-04-18 10:41:08,777 - INFO - Found 50 subcategory items to process
+2025-04-18 10:41:08,872 - INFO -     Processing item 1/50
+2025-04-18 10:41:08,872 - INFO -   Sub Category 3: On-Off Valves
+2025-04-18 10:41:08,872 - INFO -   Products: 3,664 products
+2025-04-18 10:41:08,872 - INFO -   Opening: https://www.mcmaster.com/products/flow-valves/on-off-valves-1~/
+2025-04-18 10:41:08,930 - INFO - --- Switched to new tab 
+2025-04-18 10:41:15,430 - INFO -   [Product page detected]
+2025-04-18 10:41:17,486 - INFO - Found 24 sections to process
+2025-04-18 10:41:27,812 - WARNING - No tables found for product: About On/Off Valves
+2025-04-18 10:41:27,812 - INFO - Saving product data to database...
+2025-04-18 10:41:27,813 - INFO - Successfully saved: About On/Off Valves
+2025-04-18 10:41:27,813 - INFO - Updated skip list saved with 98 items
+2025-04-18 10:41:27,813 - INFO - Added 'About On/Off Valves' to skip list
+2025-04-18 10:41:38,605 - WARNING - No tables found for product: On/Off Valves
+2025-04-18 10:41:38,605 - INFO - Saving product data to database...
+2025-04-18 10:41:38,606 - INFO - Successfully saved: On/Off Valves
+2025-04-18 10:41:38,606 - INFO - Updated skip list saved with 99 items
+2025-04-18 10:41:38,606 - INFO - Added 'On/Off Valves' to skip list
+2025-04-18 10:41:49,134 - WARNING - No tables found for product: On/Off Valves for Chemicals
+2025-04-18 10:41:49,134 - INFO - Saving product data to database...
+2025-04-18 10:41:49,135 - INFO - Successfully saved: On/Off Valves for Chemicals
+2025-04-18 10:41:49,136 - INFO - Updated skip list saved with 100 items
+2025-04-18 10:41:49,136 - INFO - Added 'On/Off Valves for Chemicals' to skip list
+2025-04-18 10:41:59,543 - WARNING - No tables found for product: On/Off Valves for Drinking Water
+2025-04-18 10:41:59,544 - INFO - Saving product data to database...
+2025-04-18 10:41:59,546 - INFO - Successfully saved: On/Off Valves for Drinking Water
+2025-04-18 10:41:59,547 - INFO - Updated skip list saved with 101 items
+2025-04-18 10:41:59,547 - INFO - Added 'On/Off Valves for Drinking Water' to skip list
+2025-04-18 10:42:09,859 - WARNING - No tables found for product: On/Off Valves for Fuel
+2025-04-18 10:42:09,859 - INFO - Saving product data to database...
+2025-04-18 10:42:09,860 - INFO - Successfully saved: On/Off Valves for Fuel
+2025-04-18 10:42:09,861 - INFO - Updated skip list saved with 102 items
+2025-04-18 10:42:09,861 - INFO - Added 'On/Off Valves for Fuel' to skip list
+2025-04-18 10:42:20,191 - WARNING - No tables found for product: On/Off Valves for Food and Beverage
+2025-04-18 10:42:20,192 - INFO - Saving product data to database...
+2025-04-18 10:42:20,193 - INFO - Successfully saved: On/Off Valves for Food and Beverage
+2025-04-18 10:42:20,193 - INFO - Updated skip list saved with 103 items
+2025-04-18 10:42:20,193 - INFO - Added 'On/Off Valves for Food and Beverage' to skip list
+2025-04-18 10:42:30,564 - WARNING - No tables found for product: On/Off Valves for Natural Gas, Propane, and Butane
+2025-04-18 10:42:30,564 - INFO - Saving product data to database...
+2025-04-18 10:42:30,565 - INFO - Successfully saved: On/Off Valves for Natural Gas, Propane, and Butane
+2025-04-18 10:42:30,566 - INFO - Updated skip list saved with 104 items
+2025-04-18 10:42:30,566 - INFO - Added 'On/Off Valves for Natural Gas, Propane, and Butane' to skip list
+2025-04-18 10:42:40,924 - WARNING - No tables found for product: On/Off Valves for Vacuum
+2025-04-18 10:42:40,924 - INFO - Saving product data to database...
+2025-04-18 10:42:40,925 - INFO - Successfully saved: On/Off Valves for Vacuum
+2025-04-18 10:42:40,926 - INFO - Updated skip list saved with 105 items
+2025-04-18 10:42:40,926 - INFO - Added 'On/Off Valves for Vacuum' to skip list
+2025-04-18 10:42:41,837 - INFO - Driver closed successfully

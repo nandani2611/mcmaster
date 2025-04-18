@@ -1,0 +1,63 @@
+2025-04-18 10:21:38,276 - INFO - ====== WebDriver manager ======
+2025-04-18 10:21:38,356 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-18 10:21:38,776 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-18 10:21:39,047 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-18 10:21:39,759 - INFO - WebDriver version 135.0.7049.95 selected
+2025-04-18 10:21:39,763 - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/135.0.7049.95/linux64/chromedriver-linux64.zip
+2025-04-18 10:21:39,763 - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/135.0.7049.95/linux64/chromedriver-linux64.zip
+2025-04-18 10:21:39,982 - INFO - Driver downloading response is 200
+2025-04-18 10:21:41,110 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-18 10:21:41,774 - INFO - Driver has been saved in cache [/home/nandinidalsaniya/.wdm/drivers/chromedriver/linux64/135.0.7049.95]
+2025-04-18 10:21:43,350 - INFO - patching driver executable /home/nandinidalsaniya/.local/share/undetected_chromedriver/undetected_chromedriver
+2025-04-18 10:22:50,391 - ERROR - Error in main run function: Message: 
+Stacktrace:
+#0 0x59e95214ecea <unknown>
+#1 0x59e951bff5f0 <unknown>
+#2 0x59e951c50a33 <unknown>
+#3 0x59e951c50c21 <unknown>
+#4 0x59e951c9f274 <unknown>
+#5 0x59e951c7668d <unknown>
+#6 0x59e951c9c660 <unknown>
+#7 0x59e951c76433 <unknown>
+#8 0x59e951c42ea3 <unknown>
+#9 0x59e951c43b01 <unknown>
+#10 0x59e952113b3b <unknown>
+#11 0x59e952117a21 <unknown>
+#12 0x59e9520fac32 <unknown>
+#13 0x59e952118594 <unknown>
+#14 0x59e9520deeef <unknown>
+#15 0x59e95213cd98 <unknown>
+#16 0x59e95213cf76 <unknown>
+#17 0x59e95214db36 <unknown>
+#18 0x7412afa94ac3 <unknown>
+
+Stack Trace:
+Traceback (most recent call last):
+  File "/home/nandinidalsaniya/mcmaster-scraper/src/scraper/scraper.py", line 663, in run
+    categories_container_ele = self.wait.until(
+  File "/home/nandinidalsaniya/mcmaster-scraper/venv/lib/python3.10/site-packages/selenium/webdriver/support/wait.py", line 146, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+Stacktrace:
+#0 0x59e95214ecea <unknown>
+#1 0x59e951bff5f0 <unknown>
+#2 0x59e951c50a33 <unknown>
+#3 0x59e951c50c21 <unknown>
+#4 0x59e951c9f274 <unknown>
+#5 0x59e951c7668d <unknown>
+#6 0x59e951c9c660 <unknown>
+#7 0x59e951c76433 <unknown>
+#8 0x59e951c42ea3 <unknown>
+#9 0x59e951c43b01 <unknown>
+#10 0x59e952113b3b <unknown>
+#11 0x59e952117a21 <unknown>
+#12 0x59e9520fac32 <unknown>
+#13 0x59e952118594 <unknown>
+#14 0x59e9520deeef <unknown>
+#15 0x59e95213cd98 <unknown>
+#16 0x59e95213cf76 <unknown>
+#17 0x59e95214db36 <unknown>
+#18 0x7412afa94ac3 <unknown>
+
+
+2025-04-18 10:22:50,508 - INFO - Driver closed successfully

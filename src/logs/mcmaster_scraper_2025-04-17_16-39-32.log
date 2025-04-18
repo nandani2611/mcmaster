@@ -1,0 +1,54 @@
+2025-04-17 16:39:32,049 - INFO - ====== WebDriver manager ======
+2025-04-17 16:39:32,118 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-17 16:39:32,298 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-17 16:39:32,455 - INFO - Driver [/home/nandinidalsaniya/.wdm/drivers/chromedriver/linux64/135.0.7049.95/chromedriver-linux64/chromedriver] found in cache
+2025-04-17 16:39:34,079 - INFO - patching driver executable /home/nandinidalsaniya/.local/share/undetected_chromedriver/undetected_chromedriver
+2025-04-17 16:39:47,212 - INFO - Found 27 categories
+2025-04-17 16:39:47,212 - INFO - Current skip list has 62 items
+2025-04-17 16:39:47,248 - INFO -  Processing category : Raw Materials
+2025-04-17 16:39:47,282 - INFO -   Processing sub category 1: 
+2025-04-17 16:39:47,305 - INFO -    Processing sub category 2: Expanded Metal
+2025-04-17 16:39:47,322 - INFO -    Processing item: Expanded Metal (https://www.mcmaster.com/products/expanded-metal/)
+2025-04-17 16:39:52,535 - INFO -       [Contains Table page ]
+2025-04-17 16:39:54,601 - INFO - Found 1 sections to process
+2025-04-17 16:39:54,964 - INFO - Processing product: Metal Panels
+2025-04-17 16:39:54,964 - INFO - Found 11 tables to extract
+2025-04-17 16:39:58,931 - INFO -   Extracted table 1/11
+2025-04-17 16:40:03,807 - INFO -   Extracted table 2/11
+2025-04-17 16:40:05,176 - INFO -   Extracted table 3/11
+2025-04-17 16:40:05,428 - INFO -   Extracted table 4/11
+2025-04-17 16:40:06,121 - INFO -   Extracted table 5/11
+2025-04-17 16:40:07,388 - INFO -   Extracted table 6/11
+2025-04-17 16:40:07,871 - INFO -   Extracted table 7/11
+2025-04-17 16:40:08,213 - INFO -   Extracted table 8/11
+2025-04-17 16:40:09,028 - INFO -   Extracted table 9/11
+2025-04-17 16:40:09,573 - INFO -   Extracted table 10/11
+2025-04-17 16:40:10,070 - INFO -   Extracted table 11/11
+2025-04-17 16:40:10,070 - INFO - Saving product data to database...
+2025-04-17 16:40:10,072 - INFO - Successfully saved: Metal Panels
+2025-04-17 16:40:10,072 - INFO - Updated skip list saved with 63 items
+2025-04-17 16:40:10,072 - INFO - Added 'Metal Panels' to skip list
+2025-04-17 16:40:10,078 - INFO - Updated skip list saved with 64 items
+2025-04-17 16:40:10,079 - INFO -     Added 'Raw Materials/Expanded Metal' to skip list
+2025-04-17 16:40:11,158 - INFO -    Processing sub category 2: Plastics
+2025-04-17 16:40:11,171 - INFO -    Processing item: Plastics (https://www.mcmaster.com/products/plastics/)
+2025-04-17 16:40:37,471 - INFO -       [Subcategory index page detected]
+2025-04-17 16:40:37,500 - INFO - Found 31 subcategory items to process
+2025-04-17 16:40:37,599 - INFO -     Processing item 1/31
+2025-04-17 16:40:37,599 - INFO -   Sub Category 3: Plastic
+2025-04-17 16:40:37,599 - INFO -   Products: 9,099 products
+2025-04-17 16:40:37,599 - INFO -   Opening: https://www.mcmaster.com/products/plastics/plastic-1~/
+2025-04-17 16:40:37,645 - INFO - --- Switched to new tab 
+2025-04-17 16:40:46,182 - INFO -   [Types index page detected]
+2025-04-17 16:40:46,355 - INFO - Found 22 type groups to process
+2025-04-17 16:40:46,391 - INFO - Processing group 1/22: Slippery UHMW Polyethylene
+2025-04-17 16:40:46,392 - INFO -   Contains 21 products
+2025-04-17 16:40:46,470 - INFO - --- Product title : Slippery UHMW Polyethylene
+Sheets, Bars, and Strips ---
+2025-04-17 16:40:46,530 - INFO - 
+  Product 1/21: Slippery UHMW Polyethylene
+Sheets, Bars, and Strips
+2025-04-17 16:40:46,530 - INFO -     Link: https://www.mcmaster.com/products/plastics/plastic-1~/slippery-uhmw-polyethylene-sheets-bars-and-strips/
+2025-04-17 16:40:46,530 - INFO -     Image: https://www.mcmaster.com/mvC/Contents/gfx/ImageCache/875/8752k115p4-j03-digital@100p_636894706751752183.png?ver=ImageNotFound
+2025-04-17 16:40:46,530 - INFO -     Description: In addition to a low-friction surface that prevent...
+2025-04-17 16:41:03,885 - INFO - Driver closed successfully

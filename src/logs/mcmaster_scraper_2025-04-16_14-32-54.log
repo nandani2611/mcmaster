@@ -1,0 +1,38 @@
+2025-04-16 14:32:54,044 - INFO - ====== WebDriver manager ======
+2025-04-16 14:32:54,123 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-16 14:32:54,302 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-16 14:32:54,484 - INFO - Driver [/home/nandinidalsaniya/.wdm/drivers/chromedriver/linux64/135.0.7049.95/chromedriver-linux64/chromedriver] found in cache
+2025-04-16 14:32:56,281 - INFO - patching driver executable /home/nandinidalsaniya/.local/share/undetected_chromedriver/undetected_chromedriver
+2025-04-16 14:33:12,993 - INFO - Found 27 categories
+2025-04-16 14:33:12,993 - INFO - Current skip list has 4 items
+2025-04-16 14:33:13,050 - INFO - 
+Processing category: Fastening & Joining
+2025-04-16 14:33:13,084 - INFO -   Processing subcategory: Fasteners
+2025-04-16 14:33:13,115 - INFO -     Skipping Screws & Bolts - found in skip list
+2025-04-16 14:33:13,157 - INFO -     Processing item: Threaded Rods & Studs (https://www.mcmaster.com/products/threaded-rods/)
+2025-04-16 14:33:23,240 - INFO -       [Subcategory index page detected]
+2025-04-16 14:33:23,273 - INFO - 
+Found 28 subcategory items to process
+2025-04-16 14:33:23,412 - INFO - 
+Processing item 1/28
+2025-04-16 14:33:23,412 - INFO -   Title: Threaded Rods
+2025-04-16 14:33:23,412 - INFO -   Products: 5,147 products
+2025-04-16 14:33:23,412 - INFO -   Skipping Threaded Rods - found in skip list
+2025-04-16 14:33:23,512 - INFO - 
+Processing item 2/28
+2025-04-16 14:33:23,512 - INFO -   Title: Left-Hand Threaded Rods
+2025-04-16 14:33:23,512 - INFO -   Products: 149 products
+2025-04-16 14:33:23,512 - INFO -   Skipping Left-Hand Threaded Rods - found in skip list
+2025-04-16 14:33:23,605 - INFO - 
+Processing item 3/28
+2025-04-16 14:33:23,605 - INFO -   Title: Threaded Rods with Hex Nuts
+2025-04-16 14:33:23,605 - INFO -   Products: 20 products
+2025-04-16 14:33:23,605 - INFO -   Opening: https://www.mcmaster.com/products/threaded-rods/threaded-rods-with-hex-nuts~~/
+2025-04-16 14:33:30,057 - INFO - Updated skip list saved with 5 items
+2025-04-16 14:33:30,058 - INFO -   Added 'Threaded Rods with Hex Nuts' to skip list
+2025-04-16 14:33:31,353 - INFO - 
+Processing item 4/28
+2025-04-16 14:33:31,353 - INFO -   Title: Stay-Clean Threaded Rods
+2025-04-16 14:33:31,353 - INFO -   Products: 18 products
+2025-04-16 14:33:31,353 - INFO -   Opening: https://www.mcmaster.com/products/threaded-rods/stay-clean-threaded-rods~~/
+2025-04-16 14:33:36,623 - INFO - Driver closed successfully

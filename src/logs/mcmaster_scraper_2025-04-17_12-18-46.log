@@ -1,0 +1,17 @@
+2025-04-17 12:18:46,665 - INFO - ====== WebDriver manager ======
+2025-04-17 12:18:46,738 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-17 12:18:46,918 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-17 12:18:47,064 - INFO - Driver [/home/nandinidalsaniya/.wdm/drivers/chromedriver/linux64/135.0.7049.95/chromedriver-linux64/chromedriver] found in cache
+2025-04-17 12:18:48,758 - INFO - patching driver executable /home/nandinidalsaniya/.local/share/undetected_chromedriver/undetected_chromedriver
+2025-04-17 12:19:04,889 - INFO - Found 27 categories
+2025-04-17 12:19:04,889 - INFO - Current skip list has 1 items
+2025-04-17 12:19:04,923 - INFO -  Processing category : Raw Materials
+2025-04-17 12:19:04,958 - INFO -   Processing sub category 1: 
+2025-04-17 12:19:04,979 - INFO -    Processing sub category 2: Metals
+2025-04-17 12:19:05,001 - INFO -    Processing item: Metals (https://www.mcmaster.com/products/metals/)
+2025-04-17 12:19:15,749 - WARNING -    [Unhandeled page encountered]
+2025-04-17 12:19:15,750 - INFO - Updated skip list saved with 2 items
+2025-04-17 12:19:15,750 - INFO -     Added 'Raw Materials/Metals' to skip list
+2025-04-17 12:19:16,820 - INFO -    Processing sub category 2: Shim Stock
+2025-04-17 12:19:16,836 - INFO -    Processing item: Shim Stock (https://www.mcmaster.com/products/shim-stock/)
+2025-04-17 12:19:18,359 - INFO - Driver closed successfully

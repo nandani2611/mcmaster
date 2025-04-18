@@ -1,0 +1,4 @@
+2025-04-17 15:39:29,585 - INFO - ====== WebDriver manager ======
+2025-04-17 15:39:29,657 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-17 15:39:30,533 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-17 15:39:31,450 - INFO - Driver [/home/nandinidalsaniya/.wdm/drivers/chromedriver/linux64/135.0.7049.95/chromedriver-linux64/chromedriver] found in cache

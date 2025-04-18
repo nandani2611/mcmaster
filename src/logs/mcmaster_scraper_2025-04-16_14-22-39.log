@@ -1,0 +1,183 @@
+2025-04-16 14:22:39,113 - INFO - ====== WebDriver manager ======
+2025-04-16 14:22:39,194 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-16 14:22:39,412 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-16 14:22:39,591 - INFO - There is no [linux64] chromedriver "135.0.7049.95" for browser google-chrome "135.0.7049" in cache
+2025-04-16 14:22:39,592 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-16 14:22:40,104 - INFO - WebDriver version 135.0.7049.95 selected
+2025-04-16 14:22:40,109 - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/135.0.7049.95/linux64/chromedriver-linux64.zip
+2025-04-16 14:22:40,109 - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/135.0.7049.95/linux64/chromedriver-linux64.zip
+2025-04-16 14:22:40,339 - INFO - Driver downloading response is 200
+2025-04-16 14:22:41,599 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-16 14:22:42,003 - INFO - Driver has been saved in cache [/home/nandinidalsaniya/.wdm/drivers/chromedriver/linux64/135.0.7049.95]
+2025-04-16 14:22:43,670 - INFO - patching driver executable /home/nandinidalsaniya/.local/share/undetected_chromedriver/undetected_chromedriver
+2025-04-16 14:22:53,465 - INFO - Found 27 categories
+2025-04-16 14:22:53,465 - INFO - Current skip list has 145 items
+2025-04-16 14:22:53,530 - INFO - 
+Processing category: Fastening & Joining
+2025-04-16 14:22:53,578 - INFO -   Processing subcategory: Fasteners
+2025-04-16 14:22:53,616 - INFO -     Skipping Screws & Bolts - found in skip list
+2025-04-16 14:22:53,636 - INFO -     Skipping Threaded Rods & Studs - found in skip list
+2025-04-16 14:22:53,688 - INFO -     Skipping Eyebolts - found in skip list
+2025-04-16 14:22:53,705 - INFO -     Skipping U-Bolts - found in skip list
+2025-04-16 14:22:53,721 - INFO -     Skipping Nuts - found in skip list
+2025-04-16 14:22:53,765 - INFO -     Processing item: Washers (https://www.mcmaster.com/products/standard-washers/)
+2025-04-16 14:23:00,442 - INFO -       [Subcategory index page detected]
+2025-04-16 14:23:00,479 - INFO - 
+Found 62 subcategory items to process
+2025-04-16 14:23:00,594 - INFO - 
+Processing item 1/62
+2025-04-16 14:23:00,595 - INFO -   Title: General Purpose Washers
+2025-04-16 14:23:00,595 - INFO -   Products: 573 products
+2025-04-16 14:23:00,595 - INFO -   Skipping General Purpose Washers - found in skip list
+2025-04-16 14:23:00,767 - INFO - 
+Processing item 2/62
+2025-04-16 14:23:00,767 - INFO -   Title: Oversized Washers
+2025-04-16 14:23:00,767 - INFO -   Products: 974 products
+2025-04-16 14:23:00,768 - INFO -   Skipping Oversized Washers - found in skip list
+2025-04-16 14:23:00,855 - INFO - 
+Processing item 3/62
+2025-04-16 14:23:00,856 - INFO -   Title: Mil. Spec. Washers
+2025-04-16 14:23:00,856 - INFO -   Products: 563 products
+2025-04-16 14:23:00,856 - INFO -   Skipping Mil. Spec. Washers - found in skip list
+2025-04-16 14:23:00,942 - INFO - 
+Processing item 4/62
+2025-04-16 14:23:00,942 - INFO -   Title: SAE Washers
+2025-04-16 14:23:00,942 - INFO -   Products: 350 products
+2025-04-16 14:23:00,943 - INFO -   Skipping SAE Washers - found in skip list
+2025-04-16 14:23:01,032 - INFO - 
+Processing item 5/62
+2025-04-16 14:23:01,032 - INFO -   Title: USS Washers
+2025-04-16 14:23:01,032 - INFO -   Products: 218 products
+2025-04-16 14:23:01,032 - INFO -   Skipping USS Washers - found in skip list
+2025-04-16 14:23:01,128 - INFO - 
+Processing item 6/62
+2025-04-16 14:23:01,128 - INFO -   Title: ASME Washers
+2025-04-16 14:23:01,128 - INFO -   Products: 374 products
+2025-04-16 14:23:01,128 - INFO -   Skipping ASME Washers - found in skip list
+2025-04-16 14:23:01,216 - INFO - 
+Processing item 7/62
+2025-04-16 14:23:01,216 - INFO -   Title: Undersized Washers
+2025-04-16 14:23:01,216 - INFO -   Products: 142 products
+2025-04-16 14:23:01,216 - INFO -   Skipping Undersized Washers - found in skip list
+2025-04-16 14:23:01,306 - INFO - 
+Processing item 8/62
+2025-04-16 14:23:01,306 - INFO -   Title: Washers for Blind Rivets
+2025-04-16 14:23:01,306 - INFO -   Products: 18 products
+2025-04-16 14:23:01,306 - INFO -   Skipping Washers for Blind Rivets - found in skip list
+2025-04-16 14:23:01,401 - INFO - 
+Processing item 9/62
+2025-04-16 14:23:01,401 - INFO -   Title: Washers for Square-Neck Bolts
+2025-04-16 14:23:01,401 - INFO -   Products: 30 products
+2025-04-16 14:23:01,401 - INFO -   Skipping Washers for Square-Neck Bolts - found in skip list
+2025-04-16 14:23:01,522 - INFO - 
+Processing item 10/62
+2025-04-16 14:23:01,523 - INFO -   Title: Structural Washers
+2025-04-16 14:23:01,523 - INFO -   Products: 51 products
+2025-04-16 14:23:01,523 - INFO -   Skipping Structural Washers - found in skip list
+2025-04-16 14:23:01,616 - INFO - 
+Processing item 11/62
+2025-04-16 14:23:01,616 - INFO -   Title: Tension-Indicating Structural Washers
+2025-04-16 14:23:01,616 - INFO -   Products: 41 products
+2025-04-16 14:23:01,616 - INFO -   Skipping Tension-Indicating Structural Washers - found in skip list
+2025-04-16 14:23:01,703 - INFO - 
+Processing item 12/62
+2025-04-16 14:23:01,704 - INFO -   Title: Plastic Washers
+2025-04-16 14:23:01,704 - INFO -   Products: 896 products
+2025-04-16 14:23:01,704 - INFO -   Skipping Plastic Washers - found in skip list
+2025-04-16 14:23:01,789 - INFO - 
+Processing item 13/62
+2025-04-16 14:23:01,789 - INFO -   Title: Mil. Spec. Plastic Washers
+2025-04-16 14:23:01,789 - INFO -   Products: 68 products
+2025-04-16 14:23:01,789 - INFO -   Opening: https://www.mcmaster.com/products/standard-washers/mil-spec-plastic-washers~~/
+2025-04-16 14:23:08,222 - INFO - Updated skip list saved with 146 items
+2025-04-16 14:23:08,222 - INFO -   Added 'Mil. Spec. Plastic Washers' to skip list
+2025-04-16 14:23:09,502 - INFO - 
+Processing item 14/62
+2025-04-16 14:23:09,502 - INFO -   Title: Hard Fiber Washers
+2025-04-16 14:23:09,502 - INFO -   Products: 91 products
+2025-04-16 14:23:09,503 - INFO -   Opening: https://www.mcmaster.com/products/standard-washers/hard-fiber-washers~~/
+2025-04-16 14:23:15,965 - INFO - Updated skip list saved with 147 items
+2025-04-16 14:23:15,965 - INFO -   Added 'Hard Fiber Washers' to skip list
+2025-04-16 14:23:17,212 - INFO - 
+Processing item 15/62
+2025-04-16 14:23:17,212 - INFO -   Title: Fiberglass Washers
+2025-04-16 14:23:17,212 - INFO -   Products: 77 products
+2025-04-16 14:23:17,212 - INFO -   Opening: https://www.mcmaster.com/products/standard-washers/fiberglass-washers~~/
+2025-04-16 14:23:23,644 - INFO - Updated skip list saved with 148 items
+2025-04-16 14:23:23,644 - INFO -   Added 'Fiberglass Washers' to skip list
+2025-04-16 14:23:24,865 - INFO - 
+Processing item 16/62
+2025-04-16 14:23:24,865 - INFO -   Title: Very-High-Temperature Mica Washers
+2025-04-16 14:23:24,865 - INFO -   Products: 7 products
+2025-04-16 14:23:24,865 - INFO -   Opening: https://www.mcmaster.com/products/standard-washers/very-high-temperature-mica-washers~~/
+2025-04-16 14:23:31,254 - INFO - Updated skip list saved with 149 items
+2025-04-16 14:23:31,255 - INFO -   Added 'Very-High-Temperature Mica Washers' to skip list
+2025-04-16 14:23:32,528 - INFO - 
+Processing item 17/62
+2025-04-16 14:23:32,528 - INFO -   Title: Ultra-High-Temperature Ceramic Washers
+2025-04-16 14:23:32,528 - INFO -   Products: 29 products
+2025-04-16 14:23:32,528 - INFO -   Opening: https://www.mcmaster.com/products/standard-washers/ultra-high-temperature-ceramic-washers~~/
+2025-04-16 14:23:38,674 - INFO - Updated skip list saved with 150 items
+2025-04-16 14:23:38,675 - INFO -   Added 'Ultra-High-Temperature Ceramic Washers' to skip list
+2025-04-16 14:23:39,908 - INFO - 
+Processing item 18/62
+2025-04-16 14:23:39,908 - INFO -   Title: Finish-Your-Own Washers
+2025-04-16 14:23:39,908 - INFO -   Products: 66 products
+2025-04-16 14:23:39,909 - INFO -   Opening: https://www.mcmaster.com/products/standard-washers/finish-your-own-washers~~/
+2025-04-16 14:23:46,356 - INFO - Updated skip list saved with 151 items
+2025-04-16 14:23:46,356 - INFO -   Added 'Finish-Your-Own Washers' to skip list
+2025-04-16 14:23:47,575 - INFO - 
+Processing item 19/62
+2025-04-16 14:23:47,575 - INFO -   Title: Self-Retaining Washers
+2025-04-16 14:23:47,575 - INFO -   Products: 55 products
+2025-04-16 14:23:47,575 - INFO -   Opening: https://www.mcmaster.com/products/standard-washers/self-retaining-washers~~/
+2025-04-16 14:23:54,234 - INFO - Updated skip list saved with 152 items
+2025-04-16 14:23:54,234 - INFO -   Added 'Self-Retaining Washers' to skip list
+2025-04-16 14:23:55,459 - INFO - 
+Processing item 20/62
+2025-04-16 14:23:55,460 - INFO -   Title: Adhesive-Back Washers
+2025-04-16 14:23:55,460 - INFO -   Products: 19 products
+2025-04-16 14:23:55,460 - INFO -   Opening: https://www.mcmaster.com/products/standard-washers/adhesive-back-washers~~/
+2025-04-16 14:24:01,768 - INFO - Updated skip list saved with 153 items
+2025-04-16 14:24:01,768 - INFO -   Added 'Adhesive-Back Washers' to skip list
+2025-04-16 14:24:02,996 - INFO - 
+Processing item 21/62
+2025-04-16 14:24:02,996 - INFO -   Title: Magnetic Washers
+2025-04-16 14:24:02,996 - INFO -   Products: 9 products
+2025-04-16 14:24:02,996 - INFO -   Opening: https://www.mcmaster.com/products/standard-washers/magnetic-washers~~/
+2025-04-16 14:24:09,437 - INFO - Updated skip list saved with 154 items
+2025-04-16 14:24:09,437 - INFO -   Added 'Magnetic Washers' to skip list
+2025-04-16 14:24:10,610 - INFO - 
+Processing item 22/62
+2025-04-16 14:24:10,610 - INFO -   Title: General Purpose Washer Assortments
+2025-04-16 14:24:10,610 - INFO -   Products: 5 products
+2025-04-16 14:24:10,610 - INFO -   Opening: https://www.mcmaster.com/products/standard-washers/general-purpose-washer-assortments-1~~/
+2025-04-16 14:24:16,845 - INFO - Updated skip list saved with 155 items
+2025-04-16 14:24:16,845 - INFO -   Added 'General Purpose Washer Assortments' to skip list
+2025-04-16 14:24:18,014 - INFO - 
+Processing item 23/62
+2025-04-16 14:24:18,014 - INFO -   Title: Oversized Washer Assortments
+2025-04-16 14:24:18,014 - INFO -   Products: 3 products
+2025-04-16 14:24:18,014 - INFO -   Opening: https://www.mcmaster.com/products/standard-washers/oversized-washer-assortments-2~~/
+2025-04-16 14:24:24,535 - INFO - Updated skip list saved with 156 items
+2025-04-16 14:24:24,535 - INFO -   Added 'Oversized Washer Assortments' to skip list
+2025-04-16 14:24:25,724 - INFO - 
+Processing item 24/62
+2025-04-16 14:24:25,724 - INFO -   Title: SAE Washer Assortments
+2025-04-16 14:24:25,724 - INFO -   Products: 3 products
+2025-04-16 14:24:25,724 - INFO -   Opening: https://www.mcmaster.com/products/standard-washers/sae-washer-assortments-1~~/
+2025-04-16 14:24:32,094 - INFO - Updated skip list saved with 157 items
+2025-04-16 14:24:32,094 - INFO -   Added 'SAE Washer Assortments' to skip list
+2025-04-16 14:24:33,260 - INFO - 
+Processing item 25/62
+2025-04-16 14:24:33,260 - INFO -   Title: USS Washer Assortments
+2025-04-16 14:24:33,260 - INFO -   Products: 1 product
+2025-04-16 14:24:33,260 - INFO -   Opening: https://www.mcmaster.com/products/standard-washers/uss-washer-assortments-2~~/
+2025-04-16 14:24:39,657 - INFO - Updated skip list saved with 158 items
+2025-04-16 14:24:39,657 - INFO -   Added 'USS Washer Assortments' to skip list
+2025-04-16 14:24:40,886 - INFO - 
+Processing item 26/62
+2025-04-16 14:24:40,886 - INFO -   Title: Plastic Washer Assortments
+2025-04-16 14:24:40,886 - INFO -   Products: 1 product
+2025-04-16 14:24:40,886 - INFO -   Opening: https://www.mcmaster.com/products/standard-washers/plastic-washer-assortments-1~~/
+2025-04-16 14:24:45,786 - INFO - Driver closed successfully

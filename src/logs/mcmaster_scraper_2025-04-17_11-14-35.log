@@ -1,0 +1,270 @@
+2025-04-17 11:14:35,927 - INFO - ====== WebDriver manager ======
+2025-04-17 11:14:35,998 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-17 11:14:36,512 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-17 11:14:37,057 - INFO - Driver [/home/nandinidalsaniya/.wdm/drivers/chromedriver/linux64/135.0.7049.95/chromedriver-linux64/chromedriver] found in cache
+2025-04-17 11:14:42,869 - INFO - patching driver executable /home/nandinidalsaniya/.local/share/undetected_chromedriver/undetected_chromedriver
+2025-04-17 11:14:52,997 - INFO - Found 27 categories
+2025-04-17 11:14:52,997 - INFO - Current skip list has 1 items
+2025-04-17 11:14:53,047 - INFO -  Processing category : Fastening & Joining
+2025-04-17 11:14:53,076 - INFO -   Processing sub category 1: Fasteners
+2025-04-17 11:14:53,097 - INFO -    Processing sub category 2: Screws & Bolts
+2025-04-17 11:14:53,115 - INFO -    Processing item: Screws & Bolts (https://www.mcmaster.com/products/screws/)
+2025-04-17 11:14:56,389 - INFO -    Processing sub category 2: Threaded Rods & Studs
+2025-04-17 11:14:56,403 - INFO -    Processing item: Threaded Rods & Studs (https://www.mcmaster.com/products/threaded-rods/)
+2025-04-17 11:15:05,815 - INFO -    Processing sub category 2: Eyebolts
+2025-04-17 11:15:05,829 - INFO -    Processing item: Eyebolts (https://www.mcmaster.com/products/eyebolts/)
+2025-04-17 11:15:12,627 - INFO -    Processing sub category 2: U-Bolts
+2025-04-17 11:15:12,640 - INFO -    Processing item: U-Bolts (https://www.mcmaster.com/products/u-bolts/)
+2025-04-17 11:15:22,663 - INFO -    Processing sub category 2: Nuts
+2025-04-17 11:15:22,677 - INFO -    Processing item: Nuts (https://www.mcmaster.com/products/nuts/)
+2025-04-17 11:15:44,593 - INFO -    Processing sub category 2: Washers
+2025-04-17 11:15:44,607 - INFO -    Processing item: Washers (https://www.mcmaster.com/products/standard-washers/)
+2025-04-17 11:16:03,648 - INFO -    Processing sub category 2: Shims
+2025-04-17 11:16:03,662 - INFO -    Processing item: Shims (https://www.mcmaster.com/products/shims/)
+2025-04-17 11:16:14,972 - INFO -    Processing sub category 2: Helical & Threaded Inserts
+2025-04-17 11:16:14,986 - INFO -    Processing item: Helical & Threaded Inserts (https://www.mcmaster.com/products/threaded-inserts/)
+2025-04-17 11:16:24,429 - INFO -    Processing sub category 2: Spacers & Standoffs
+2025-04-17 11:16:24,443 - INFO -    Processing item: Spacers & Standoffs (https://www.mcmaster.com/products/spacers/)
+2025-04-17 11:16:44,698 - INFO -    Processing sub category 2: Pins
+2025-04-17 11:16:44,712 - INFO -    Processing item: Pins (https://www.mcmaster.com/products/pins/)
+2025-04-17 11:16:56,480 - INFO -    Processing sub category 2: Anchors
+2025-04-17 11:16:56,494 - INFO -    Processing item: Anchors (https://www.mcmaster.com/products/anchors/)
+2025-04-17 11:17:05,628 - INFO -    Processing sub category 2: Nails
+2025-04-17 11:17:05,642 - INFO -    Processing item: Nails (https://www.mcmaster.com/products/nails/)
+2025-04-17 11:17:17,174 - INFO -    Processing sub category 2: Nailers
+2025-04-17 11:17:17,188 - INFO -    Processing item: Nailers (https://www.mcmaster.com/products/nailers/)
+2025-04-17 11:17:23,116 - INFO -    Processing sub category 2: Rivets
+2025-04-17 11:17:23,130 - INFO -    Processing item: Rivets (https://www.mcmaster.com/products/rivets/)
+2025-04-17 11:17:34,240 - INFO -    Processing sub category 2: Rivet Tools
+2025-04-17 11:17:34,254 - INFO -    Processing item: Rivet Tools (https://www.mcmaster.com/products/rivet-installation-tools/)
+2025-04-17 11:17:47,203 - INFO -    Processing sub category 2: Staples
+2025-04-17 11:17:47,217 - INFO -    Processing item: Staples (https://www.mcmaster.com/products/staples/)
+2025-04-17 11:17:54,506 - INFO -    Processing sub category 2: Staplers
+2025-04-17 11:17:54,519 - INFO -    Processing item: Staplers (https://www.mcmaster.com/products/staplers/)
+2025-04-17 11:18:04,171 - INFO -    Processing sub category 2: Key Stock
+2025-04-17 11:18:04,185 - INFO -    Processing item: Key Stock (https://www.mcmaster.com/products/machine-keys/)
+2025-04-17 11:18:15,440 - INFO -    Processing sub category 2: Retaining Rings
+2025-04-17 11:18:15,453 - INFO -    Processing item: Retaining Rings (https://www.mcmaster.com/products/retaining-rings/)
+2025-04-17 11:18:26,713 - INFO -    Processing sub category 2: Cable Ties
+2025-04-17 11:18:26,726 - INFO -    Processing item: Cable Ties (https://www.mcmaster.com/products/cable-ties/)
+2025-04-17 11:18:31,800 - INFO -    Processing sub category 2: Lanyards
+2025-04-17 11:18:31,814 - INFO -    Processing item: Lanyards (https://www.mcmaster.com/products/lanyards/)
+2025-04-17 11:18:37,265 - INFO -    Processing sub category 2: Magnets
+2025-04-17 11:18:37,279 - INFO -    Processing item: Magnets (https://www.mcmaster.com/products/magnets/)
+2025-04-17 11:18:43,733 - INFO -   Processing sub category 1: Adhesives & Tape
+2025-04-17 11:18:43,753 - INFO -    Processing sub category 2: Adhesives
+2025-04-17 11:18:43,770 - INFO -    Processing item: Adhesives (https://www.mcmaster.com/products/adhesives/)
+2025-04-17 11:18:50,875 - INFO -    Processing sub category 2: Tape
+2025-04-17 11:18:50,888 - INFO -    Processing item: Tape (https://www.mcmaster.com/products/fastening-tape/)
+2025-04-17 11:18:56,531 - INFO -    Processing sub category 2: Hook & Loop
+2025-04-17 11:18:56,545 - INFO -    Processing item: Hook & Loop (https://www.mcmaster.com/products/hook-and-loop/)
+2025-04-17 11:19:00,546 - INFO -   Processing sub category 1: Welding, Brazing & Soldering
+2025-04-17 11:19:00,567 - INFO -    Processing sub category 2: Electrodes & Wire
+2025-04-17 11:19:00,584 - INFO -    Processing item: Electrodes & Wire (https://www.mcmaster.com/products/welding-electrodes/)
+2025-04-17 11:19:05,131 - INFO -    Processing sub category 2: Welders
+2025-04-17 11:19:05,150 - INFO -    Processing item: Welders (https://www.mcmaster.com/products/welders/)
+2025-04-17 11:19:23,488 - INFO -    Processing sub category 2: Gas Regulators
+2025-04-17 11:19:23,506 - INFO -    Processing item: Gas Regulators (https://www.mcmaster.com/products/welding-gas-regulators/)
+2025-04-17 11:19:36,030 - INFO -    Processing sub category 2: Welding Gloves
+2025-04-17 11:19:36,053 - INFO -    Processing item: Welding Gloves (https://www.mcmaster.com/products/welding-gloves/)
+2025-04-17 11:19:42,529 - INFO -    Processing sub category 2: Welding Helmets & Glasses
+2025-04-17 11:19:42,542 - INFO -    Processing item: Welding Helmets & Glasses (https://www.mcmaster.com/products/welding-eye-protectors/)
+2025-04-17 11:19:52,931 - INFO -    Processing sub category 2: Protective Screens
+2025-04-17 11:19:52,944 - INFO -    Processing item: Protective Screens (https://www.mcmaster.com/products/protective-screens/)
+2025-04-17 11:20:00,690 - INFO -    Processing sub category 2: Brazing Alloys
+2025-04-17 11:20:00,711 - INFO -    Processing item: Brazing Alloys (https://www.mcmaster.com/products/brazing-supplies/)
+2025-04-17 11:20:07,816 - INFO -    Processing sub category 2: Torches
+2025-04-17 11:20:07,830 - INFO -    Processing item: Torches (https://www.mcmaster.com/products/torches/)
+2025-04-17 11:20:13,698 - INFO -    Processing sub category 2: Solder
+2025-04-17 11:20:13,711 - INFO -    Processing item: Solder (https://www.mcmaster.com/products/solder/)
+2025-04-17 11:20:19,208 - INFO -    Processing sub category 2: Soldering Irons
+2025-04-17 11:20:19,222 - INFO -    Processing item: Soldering Irons (https://www.mcmaster.com/products/soldering-irons/)
+2025-04-17 11:20:22,483 - INFO -    Processing sub category 2: Melting Pots
+2025-04-17 11:20:22,502 - INFO -    Processing item: Melting Pots (https://www.mcmaster.com/products/melting-pots/)
+2025-04-17 11:20:28,623 - INFO -  Processing category : Pipe, Tubing, Hose & Fittings
+2025-04-17 11:20:28,651 - INFO -   Processing sub category 1: 
+2025-04-17 11:20:28,670 - INFO -    Processing sub category 2: Pipe Fittings & Pipe
+2025-04-17 11:20:28,684 - INFO -    Processing item: Pipe Fittings & Pipe (https://www.mcmaster.com/products/standard-pipe-fittings/)
+2025-04-17 11:20:34,677 - INFO -    Processing sub category 2: Pipe Hangers
+2025-04-17 11:20:34,694 - INFO -    Processing item: Pipe Hangers (https://www.mcmaster.com/products/pipe-hangers/)
+2025-04-17 11:20:39,929 - INFO -    Processing sub category 2: Pipe Joints
+2025-04-17 11:20:39,943 - INFO -    Processing item: Pipe Joints (https://www.mcmaster.com/products/pipe-joints/)
+2025-04-17 11:20:45,295 - INFO -    Processing sub category 2: Pipe & Tube Repair Clamps
+2025-04-17 11:20:45,312 - INFO -    Processing item: Pipe & Tube Repair Clamps (https://www.mcmaster.com/products/pipe-repair-clamps/)
+2025-04-17 11:20:49,299 - INFO -    Processing sub category 2: Pipe Flange Spreaders
+2025-04-17 11:20:49,322 - INFO -    Processing item: Pipe Flange Spreaders (https://www.mcmaster.com/products/flange-spreaders/)
+2025-04-17 11:20:52,578 - INFO -    Processing sub category 2: Tubing
+2025-04-17 11:20:52,613 - INFO -    Processing item: Tubing (https://www.mcmaster.com/products/tubing/)
+2025-04-17 11:20:59,767 - INFO -    Processing sub category 2: Tube Fittings
+2025-04-17 11:20:59,785 - INFO -    Processing item: Tube Fittings (https://www.mcmaster.com/products/tube-fittings/)
+2025-04-17 11:21:02,939 - INFO -    Processing sub category 2: Tube Cutters
+2025-04-17 11:21:02,954 - INFO -    Processing item: Tube Cutters (https://www.mcmaster.com/products/tube-cutters/)
+2025-04-17 11:21:06,173 - INFO -    Processing sub category 2: Tube Flaring Tools
+2025-04-17 11:21:06,194 - INFO -    Processing item: Tube Flaring Tools (https://www.mcmaster.com/products/tube-flaring-tools/)
+2025-04-17 11:21:09,525 - INFO -    Processing sub category 2: Tube Benders
+2025-04-17 11:21:09,545 - INFO -    Processing item: Tube Benders (https://www.mcmaster.com/products/tube-benders/)
+2025-04-17 11:21:12,716 - INFO -    Processing sub category 2: Manifolds
+2025-04-17 11:21:12,730 - INFO -    Processing item: Manifolds (https://www.mcmaster.com/products/manifolds/)
+2025-04-17 11:21:15,878 - INFO -    Processing sub category 2: Hose
+2025-04-17 11:21:15,891 - INFO -    Processing item: Hose (https://www.mcmaster.com/products/hose/)
+2025-04-17 11:21:19,033 - INFO -    Processing sub category 2: Hose Fittings
+2025-04-17 11:21:19,047 - INFO -    Processing item: Hose Fittings (https://www.mcmaster.com/products/hose-fittings/)
+2025-04-17 11:21:22,216 - INFO -    Processing sub category 2: Hose Nozzles
+2025-04-17 11:21:22,230 - INFO -    Processing item: Hose Nozzles (https://www.mcmaster.com/products/hose-nozzles/)
+2025-04-17 11:21:25,441 - INFO -    Processing sub category 2: Hose & Tube Clamps
+2025-04-17 11:21:25,455 - INFO -    Processing item: Hose & Tube Clamps (https://www.mcmaster.com/products/hose-clamps/)
+2025-04-17 11:21:31,701 - INFO -    Processing sub category 2: Hose Reels
+2025-04-17 11:21:31,715 - INFO -    Processing item: Hose Reels (https://www.mcmaster.com/products/hose-reels/)
+2025-04-17 11:21:38,567 - INFO -    Processing sub category 2: Tank Fittings
+2025-04-17 11:21:38,580 - INFO -    Processing item: Tank Fittings (https://www.mcmaster.com/products/tank-fittings/)
+2025-04-17 11:21:47,385 - INFO -  Processing category : Power Transmission
+2025-04-17 11:21:47,409 - INFO -   Processing sub category 1: Rotary Motion
+2025-04-17 11:21:47,430 - INFO -    Processing sub category 2: Bearings
+2025-04-17 11:21:47,444 - INFO -    Processing item: Bearings (https://www.mcmaster.com/products/rotary-bearings/)
+2025-04-17 11:21:52,390 - INFO -    Processing sub category 2: Bushings
+2025-04-17 11:21:52,403 - INFO -    Processing item: Bushings (https://www.mcmaster.com/products/bushings/)
+2025-04-17 11:21:56,298 - INFO -    Processing sub category 2: Bearing & Gear Pullers
+2025-04-17 11:21:56,323 - INFO -    Processing item: Bearing & Gear Pullers (https://www.mcmaster.com/products/gear-pullers/)
+2025-04-17 11:22:01,351 - INFO -    Processing sub category 2: Bearing Heaters
+2025-04-17 11:22:01,364 - INFO -    Processing item: Bearing Heaters (https://www.mcmaster.com/products/bearing-heaters/)
+2025-04-17 11:22:05,419 - INFO -    Processing sub category 2: Motors
+2025-04-17 11:22:05,439 - INFO -    Processing item: Motors (https://www.mcmaster.com/products/motors/)
+2025-04-17 11:22:11,221 - INFO -    Processing sub category 2: Speed Reducers
+2025-04-17 11:22:11,235 - INFO -    Processing item: Speed Reducers (https://www.mcmaster.com/products/speed-reducers/)
+2025-04-17 11:22:16,380 - INFO -    Processing sub category 2: Clutches
+2025-04-17 11:22:16,394 - INFO -    Processing item: Clutches (https://www.mcmaster.com/products/clutches/)
+2025-04-17 11:22:19,533 - INFO -    Processing sub category 2: Brake & Clutch Lining
+2025-04-17 11:22:19,546 - INFO -    Processing item: Brake & Clutch Lining (https://www.mcmaster.com/products/brake-lining/)
+2025-04-17 11:22:25,187 - INFO -    Processing sub category 2: Shafts
+2025-04-17 11:22:25,200 - INFO -    Processing item: Shafts (https://www.mcmaster.com/products/rotary-shafts/)
+2025-04-17 11:22:29,779 - INFO -    Processing sub category 2: Shaft Couplings
+2025-04-17 11:22:29,792 - INFO -    Processing item: Shaft Couplings (https://www.mcmaster.com/products/shaft-couplings/)
+2025-04-17 11:22:35,096 - INFO -    Processing sub category 2: Shaft Collars
+2025-04-17 11:22:35,110 - INFO -    Processing item: Shaft Collars (https://www.mcmaster.com/products/shaft-collars/)
+2025-04-17 11:22:40,820 - INFO -    Processing sub category 2: U-Joints
+2025-04-17 11:22:40,836 - INFO -    Processing item: U-Joints (https://www.mcmaster.com/products/universal-joints/)
+2025-04-17 11:22:46,048 - INFO -    Processing sub category 2: Key Stock
+2025-04-17 11:22:46,065 - INFO -    Processing item: Key Stock (https://www.mcmaster.com/products/machine-keys/)
+2025-04-17 11:22:49,285 - INFO -    Processing sub category 2: Pulleys
+2025-04-17 11:22:49,300 - INFO -    Processing item: Pulleys (https://www.mcmaster.com/products/pulleys/)
+2025-04-17 11:22:55,570 - INFO -    Processing sub category 2: Belts
+2025-04-17 11:22:55,584 - INFO -    Processing item: Belts (https://www.mcmaster.com/products/drive-belts/)
+2025-04-17 11:23:03,349 - INFO -    Processing sub category 2: Belt Gauges
+2025-04-17 11:23:03,362 - INFO -    Processing item: Belt Gauges (https://www.mcmaster.com/products/belt-tension-gauges/)
+2025-04-17 11:23:06,640 - INFO -    Processing sub category 2: Gears
+2025-04-17 11:23:06,655 - INFO -    Processing item: Gears (https://www.mcmaster.com/products/gears/)
+2025-04-17 11:23:13,283 - INFO -    Processing sub category 2: Chain
+2025-04-17 11:23:13,298 - INFO -    Processing item: Chain (https://www.mcmaster.com/products/roller-chain/)
+2025-04-17 11:23:16,432 - INFO -    Processing sub category 2: Chain Tools
+2025-04-17 11:23:16,446 - INFO -    Processing item: Chain Tools (https://www.mcmaster.com/products/chain-tools/)
+2025-04-17 11:23:19,577 - INFO -    Processing sub category 2: Chain Tensioners
+2025-04-17 11:23:19,590 - INFO -    Processing item: Chain Tensioners (https://www.mcmaster.com/products/chain-tensioners/)
+2025-04-17 11:23:22,728 - INFO -    Processing sub category 2: Sprockets
+2025-04-17 11:23:22,741 - INFO -    Processing item: Sprockets (https://www.mcmaster.com/products/sprockets/)
+2025-04-17 11:23:28,322 - INFO -    Processing sub category 2: Drive Rollers
+2025-04-17 11:23:28,340 - INFO -    Processing item: Drive Rollers (https://www.mcmaster.com/products/drive-rollers/)
+2025-04-17 11:23:38,516 - INFO -    Processing sub category 2: Track Rollers
+2025-04-17 11:23:38,529 - INFO -    Processing item: Track Rollers (https://www.mcmaster.com/products/track-rollers/)
+2025-04-17 11:23:42,737 - INFO -    Processing sub category 2: Turntables
+2025-04-17 11:23:42,765 - INFO -    Processing item: Turntables (https://www.mcmaster.com/products/turntables/)
+2025-04-17 11:23:47,279 - INFO -   Processing sub category 1: Linear Motion
+2025-04-17 11:23:47,298 - INFO -    Processing sub category 2: Actuators
+2025-04-17 11:23:47,316 - INFO -    Processing item: Actuators (https://www.mcmaster.com/products/linear-motion-actuators/)
+2025-04-17 11:23:53,785 - INFO -    Processing sub category 2: Bearings
+2025-04-17 11:23:53,799 - INFO -    Processing item: Bearings (https://www.mcmaster.com/products/linear-bearings/)
+2025-04-17 11:23:56,953 - INFO -    Processing sub category 2: Shafts
+2025-04-17 11:23:56,973 - INFO -    Processing item: Shafts (https://www.mcmaster.com/products/linear-shafts/)
+2025-04-17 11:24:03,056 - INFO -    Processing sub category 2: Shaft Collars
+2025-04-17 11:24:03,096 - INFO -    Processing item: Shaft Collars (https://www.mcmaster.com/products/shaft-collars/)
+2025-04-17 11:24:07,226 - INFO -    Processing sub category 2: Acme Threaded Rods
+2025-04-17 11:24:07,242 - INFO -    Processing item: Acme Threaded Rods (https://www.mcmaster.com/products/acme-threaded-rods/)
+2025-04-17 11:24:11,271 - INFO -    Processing sub category 2: Shock Absorbers
+2025-04-17 11:24:11,286 - INFO -    Processing item: Shock Absorbers (https://www.mcmaster.com/products/shock-absorbers/)
+2025-04-17 11:24:16,557 - INFO -    Processing sub category 2: Rod Ends
+2025-04-17 11:24:16,569 - INFO -    Processing item: Rod Ends (https://www.mcmaster.com/products/rod-ends/)
+2025-04-17 11:24:21,123 - INFO -    Processing sub category 2: Springs
+2025-04-17 11:24:21,137 - INFO -    Processing item: Springs (https://www.mcmaster.com/products/springs/)
+2025-04-17 11:24:24,493 - INFO -   Processing sub category 1: Hydraulics
+2025-04-17 11:24:24,517 - INFO -    Processing sub category 2: Pumps
+2025-04-17 11:24:24,535 - INFO -    Processing item: Pumps (https://www.mcmaster.com/products/hydraulic-pumps/)
+2025-04-17 11:24:29,873 - INFO -    Processing sub category 2: Valves
+2025-04-17 11:24:29,889 - INFO -    Processing item: Valves (https://www.mcmaster.com/products/hydraulic-valves/)
+2025-04-17 11:24:36,651 - INFO -    Processing sub category 2: Hose
+2025-04-17 11:24:36,665 - INFO -    Processing item: Hose (https://www.mcmaster.com/products/hydraulic-hose/)
+2025-04-17 11:24:43,780 - INFO -    Processing sub category 2: Hose Fittings
+2025-04-17 11:24:43,793 - INFO -    Processing item: Hose Fittings (https://www.mcmaster.com/products/hydraulic-hose-fittings/)
+2025-04-17 11:24:46,932 - INFO -    Processing sub category 2: Filters
+2025-04-17 11:24:46,945 - INFO -    Processing item: Filters (https://www.mcmaster.com/products/hydraulic-fluid-filters/)
+2025-04-17 11:24:50,084 - INFO -    Processing sub category 2: Oil
+2025-04-17 11:24:50,098 - INFO -    Processing item: Oil (https://www.mcmaster.com/products/hydraulic-oil/)
+2025-04-17 11:24:53,370 - INFO -    Processing sub category 2: Reservoirs
+2025-04-17 11:24:53,384 - INFO -    Processing item: Reservoirs (https://www.mcmaster.com/products/hydraulic-reservoirs/)
+2025-04-17 11:24:56,524 - INFO -   Processing sub category 1: Pneumatics
+2025-04-17 11:24:56,545 - INFO -    Processing sub category 2: Compressors
+2025-04-17 11:24:56,561 - INFO -    Processing item: Compressors (https://www.mcmaster.com/products/pneumatic-compressors/)
+2025-04-17 11:24:59,710 - INFO -    Processing sub category 2: Tanks
+2025-04-17 11:24:59,733 - INFO -    Processing item: Tanks (https://www.mcmaster.com/products/pneumatic-tanks/)
+2025-04-17 11:25:02,876 - INFO -    Processing sub category 2: Air Flow & Pressure Boosters
+2025-04-17 11:25:02,890 - INFO -    Processing item: Air Flow & Pressure Boosters (https://www.mcmaster.com/products/compressed-air-boosters/)
+2025-04-17 11:25:07,210 - INFO -    Processing sub category 2: Filter / Regulator / Lubricators (FRLs)
+2025-04-17 11:25:07,223 - INFO -    Processing item: Filter / Regulator / Lubricators (FRLs) (https://www.mcmaster.com/products/frls/)
+2025-04-17 11:25:10,681 - INFO -    Processing sub category 2: Dryers
+2025-04-17 11:25:10,695 - INFO -    Processing item: Dryers (https://www.mcmaster.com/products/pneumatic-dryers/)
+2025-04-17 11:25:17,636 - INFO -    Processing sub category 2: Moisture Separators & Drain Valves
+2025-04-17 11:25:17,649 - INFO -    Processing item: Moisture Separators & Drain Valves (https://www.mcmaster.com/products/moisture-removers/)
+2025-04-17 11:25:22,312 - INFO -    Processing sub category 2: Hose
+2025-04-17 11:25:22,325 - INFO -    Processing item: Hose (https://www.mcmaster.com/products/pneumatic-hose/)
+2025-04-17 11:25:30,816 - INFO -    Processing sub category 2: Quick-Disconnect Hose Couplings
+2025-04-17 11:25:30,829 - INFO -    Processing item: Quick-Disconnect Hose Couplings (https://www.mcmaster.com/products/quick-disconnect-hose-couplings/)
+2025-04-17 11:25:37,584 - INFO -    Processing sub category 2: Valves
+2025-04-17 11:25:37,598 - INFO -    Processing item: Valves (https://www.mcmaster.com/products/pneumatic-valves/)
+2025-04-17 11:25:41,073 - INFO -    Processing sub category 2: Mufflers
+2025-04-17 11:25:41,089 - INFO -    Processing item: Mufflers (https://www.mcmaster.com/products/pneumatic-mufflers/)
+2025-04-17 11:25:47,200 - INFO -    Processing sub category 2: Pressure Gauges
+2025-04-17 11:25:47,213 - INFO -    Processing item: Pressure Gauges (https://www.mcmaster.com/products/pressure-gauges/)
+2025-04-17 11:25:53,153 - INFO -  Processing category : Sealing
+2025-04-17 11:25:53,183 - INFO -   Processing sub category 1: 
+2025-04-17 11:25:53,199 - INFO -    Processing sub category 2: O-Rings
+2025-04-17 11:25:53,213 - INFO -    Processing item: O-Rings (https://www.mcmaster.com/products/o-rings/)
+2025-04-17 11:25:57,035 - INFO -    Processing sub category 2: Compression Packing
+2025-04-17 11:25:57,048 - INFO -    Processing item: Compression Packing (https://www.mcmaster.com/products/compression-packing/)
+2025-04-17 11:26:02,559 - INFO -    Processing sub category 2: Packing Tools
+2025-04-17 11:26:02,572 - INFO -    Processing item: Packing Tools (https://www.mcmaster.com/products/packing-tools/)
+2025-04-17 11:26:07,169 - INFO -    Processing sub category 2: Gaskets
+2025-04-17 11:26:07,183 - INFO -    Processing item: Gaskets (https://www.mcmaster.com/products/gaskets/)
+2025-04-17 11:26:14,545 - INFO -    Processing sub category 2: Mechanical Seals
+2025-04-17 11:26:14,559 - INFO -    Processing item: Mechanical Seals (https://www.mcmaster.com/products/mechanical-seals/)
+2025-04-17 11:26:19,889 - INFO -    Processing sub category 2: Weather- stripping
+2025-04-17 11:26:19,903 - INFO -    Processing item: Weather- stripping (https://www.mcmaster.com/products/door-weatherstripping/)
+2025-04-17 11:26:26,883 - INFO -    Processing sub category 2: Sealants
+2025-04-17 11:26:26,897 - INFO -    Processing item: Sealants (https://www.mcmaster.com/products/sealants/)
+2025-04-17 11:26:33,422 - INFO -  Processing category : Flow & Level Control
+2025-04-17 11:26:33,445 - INFO -   Processing sub category 1: Flow
+2025-04-17 11:26:33,464 - INFO -    Processing sub category 2: Pumps
+2025-04-17 11:26:33,478 - INFO -    Processing item: Pumps (https://www.mcmaster.com/products/flow-pumps/)
+2025-04-17 11:26:39,795 - INFO -    Processing sub category 2: Valves
+2025-04-17 11:26:39,849 - INFO -    Processing item: Valves (https://www.mcmaster.com/products/flow-valves/)
+2025-04-17 11:26:46,081 - INFO -    Processing sub category 2: Orifices
+2025-04-17 11:26:46,095 - INFO -    Processing item: Orifices (https://www.mcmaster.com/products/orifices/)
+2025-04-17 11:26:51,504 - INFO -    Processing sub category 2: Switches
+2025-04-17 11:26:51,527 - INFO -    Processing item: Switches (https://www.mcmaster.com/products/flow-switches/)
+2025-04-17 11:26:55,847 - INFO -    Processing sub category 2: Flowmeters
+2025-04-17 11:26:55,861 - INFO -    Processing item: Flowmeters (https://www.mcmaster.com/products/flowmeters/)
+2025-04-17 11:27:00,240 - INFO -    Processing sub category 2: Sights
+2025-04-17 11:27:00,257 - INFO -    Processing item: Sights (https://www.mcmaster.com/products/flow-sights/)
+2025-04-17 11:27:05,327 - INFO -    Processing sub category 2: 
+2025-04-17 11:27:05,343 - INFO -    Processing item:  (https://www.mcmaster.com/products/mixers/)
+2025-04-17 11:27:12,297 - INFO -    Processing sub category 2: 
+2025-04-17 11:27:12,311 - INFO -    Processing item:  (https://www.mcmaster.com/products/vibrators/)
+2025-04-17 11:27:16,800 - INFO -   Processing sub category 1: 
+2025-04-17 11:27:16,819 - INFO -    Processing sub category 2: 
+2025-04-17 11:27:16,838 - INFO -    Processing item:  (https://www.mcmaster.com/products/liquid-level-switches/)
+2025-04-17 11:27:21,092 - INFO -    Processing sub category 2: 
+2025-04-17 11:27:21,106 - INFO -    Processing item:  (https://www.mcmaster.com/products/liquid-level-indicators/)
+2025-04-17 11:27:26,114 - INFO -    Processing sub category 2: 
+2025-04-17 11:27:26,127 - INFO -    Processing item:  (https://www.mcmaster.com/products/liquid-level-gauges/)
+2025-04-17 11:27:30,321 - INFO -    Processing sub category 2: 
+2025-04-17 11:27:30,334 - INFO -    Processing item:  (https://www.mcmaster.com/products/glass-sights/)
+2025-04-17 11:27:36,502 - INFO -    Processing sub category 2: 
+2025-04-17 11:27:36,515 - INFO -    Processing item:  (https://www.mcmaster.com/products/floats/)
+2025-04-17 11:27:40,198 - INFO - Driver closed successfully

@@ -1,0 +1,87 @@
+2025-04-17 11:11:02,876 - INFO - ====== WebDriver manager ======
+2025-04-17 11:11:02,947 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-17 11:11:03,193 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-17 11:11:03,332 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-17 11:11:03,802 - INFO - WebDriver version 135.0.7049.95 selected
+2025-04-17 11:11:03,805 - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/135.0.7049.95/linux64/chromedriver-linux64.zip
+2025-04-17 11:11:03,805 - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/135.0.7049.95/linux64/chromedriver-linux64.zip
+2025-04-17 11:11:04,107 - INFO - Driver downloading response is 200
+2025-04-17 11:11:06,178 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-17 11:11:06,503 - INFO - Driver has been saved in cache [/home/nandinidalsaniya/.wdm/drivers/chromedriver/linux64/135.0.7049.95]
+2025-04-17 11:11:08,860 - INFO - patching driver executable /home/nandinidalsaniya/.local/share/undetected_chromedriver/undetected_chromedriver
+2025-04-17 11:11:17,471 - INFO - Found 27 categories
+2025-04-17 11:11:17,471 - INFO - Current skip list has 1 items
+2025-04-17 11:11:17,520 - INFO -  Processing category : Fastening & Joining
+2025-04-17 11:11:17,552 - INFO -   Processing sub category 1: Fasteners
+2025-04-17 11:11:17,572 - INFO -    Processing sub category 2: Screws & Bolts
+2025-04-17 11:11:17,590 - INFO -    Processing item: Screws & Bolts (https://www.mcmaster.com/products/screws/)
+2025-04-17 11:11:22,835 - INFO -    Processing sub category 2: Threaded Rods & Studs
+2025-04-17 11:11:22,848 - INFO -    Processing item: Threaded Rods & Studs (https://www.mcmaster.com/products/threaded-rods/)
+2025-04-17 11:11:27,991 - INFO -    Processing sub category 2: Eyebolts
+2025-04-17 11:11:28,005 - INFO -    Processing item: Eyebolts (https://www.mcmaster.com/products/eyebolts/)
+2025-04-17 11:11:34,555 - INFO -    Processing sub category 2: U-Bolts
+2025-04-17 11:11:34,568 - INFO -    Processing item: U-Bolts (https://www.mcmaster.com/products/u-bolts/)
+2025-04-17 11:11:39,899 - INFO -    Processing sub category 2: Nuts
+2025-04-17 11:11:39,917 - INFO -    Processing item: Nuts (https://www.mcmaster.com/products/nuts/)
+2025-04-17 11:11:46,967 - INFO -    Processing sub category 2: Washers
+2025-04-17 11:11:46,981 - INFO -    Processing item: Washers (https://www.mcmaster.com/products/standard-washers/)
+2025-04-17 11:11:52,134 - ERROR - Error in main run function: Message: invalid session id: session deleted as the browser has closed the connection
+from disconnected: not connected to DevTools
+  (Session info: chrome=135.0.7049.52)
+Stacktrace:
+#0 0x5f307465bcea <unknown>
+#1 0x5f307410c5f0 <unknown>
+#2 0x5f30740f248e <unknown>
+#3 0x5f307411b109 <unknown>
+#4 0x5f307418bf49 <unknown>
+#5 0x5f30741a8ffc <unknown>
+#6 0x5f3074183433 <unknown>
+#7 0x5f307414fea3 <unknown>
+#8 0x5f3074150b01 <unknown>
+#9 0x5f3074620b3b <unknown>
+#10 0x5f3074624a21 <unknown>
+#11 0x5f3074607c32 <unknown>
+#12 0x5f3074625594 <unknown>
+#13 0x5f30745ebeef <unknown>
+#14 0x5f3074649d98 <unknown>
+#15 0x5f3074649f76 <unknown>
+#16 0x5f307465ab36 <unknown>
+#17 0x793456094ac3 <unknown>
+
+Stack Trace:
+Traceback (most recent call last):
+  File "/home/nandinidalsaniya/mcmaster-scraper/src/scraper/scraper.py", line 684, in run
+    subcat_name2 = sc_it.text
+  File "/home/nandinidalsaniya/mcmaster-scraper/venv/lib/python3.10/site-packages/selenium/webdriver/remote/webelement.py", line 109, in text
+    return self._execute(Command.GET_ELEMENT_TEXT)["value"]
+  File "/home/nandinidalsaniya/mcmaster-scraper/venv/lib/python3.10/site-packages/selenium/webdriver/remote/webelement.py", line 572, in _execute
+    return self._parent.execute(command, params)
+  File "/home/nandinidalsaniya/mcmaster-scraper/venv/lib/python3.10/site-packages/selenium/webdriver/remote/webdriver.py", line 429, in execute
+    self.error_handler.check_response(response)
+  File "/home/nandinidalsaniya/mcmaster-scraper/venv/lib/python3.10/site-packages/selenium/webdriver/remote/errorhandler.py", line 232, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.InvalidSessionIdException: Message: invalid session id: session deleted as the browser has closed the connection
+from disconnected: not connected to DevTools
+  (Session info: chrome=135.0.7049.52)
+Stacktrace:
+#0 0x5f307465bcea <unknown>
+#1 0x5f307410c5f0 <unknown>
+#2 0x5f30740f248e <unknown>
+#3 0x5f307411b109 <unknown>
+#4 0x5f307418bf49 <unknown>
+#5 0x5f30741a8ffc <unknown>
+#6 0x5f3074183433 <unknown>
+#7 0x5f307414fea3 <unknown>
+#8 0x5f3074150b01 <unknown>
+#9 0x5f3074620b3b <unknown>
+#10 0x5f3074624a21 <unknown>
+#11 0x5f3074607c32 <unknown>
+#12 0x5f3074625594 <unknown>
+#13 0x5f30745ebeef <unknown>
+#14 0x5f3074649d98 <unknown>
+#15 0x5f3074649f76 <unknown>
+#16 0x5f307465ab36 <unknown>
+#17 0x793456094ac3 <unknown>
+
+
+2025-04-17 11:11:52,155 - INFO - Driver closed successfully

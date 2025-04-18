@@ -1,0 +1,183 @@
+2025-04-17 16:44:16,933 - INFO - ====== WebDriver manager ======
+2025-04-17 16:44:17,004 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-17 16:44:17,218 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-17 16:44:17,394 - INFO - Driver [/home/nandinidalsaniya/.wdm/drivers/chromedriver/linux64/135.0.7049.95/chromedriver-linux64/chromedriver] found in cache
+2025-04-17 16:44:22,880 - INFO - patching driver executable /home/nandinidalsaniya/.local/share/undetected_chromedriver/undetected_chromedriver
+2025-04-17 16:44:43,240 - INFO - Found 27 categories
+2025-04-17 16:44:43,240 - INFO - Current skip list has 64 items
+2025-04-17 16:44:43,274 - INFO -  Processing category : Raw Materials
+2025-04-17 16:44:43,306 - INFO -   Processing sub category 1: 
+2025-04-17 16:44:43,327 - INFO -    Processing sub category 2: Expanded Metal
+2025-04-17 16:44:43,346 - INFO -    Processing item: Expanded Metal (https://www.mcmaster.com/products/expanded-metal/)
+2025-04-17 16:44:43,346 - INFO -     Skipping Raw Materials/Expanded Metal - found in skip list
+2025-04-17 16:44:43,355 - INFO -    Processing sub category 2: Plastics
+2025-04-17 16:44:43,371 - INFO -    Processing item: Plastics (https://www.mcmaster.com/products/plastics/)
+2025-04-17 16:44:51,120 - INFO -       [Subcategory index page detected]
+2025-04-17 16:44:51,147 - INFO - Found 31 subcategory items to process
+2025-04-17 16:44:51,238 - INFO -     Processing item 1/31
+2025-04-17 16:44:51,238 - INFO -   Sub Category 3: Plastic
+2025-04-17 16:44:51,238 - INFO -   Products: 9,099 products
+2025-04-17 16:44:51,239 - INFO -   Opening: https://www.mcmaster.com/products/plastics/plastic-1~/
+2025-04-17 16:44:51,297 - INFO - --- Switched to new tab 
+2025-04-17 16:44:59,493 - INFO -   [Types index page detected]
+2025-04-17 16:44:59,647 - INFO - Found 22 type groups to process
+2025-04-17 16:44:59,676 - INFO - Processing group 1/22: Slippery UHMW Polyethylene
+2025-04-17 16:44:59,677 - INFO -   Contains 21 products
+2025-04-17 16:44:59,704 - INFO - --- Product title : Slippery UHMW Polyethylene
+Sheets, Bars, and Strips ---
+2025-04-17 16:44:59,744 - INFO - 
+  Product 1/21: Slippery UHMW Polyethylene
+Sheets, Bars, and Strips
+2025-04-17 16:44:59,745 - INFO -     Link: https://www.mcmaster.com/products/plastics/plastic-1~/slippery-uhmw-polyethylene-sheets-bars-and-strips/
+2025-04-17 16:44:59,745 - INFO -     Image: https://www.mcmaster.com/mvC/Contents/gfx/ImageCache/875/8752k115p4-j03-digital@100p_636894706751752183.png?ver=ImageNotFound
+2025-04-17 16:44:59,745 - INFO -     Description: In addition to a low-friction surface that prevent...
+2025-04-17 16:45:08,528 - INFO - Found 2 sections to process
+2025-04-17 16:45:08,646 - INFO - Processing product: Slippery UHMW Polyethylene Sheets, Bars, and Strips
+2025-04-17 16:45:08,646 - INFO - Found 10 tables to extract
+2025-04-17 16:47:01,477 - INFO -   Extracted table 1/10
+2025-04-17 16:47:16,831 - INFO -   Extracted table 2/10
+2025-04-17 16:47:17,271 - INFO -   Extracted table 3/10
+2025-04-17 16:47:19,774 - INFO -   Extracted table 4/10
+2025-04-17 16:47:45,315 - INFO -   Extracted table 5/10
+2025-04-17 16:47:46,966 - INFO -   Extracted table 6/10
+2025-04-17 16:47:51,691 - INFO -   Extracted table 7/10
+2025-04-17 16:47:55,672 - INFO -   Extracted table 8/10
+2025-04-17 16:47:56,327 - INFO -   Extracted table 9/10
+2025-04-17 16:48:00,829 - INFO -   Extracted table 10/10
+2025-04-17 16:48:00,829 - INFO - Saving product data to database...
+2025-04-17 16:48:00,838 - INFO - Successfully saved: Slippery UHMW Polyethylene Sheets, Bars, and Strips
+2025-04-17 16:48:00,838 - INFO - Updated skip list saved with 65 items
+2025-04-17 16:48:00,838 - INFO - Added 'Slippery UHMW Polyethylene Sheets, Bars, and Strips' to skip list
+2025-04-17 16:48:01,984 - INFO - --- Product title : Slippery UHMW Polyethylene Rods and Discs ---
+2025-04-17 16:48:02,028 - INFO - 
+  Product 2/21: Slippery UHMW Polyethylene Rods and Discs
+2025-04-17 16:48:02,028 - INFO -     Link: https://www.mcmaster.com/products/plastics/plastic-1~/slippery-uhmw-polyethylene-rods-and-discs/
+2025-04-17 16:48:02,028 - INFO -     Image: https://www.mcmaster.com/mvC/Contents/gfx/ImageCache/870/8701k45p1-j03-digital@100p_636894707724238095.png?ver=ImageNotFound
+2025-04-17 16:48:02,028 - INFO -     Description: In addition to a low-friction surface that prevent...
+2025-04-17 16:48:10,849 - INFO - Found 2 sections to process
+2025-04-17 16:48:10,962 - INFO - Processing product: Slippery UHMW Polyethylene Rods and Discs
+2025-04-17 16:48:10,962 - INFO - Found 2 tables to extract
+2025-04-17 16:48:13,854 - INFO -   Extracted table 1/2
+2025-04-17 16:48:14,670 - INFO -   Extracted table 2/2
+2025-04-17 16:48:14,671 - INFO - Saving product data to database...
+2025-04-17 16:48:14,672 - INFO - Successfully saved: Slippery UHMW Polyethylene Rods and Discs
+2025-04-17 16:48:14,672 - INFO - Updated skip list saved with 66 items
+2025-04-17 16:48:14,672 - INFO - Added 'Slippery UHMW Polyethylene Rods and Discs' to skip list
+2025-04-17 16:48:15,797 - INFO - --- Product title : Slippery UHMW Polyethylene Tubes ---
+2025-04-17 16:48:15,832 - INFO - 
+  Product 3/21: Slippery UHMW Polyethylene Tubes
+2025-04-17 16:48:15,833 - INFO -     Link: https://www.mcmaster.com/products/plastics/plastic-1~/slippery-uhmw-polyethylene-tubes/
+2025-04-17 16:48:15,833 - INFO -     Image: https://www.mcmaster.com/mvC/Contents/gfx/ImageCache/870/8705k14p1-j03-digital@100p_636970660321159322.png?ver=ImageNotFound
+2025-04-17 16:48:15,833 - INFO -     Description: In addition to a low-friction surface that prevent...
+2025-04-17 16:48:20,380 - INFO - Found 2 sections to process
+2025-04-17 16:48:20,475 - INFO - Processing product: Slippery UHMW Polyethylene Tubes
+2025-04-17 16:48:20,475 - INFO - Found 2 tables to extract
+2025-04-17 16:48:23,875 - INFO -   Extracted table 1/2
+2025-04-17 16:48:24,627 - INFO -   Extracted table 2/2
+2025-04-17 16:48:24,627 - INFO - Saving product data to database...
+2025-04-17 16:48:24,628 - INFO - Successfully saved: Slippery UHMW Polyethylene Tubes
+2025-04-17 16:48:24,628 - INFO - Updated skip list saved with 67 items
+2025-04-17 16:48:24,628 - INFO - Added 'Slippery UHMW Polyethylene Tubes' to skip list
+2025-04-17 16:48:25,764 - INFO - --- Product title : Recycled Slippery UHMW
+Polyethylene Sheets and Bars ---
+2025-04-17 16:48:25,798 - INFO - 
+  Product 4/21: Recycled Slippery UHMW
+Polyethylene Sheets and Bars
+2025-04-17 16:48:25,799 - INFO -     Link: https://www.mcmaster.com/products/plastics/plastic-1~/recycled-slippery-uhmw-polyethylene-sheets-and-bars/
+2025-04-17 16:48:25,799 - INFO -     Image: https://www.mcmaster.com/mvC/Contents/gfx/ImageCache/429/4296a29p2-j03-digital@100p_636894690821781166.png?ver=ImageNotFound
+2025-04-17 16:48:25,799 - INFO -     Description: More sustainable than standard UHMW, these sheets ...
+2025-04-17 16:48:31,117 - INFO - Found 2 sections to process
+2025-04-17 16:48:31,212 - INFO - Processing product: Recycled Slippery UHMW Polyethylene Sheets and Bars
+2025-04-17 16:48:31,212 - INFO - Found 2 tables to extract
+2025-04-17 16:48:34,166 - INFO -   Extracted table 1/2
+2025-04-17 16:48:36,028 - INFO -   Extracted table 2/2
+2025-04-17 16:48:36,028 - INFO - Saving product data to database...
+2025-04-17 16:48:36,029 - INFO - Successfully saved: Recycled Slippery UHMW Polyethylene Sheets and Bars
+2025-04-17 16:48:36,029 - INFO - Updated skip list saved with 68 items
+2025-04-17 16:48:36,029 - INFO - Added 'Recycled Slippery UHMW Polyethylene Sheets and Bars' to skip list
+2025-04-17 16:48:37,151 - INFO - --- Product title : Slippery UHMW Polyethylene U-Channels ---
+2025-04-17 16:48:37,187 - INFO - 
+  Product 5/21: Slippery UHMW Polyethylene U-Channels
+2025-04-17 16:48:37,187 - INFO -     Link: https://www.mcmaster.com/products/plastics/plastic-1~/slippery-uhmw-polyethylene-u-channels/
+2025-04-17 16:48:37,187 - INFO -     Image: https://www.mcmaster.com/mvC/Contents/gfx/ImageCache/874/87495k41-@100p_636970654943198356.png?ver=ImageNotFound
+2025-04-17 16:48:37,187 - INFO -     Description: In addition to a low-friction surface that prevent...
+2025-04-17 16:48:42,977 - INFO - Found 2 sections to process
+2025-04-17 16:48:43,069 - INFO - Processing product: Slippery UHMW Polyethylene U-Channels
+2025-04-17 16:48:43,069 - INFO - Found 1 tables to extract
+2025-04-17 16:48:44,219 - INFO -   Extracted table 1/1
+2025-04-17 16:48:44,219 - INFO - Saving product data to database...
+2025-04-17 16:48:44,220 - INFO - Successfully saved: Slippery UHMW Polyethylene U-Channels
+2025-04-17 16:48:44,221 - INFO - Updated skip list saved with 69 items
+2025-04-17 16:48:44,221 - INFO - Added 'Slippery UHMW Polyethylene U-Channels' to skip list
+2025-04-17 16:48:45,346 - INFO - --- Product title : Slippery UHMW Polyethylene 90° Angles ---
+2025-04-17 16:48:45,382 - INFO - 
+  Product 6/21: Slippery UHMW Polyethylene 90° Angles
+2025-04-17 16:48:45,382 - INFO -     Link: https://www.mcmaster.com/products/plastics/plastic-1~/slippery-uhmw-polyethylene-90-angles/
+2025-04-17 16:48:45,382 - INFO -     Image: https://www.mcmaster.com/mvC/Contents/gfx/ImageCache/985/9852k372p1-j03-digital@100p_636970548208847672.png?ver=ImageNotFound
+2025-04-17 16:48:45,382 - INFO -     Description: In addition to a low-friction surface that prevent...
+2025-04-17 16:48:50,145 - INFO - Found 2 sections to process
+2025-04-17 16:48:50,252 - INFO - Processing product: Slippery UHMW Polyethylene 90° Angles
+2025-04-17 16:48:50,252 - INFO - Found 1 tables to extract
+2025-04-17 16:48:51,372 - INFO -   Extracted table 1/1
+2025-04-17 16:48:51,372 - INFO - Saving product data to database...
+2025-04-17 16:48:51,373 - INFO - Successfully saved: Slippery UHMW Polyethylene 90° Angles
+2025-04-17 16:48:51,373 - INFO - Updated skip list saved with 70 items
+2025-04-17 16:48:51,374 - INFO - Added 'Slippery UHMW Polyethylene 90° Angles' to skip list
+2025-04-17 16:48:52,512 - INFO - --- Product title : Slippery UHMW Polyethylene Film ---
+2025-04-17 16:48:52,549 - INFO - 
+  Product 7/21: Slippery UHMW Polyethylene Film
+2025-04-17 16:48:52,549 - INFO -     Link: https://www.mcmaster.com/products/plastics/plastic-1~/slippery-uhmw-polyethylene-film/
+2025-04-17 16:48:52,549 - INFO -     Image: https://www.mcmaster.com/mvC/Contents/gfx/ImageCache/856/85655k131p1-j03-digital@100p_636894703490492825.png?ver=ImageNotFound
+2025-04-17 16:48:52,549 - INFO -     Description: In addition to a low-friction surface that prevent...
+2025-04-17 16:48:57,142 - INFO - Found 2 sections to process
+2025-04-17 16:48:57,281 - INFO - Processing product: Slippery UHMW Polyethylene Film
+2025-04-17 16:48:57,282 - INFO - Found 3 tables to extract
+2025-04-17 16:48:58,050 - INFO -   Extracted table 1/3
+2025-04-17 16:48:58,799 - INFO -   Extracted table 2/3
+2025-04-17 16:48:59,547 - INFO -   Extracted table 3/3
+2025-04-17 16:48:59,548 - INFO - Saving product data to database...
+2025-04-17 16:48:59,549 - INFO - Successfully saved: Slippery UHMW Polyethylene Film
+2025-04-17 16:48:59,549 - INFO - Updated skip list saved with 71 items
+2025-04-17 16:48:59,549 - INFO - Added 'Slippery UHMW Polyethylene Film' to skip list
+2025-04-17 16:49:00,674 - INFO - --- Product title : Antistatic Slippery UHMW
+Polyethylene Sheets and Bars ---
+2025-04-17 16:49:00,706 - INFO - 
+  Product 8/21: Antistatic Slippery UHMW
+Polyethylene Sheets and Bars
+2025-04-17 16:49:00,706 - INFO -     Link: https://www.mcmaster.com/products/plastics/plastic-1~/antistatic-slippery-uhmw-polyethylene-sheets-and-bars/
+2025-04-17 16:49:00,706 - INFO -     Image: https://www.mcmaster.com/mvC/Contents/gfx/ImageCache/429/4296a29p2-j03-digital@100p_636894690821781166.png?ver=ImageNotFound
+2025-04-17 16:49:00,706 - INFO -     Description: This material suppresses static charges to prevent...
+2025-04-17 16:49:07,550 - INFO - Found 2 sections to process
+2025-04-17 16:49:07,657 - INFO - Processing product: Antistatic Slippery UHMW Polyethylene Sheets and Bars
+2025-04-17 16:49:07,657 - INFO - Found 4 tables to extract
+2025-04-17 16:49:11,942 - INFO -   Extracted table 1/4
+2025-04-17 16:49:13,945 - INFO -   Extracted table 2/4
+2025-04-17 16:49:19,817 - INFO -   Extracted table 3/4
+2025-04-17 16:49:21,807 - INFO -   Extracted table 4/4
+2025-04-17 16:49:21,807 - INFO - Saving product data to database...
+2025-04-17 16:49:21,809 - INFO - Successfully saved: Antistatic Slippery UHMW Polyethylene Sheets and Bars
+2025-04-17 16:49:21,809 - INFO - Updated skip list saved with 72 items
+2025-04-17 16:49:21,809 - INFO - Added 'Antistatic Slippery UHMW Polyethylene Sheets and Bars' to skip list
+2025-04-17 16:49:22,931 - INFO - --- Product title : Antistatic Slippery UHMW Polyethylene Rods ---
+2025-04-17 16:49:22,972 - INFO - 
+  Product 9/21: Antistatic Slippery UHMW Polyethylene Rods
+2025-04-17 16:49:22,972 - INFO -     Link: https://www.mcmaster.com/products/plastics/plastic-1~/antistatic-slippery-uhmw-polyethylene-rods/
+2025-04-17 16:49:22,972 - INFO -     Image: https://www.mcmaster.com/mvC/Contents/gfx/ImageCache/855/8554k4p1-j03-digital@100p_636970664695796548.png?ver=ImageNotFound
+2025-04-17 16:49:22,972 - INFO -     Description: This material suppresses static charges to prevent...
+2025-04-17 16:49:28,532 - INFO - Found 2 sections to process
+2025-04-17 16:49:28,635 - INFO - Processing product: Antistatic Slippery UHMW Polyethylene Rods
+2025-04-17 16:49:28,635 - INFO - Found 1 tables to extract
+2025-04-17 16:49:30,436 - INFO -   Extracted table 1/1
+2025-04-17 16:49:30,436 - INFO - Saving product data to database...
+2025-04-17 16:49:30,437 - INFO - Successfully saved: Antistatic Slippery UHMW Polyethylene Rods
+2025-04-17 16:49:30,437 - INFO - Updated skip list saved with 73 items
+2025-04-17 16:49:30,437 - INFO - Added 'Antistatic Slippery UHMW Polyethylene Rods' to skip list
+2025-04-17 16:49:31,562 - INFO - --- Product title : Recycled Antistatic Slippery
+UHMW Polyethylene Sheets ---
+2025-04-17 16:49:31,597 - INFO - 
+  Product 10/21: Recycled Antistatic Slippery
+UHMW Polyethylene Sheets
+2025-04-17 16:49:31,597 - INFO -     Link: https://www.mcmaster.com/products/plastics/plastic-1~/recycled-antistatic-slippery-uhmw-polyethylene-sheets/
+2025-04-17 16:49:31,597 - INFO -     Image: https://www.mcmaster.com/mvC/Contents/gfx/ImageCache/429/4296a29p2-j03-digital@100p_636894690821781166.png?ver=ImageNotFound
+2025-04-17 16:49:31,597 - INFO -     Description: Made with carbon black, these recycled UHMW sheets...
+2025-04-17 16:49:35,064 - INFO - Driver closed successfully

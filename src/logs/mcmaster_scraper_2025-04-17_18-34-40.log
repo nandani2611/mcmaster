@@ -1,0 +1,39 @@
+2025-04-17 18:34:40,377 - INFO - ====== WebDriver manager ======
+2025-04-17 18:34:40,449 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-17 18:34:40,605 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-17 18:34:40,754 - INFO - Driver [/home/nandinidalsaniya/.wdm/drivers/chromedriver/linux64/135.0.7049.95/chromedriver-linux64/chromedriver] found in cache
+2025-04-17 18:34:42,455 - INFO - patching driver executable /home/nandinidalsaniya/.local/share/undetected_chromedriver/undetected_chromedriver
+2025-04-17 18:34:56,070 - INFO - Found 27 categories
+2025-04-17 18:34:56,070 - INFO - Current skip list has 2 items
+2025-04-17 18:34:56,123 - INFO -  Processing category : Fastening & Joining
+2025-04-17 18:34:56,156 - INFO -   Processing sub category 1: Fasteners
+2025-04-17 18:34:56,180 - INFO -    Processing sub category 2: Screws & Bolts
+2025-04-17 18:34:56,199 - INFO -    Processing item: Screws & Bolts (https://www.mcmaster.com/products/screws/)
+2025-04-17 18:35:02,656 - INFO -       [Subcategory index page detected]
+2025-04-17 18:35:02,701 - INFO - Found 99 subcategory items to process
+2025-04-17 18:35:02,822 - INFO -     Processing item 1/99
+2025-04-17 18:35:02,822 - INFO -   Sub Category 3: Socket Head Screws
+2025-04-17 18:35:02,822 - INFO -   Products: 7,873 products
+2025-04-17 18:35:02,822 - INFO -   Opening: https://www.mcmaster.com/products/screws/socket-head-screws-2~/
+2025-04-17 18:35:02,874 - INFO - --- Switched to new tab 
+2025-04-17 18:35:09,052 - INFO -   [Product page detected]
+2025-04-17 18:35:11,154 - INFO - Found 3 sections to process
+2025-04-17 18:35:21,469 - WARNING - No tables found for product: About Socket Head Screws
+2025-04-17 18:35:21,469 - INFO - Saving product data to database...
+2025-04-17 18:35:21,471 - INFO - Successfully saved: About Socket Head Screws
+2025-04-17 18:35:32,152 - WARNING - No tables found for product: Socket Head Screws
+2025-04-17 18:35:32,152 - INFO - Saving product data to database...
+2025-04-17 18:35:32,153 - INFO - Successfully saved: Socket Head Screws
+2025-04-17 18:35:32,153 - INFO - Updated skip list saved with 3 items
+2025-04-17 18:35:32,153 - INFO - Added 'Socket Head Screws' to skip list
+2025-04-17 18:35:42,382 - WARNING - No tables found for product: Socket Head Screw Assortments
+2025-04-17 18:35:42,382 - INFO - Saving product data to database...
+2025-04-17 18:35:42,383 - INFO - Successfully saved: Socket Head Screw Assortments
+2025-04-17 18:35:42,383 - INFO - Updated skip list saved with 4 items
+2025-04-17 18:35:42,383 - INFO - Added 'Socket Head Screw Assortments' to skip list
+2025-04-17 18:35:43,603 - INFO -     Processing item 2/99
+2025-04-17 18:35:43,603 - INFO -   Sub Category 3: Rounded Head Screws
+2025-04-17 18:35:43,603 - INFO -   Products: 10,403 products
+2025-04-17 18:35:43,603 - INFO -   Opening: https://www.mcmaster.com/products/screws/rounded-head-screws-2~/
+2025-04-17 18:35:43,671 - INFO - --- Switched to new tab 
+2025-04-17 18:35:49,161 - INFO - Driver closed successfully

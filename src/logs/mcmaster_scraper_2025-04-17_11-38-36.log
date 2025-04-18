@@ -1,0 +1,32 @@
+2025-04-17 11:38:36,450 - INFO - ====== WebDriver manager ======
+2025-04-17 11:38:36,522 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-17 11:38:36,704 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-17 11:38:36,890 - INFO - Driver [/home/nandinidalsaniya/.wdm/drivers/chromedriver/linux64/135.0.7049.95/chromedriver-linux64/chromedriver] found in cache
+2025-04-17 11:38:38,463 - INFO - patching driver executable /home/nandinidalsaniya/.local/share/undetected_chromedriver/undetected_chromedriver
+2025-04-17 11:38:50,618 - INFO - Found 27 categories
+2025-04-17 11:38:50,618 - INFO - Current skip list has 1 items
+2025-04-17 11:38:50,657 - INFO -  Processing category : Raw Materials
+2025-04-17 11:38:50,687 - INFO -   Processing sub category 1: 
+2025-04-17 11:38:50,710 - INFO -    Processing sub category 2: Metals
+2025-04-17 11:38:50,729 - INFO -    Processing item: Metals (https://www.mcmaster.com/products/metals/)
+2025-04-17 11:38:54,848 - INFO -       [Subcategory index page detected]
+2025-04-17 11:38:55,925 - INFO -    Processing sub category 2: Shim Stock
+2025-04-17 11:38:55,940 - INFO -    Processing item: Shim Stock (https://www.mcmaster.com/products/shim-stock/)
+2025-04-17 11:39:02,377 - INFO -       [Subcategory index page detected]
+2025-04-17 11:39:03,451 - INFO -    Processing sub category 2: Wire
+2025-04-17 11:39:03,464 - INFO -    Processing item: Wire (https://www.mcmaster.com/products/wire/)
+2025-04-17 11:39:14,740 - INFO -       [Subcategory index page detected]
+2025-04-17 11:39:15,811 - INFO -    Processing sub category 2: Wire Cloth
+2025-04-17 11:39:15,824 - INFO -    Processing item: Wire Cloth (https://www.mcmaster.com/products/wire-cloth/)
+2025-04-17 11:39:24,759 - INFO -    Processing sub category 2: Expanded Metal
+2025-04-17 11:39:24,773 - INFO -    Processing item: Expanded Metal (https://www.mcmaster.com/products/expanded-metal/)
+2025-04-17 11:39:29,332 - INFO -       [Contains direct Table page ]
+2025-04-17 11:39:30,405 - INFO -    Processing sub category 2: Plastics
+2025-04-17 11:39:30,418 - INFO -    Processing item: Plastics (https://www.mcmaster.com/products/plastics/)
+2025-04-17 11:39:34,761 - INFO -       [Subcategory index page detected]
+2025-04-17 11:39:35,837 - INFO -    Processing sub category 2: Ceramics
+2025-04-17 11:39:35,854 - INFO -    Processing item: Ceramics (https://www.mcmaster.com/products/ceramic/)
+2025-04-17 11:39:39,953 - INFO -       [Subcategory index page detected]
+2025-04-17 11:39:41,030 - INFO -    Processing sub category 2: Graphite
+2025-04-17 11:39:41,045 - INFO -    Processing item: Graphite (https://www.mcmaster.com/products/graphite/)
+2025-04-17 11:39:43,047 - INFO - Driver closed successfully

@@ -1,0 +1,15 @@
+2025-04-17 11:37:48,868 - INFO - ====== WebDriver manager ======
+2025-04-17 11:37:48,940 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-17 11:37:49,158 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-17 11:37:49,359 - INFO - Driver [/home/nandinidalsaniya/.wdm/drivers/chromedriver/linux64/135.0.7049.95/chromedriver-linux64/chromedriver] found in cache
+2025-04-17 11:37:52,022 - INFO - patching driver executable /home/nandinidalsaniya/.local/share/undetected_chromedriver/undetected_chromedriver
+2025-04-17 11:38:01,124 - INFO - Found 27 categories
+2025-04-17 11:38:01,125 - INFO - Current skip list has 1 items
+2025-04-17 11:38:01,187 - INFO -  Processing category : Electrical & Lighting
+2025-04-17 11:38:01,231 - INFO -   Processing sub category 1: Wiring & Connecting
+2025-04-17 11:38:01,252 - INFO -    Processing sub category 2: Wire & Cable
+2025-04-17 11:38:01,270 - INFO -    Processing item: Wire & Cable (https://www.mcmaster.com/products/standard-electrical-wire/)
+2025-04-17 11:38:05,383 - INFO -       [Subcategory index page detected]
+2025-04-17 11:38:06,462 - INFO -    Processing sub category 2: Plugs & Receptacles
+2025-04-17 11:38:06,476 - INFO -    Processing item: Plugs & Receptacles (https://www.mcmaster.com/products/electrical-plugs-and-receptacles/)
+2025-04-17 11:38:14,541 - INFO - Driver closed successfully

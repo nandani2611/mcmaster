@@ -1,0 +1,44 @@
+2025-04-17 15:21:04,383 - INFO - ====== WebDriver manager ======
+2025-04-17 15:21:04,455 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-17 15:21:04,623 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-17 15:21:04,771 - INFO - Driver [/home/nandinidalsaniya/.wdm/drivers/chromedriver/linux64/135.0.7049.95/chromedriver-linux64/chromedriver] found in cache
+2025-04-17 15:21:07,748 - INFO - patching driver executable /home/nandinidalsaniya/.local/share/undetected_chromedriver/undetected_chromedriver
+2025-04-17 15:21:19,596 - INFO - Found 27 categories
+2025-04-17 15:21:19,597 - INFO - Current skip list has 1 items
+2025-04-17 15:21:19,628 - INFO -  Processing category : Flow & Level Control
+2025-04-17 15:21:19,661 - INFO -   Processing sub category 1: Flow
+2025-04-17 15:21:19,682 - INFO -    Processing sub category 2: Pumps
+2025-04-17 15:21:19,701 - INFO -    Processing item: Pumps (https://www.mcmaster.com/products/flow-pumps/)
+2025-04-17 15:21:25,824 - INFO -       [Subcategory index page detected]
+2025-04-17 15:21:25,852 - INFO - Found 42 subcategory items to process
+2025-04-17 15:21:25,942 - INFO -     Processing item 1/42
+2025-04-17 15:21:25,942 - INFO -   Sub Category 3: Diaphragm Pumps
+2025-04-17 15:21:25,942 - INFO -   Products: 45 products
+2025-04-17 15:21:25,942 - INFO -   Opening: https://www.mcmaster.com/products/flow-pumps/diaphragm-pumps-2~/
+2025-04-17 15:21:32,607 - INFO - Updated skip list saved with 2 items
+2025-04-17 15:21:32,607 - INFO -   Added 'Diaphragm Pumps' to skip list
+2025-04-17 15:21:33,831 - INFO -     Processing item 2/42
+2025-04-17 15:21:33,831 - INFO -   Sub Category 3: Gear Pumps
+2025-04-17 15:21:33,831 - INFO -   Products: 41 products
+2025-04-17 15:21:33,831 - INFO -   Opening: https://www.mcmaster.com/products/flow-pumps/gear-pumps-2~/
+2025-04-17 15:21:40,299 - INFO - Updated skip list saved with 3 items
+2025-04-17 15:21:40,300 - INFO -   Added 'Gear Pumps' to skip list
+2025-04-17 15:21:41,472 - INFO -     Processing item 3/42
+2025-04-17 15:21:41,472 - INFO -   Sub Category 3: Drum Pumps
+2025-04-17 15:21:41,472 - INFO -   Products: 156 products
+2025-04-17 15:21:41,472 - INFO -   Opening: https://www.mcmaster.com/products/flow-pumps/drum-pumps-2~/
+2025-04-17 15:21:48,024 - INFO -   [Types index page detected]
+2025-04-17 15:21:48,075 - INFO - Found 5 type groups to process
+2025-04-17 15:21:48,109 - INFO - Processing group 1/5: Manual-Operated Drum Pumps
+2025-04-17 15:21:48,109 - INFO -   Contains 22 products
+2025-04-17 15:21:48,138 - INFO - --- Product title : Drum Pumps for Water and Chemicals ---
+2025-04-17 15:21:48,180 - INFO - 
+  Product 1/22: Drum Pumps for Water and Chemicals
+2025-04-17 15:21:48,180 - INFO -     Link: https://www.mcmaster.com/products/flow-pumps/drum-pumps-2~/drum-pumps-for-water-and-chemicals-9/
+2025-04-17 15:21:48,180 - INFO -     Image: https://www.mcmaster.com/mvC/Contents/gfx/ImageCache/257/2578k15p1-@100p_637212521862654856.png?ver=ImageNotFound
+2025-04-17 15:21:48,180 - INFO -     Description: Push the plunger to pump water, cleaners, and chem...
+2025-04-17 15:21:53,334 - INFO - Found 2 sections to process
+2025-04-17 15:21:53,555 - INFO - Processing product: Drum Pumps for Water and Chemicals
+2025-04-17 15:21:53,555 - INFO - Found 8 tables to extract
+2025-04-17 15:21:54,003 - INFO -   Extracted table 1/8
+2025-04-17 15:21:54,796 - INFO - Driver closed successfully
